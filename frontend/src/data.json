@@ -1,0 +1,3775 @@
+[
+  { "name": "107 Beauty", "brandUrl": "https://www.iherb.com/c/107-beauty" },
+  {
+    "name": "21st Century",
+    "brandUrl": "https://www.iherb.com/c/21st-century-health-care"
+  },
+  {
+    "name": "310 Nutrition",
+    "brandUrl": "https://www.iherb.com/c/310-nutrition"
+  },
+  { "name": "4th & Heart", "brandUrl": "https://www.iherb.com/c/4th-heart" },
+  { "name": "6AM Run", "brandUrl": "https://www.iherb.com/c/6am-run" },
+  { "name": "88 Acres", "brandUrl": "https://www.iherb.com/c/88-acres" },
+  { "name": "9 Elements", "brandUrl": "https://www.iherb.com/c/9-elements" },
+  { "name": "999", "brandUrl": "https://www.iherb.com/c/999" },
+  { "name": "9Wishes", "brandUrl": "https://www.iherb.com/c/9wishes" },
+  {
+    "name": "A Dozen Cousins",
+    "brandUrl": "https://www.iherb.com/c/a-dozen-cousins"
+  },
+  {
+    "name": "A La Maison de Provence",
+    "brandUrl": "https://www.iherb.com/c/a-la-maison-de-provence"
+  },
+  {
+    "name": "A Taste Of Thai",
+    "brandUrl": "https://www.iherb.com/c/a-taste-of-thai"
+  },
+  { "name": "A Vogel", "brandUrl": "https://www.iherb.com/c/a-vogel" },
+  {
+    "name": "A.C. Grace Company",
+    "brandUrl": "https://www.iherb.com/c/a-c-grace-company"
+  },
+  { "name": "A'Pieu", "brandUrl": "https://www.iherb.com/c/apieu" },
+  { "name": "A+D", "brandUrl": "https://www.iherb.com/c/a-d" },
+  { "name": "Abib", "brandUrl": "https://www.iherb.com/c/abib" },
+  {
+    "name": "Abracadabra, Abra Therapeutics",
+    "brandUrl": "https://www.iherb.com/c/abracadabra-abra-therapeutics"
+  },
+  { "name": "Abreva", "brandUrl": "https://www.iherb.com/c/abreva" },
+  {
+    "name": "Absolute Nutrition",
+    "brandUrl": "https://www.iherb.com/c/absolute-nutrition"
+  },
+  { "name": "Act", "brandUrl": "https://www.iherb.com/c/act" },
+  { "name": "Action Labs", "brandUrl": "https://www.iherb.com/c/action-labs" },
+  { "name": "ACURE", "brandUrl": "https://www.iherb.com/c/acure" },
+  { "name": "Acwell", "brandUrl": "https://www.iherb.com/c/acwell" },
+  {
+    "name": "Admire My Skin",
+    "brandUrl": "https://www.iherb.com/c/admire-my-skin"
+  },
+  {
+    "name": "Advance Physician Formulas, Inc.",
+    "brandUrl": "https://www.iherb.com/c/advance-physician-formulas-inc"
+  },
+  {
+    "name": "Advanced Clinicals",
+    "brandUrl": "https://www.iherb.com/c/advanced-clinicals"
+  },
+  {
+    "name": "Advanced Naturals",
+    "brandUrl": "https://www.iherb.com/c/advanced-naturals"
+  },
+  {
+    "name": "Advanced Orthomolecular Research AOR",
+    "brandUrl": "https://www.iherb.com/c/advanced-orthomolecular-research"
+  },
+  { "name": "Advil", "brandUrl": "https://www.iherb.com/c/advil" },
+  { "name": "Afrin", "brandUrl": "https://www.iherb.com/c/afrin" },
+  { "name": "AfterSpa", "brandUrl": "https://www.iherb.com/c/afterspa" },
+  {
+    "name": "Ageless Foundation Laboratories",
+    "brandUrl": "https://www.iherb.com/c/ageless-foundation-laboratories"
+  },
+  { "name": "AirBorne", "brandUrl": "https://www.iherb.com/c/airborne" },
+  { "name": "Airspun", "brandUrl": "https://www.iherb.com/c/airspun" },
+  { "name": "Alaffia", "brandUrl": "https://www.iherb.com/c/alaffia" },
+  {
+    "name": "Alba Botanica",
+    "brandUrl": "https://www.iherb.com/c/alba-botanica"
+  },
+  { "name": "Alessi", "brandUrl": "https://www.iherb.com/c/alessi" },
+  {
+    "name": "Aleva Naturals",
+    "brandUrl": "https://www.iherb.com/c/aleva-naturals"
+  },
+  { "name": "Aleve", "brandUrl": "https://www.iherb.com/c/aleve" },
+  {
+    "name": "Align Probiotics",
+    "brandUrl": "https://www.iherb.com/c/align-probiotics"
+  },
+  {
+    "name": "Alikay Naturals",
+    "brandUrl": "https://www.iherb.com/c/alikay-naturals"
+  },
+  {
+    "name": "Alka-Seltzer",
+    "brandUrl": "https://www.iherb.com/c/alka-seltzer"
+  },
+  {
+    "name": "Alka-Seltzer Plus",
+    "brandUrl": "https://www.iherb.com/c/alka-seltzer-plus"
+  },
+  { "name": "Alkalife", "brandUrl": "https://www.iherb.com/c/alkalife" },
+  {
+    "name": "All Good Products",
+    "brandUrl": "https://www.iherb.com/c/all-good-products"
+  },
+  {
+    "name": "All One, Nutritech",
+    "brandUrl": "https://www.iherb.com/c/all-one-nutritech"
+  },
+  { "name": "All Terrain", "brandUrl": "https://www.iherb.com/c/all-terrain" },
+  {
+    "name": "Allergy Research Group",
+    "brandUrl": "https://www.iherb.com/c/allergy-research-group"
+  },
+  { "name": "Allimax", "brandUrl": "https://www.iherb.com/c/allimax" },
+  { "name": "ALLMAX", "brandUrl": "https://www.iherb.com/c/allmax" },
+  { "name": "Almased USA", "brandUrl": "https://www.iherb.com/c/almased-usa" },
+  { "name": "Almondina", "brandUrl": "https://www.iherb.com/c/almondina" },
+  { "name": "Aloha Bay", "brandUrl": "https://www.iherb.com/c/aloha-bay" },
+  { "name": "ALPHA LION", "brandUrl": "https://www.iherb.com/c/alpha-lion" },
+  {
+    "name": "ALR Industries",
+    "brandUrl": "https://www.iherb.com/c/alr-industries"
+  },
+  { "name": "Alta Health", "brandUrl": "https://www.iherb.com/c/alta-health" },
+  { "name": "Alter Eco", "brandUrl": "https://www.iherb.com/c/alter-eco" },
+  { "name": "Always", "brandUrl": "https://www.iherb.com/c/always" },
+  {
+    "name": "Amazing Grass",
+    "brandUrl": "https://www.iherb.com/c/amazing-grass"
+  },
+  {
+    "name": "Amazing Herbs",
+    "brandUrl": "https://www.iherb.com/c/amazing-herbs"
+  },
+  {
+    "name": "Amazing India",
+    "brandUrl": "https://www.iherb.com/c/amazing-india"
+  },
+  {
+    "name": "Amazing Nutrition",
+    "brandUrl": "https://www.iherb.com/c/amazing-nutrition"
+  },
+  {
+    "name": "Amazon Therapeutics",
+    "brandUrl": "https://www.iherb.com/c/amazon-therapeutics"
+  },
+  {
+    "name": "American Biotech Labs",
+    "brandUrl": "https://www.iherb.com/c/american-biotech-labs"
+  },
+  {
+    "name": "American Health",
+    "brandUrl": "https://www.iherb.com/c/american-health"
+  },
+  {
+    "name": "Amish Country Popcorn",
+    "brandUrl": "https://www.iherb.com/c/amish-country-popcorn"
+  },
+  {
+    "name": "Amish Origins",
+    "brandUrl": "https://www.iherb.com/c/amish-origins"
+  },
+  { "name": "AmLactin", "brandUrl": "https://www.iherb.com/c/amlactin" },
+  { "name": "Amore", "brandUrl": "https://www.iherb.com/c/amore" },
+  { "name": "AMPLE:N", "brandUrl": "https://www.iherb.com/c/amplen" },
+  { "name": "Amuse", "brandUrl": "https://www.iherb.com/c/amuse" },
+  {
+    "name": "Ancient Harvest",
+    "brandUrl": "https://www.iherb.com/c/ancient-harvest"
+  },
+  {
+    "name": "Andalou Naturals",
+    "brandUrl": "https://www.iherb.com/c/andalou-naturals"
+  },
+  { "name": "Angfa", "brandUrl": "https://www.iherb.com/c/angfa" },
+  { "name": "Animal", "brandUrl": "https://www.iherb.com/c/animal" },
+  {
+    "name": "Animal Essentials",
+    "brandUrl": "https://www.iherb.com/c/animal-essentials"
+  },
+  {
+    "name": "Annie Chun's",
+    "brandUrl": "https://www.iherb.com/c/annie-chun-s"
+  },
+  {
+    "name": "Annie's Homegrown",
+    "brandUrl": "https://www.iherb.com/c/annie-s-homegrown"
+  },
+  {
+    "name": "Annie's Naturals",
+    "brandUrl": "https://www.iherb.com/c/annie-s-naturals"
+  },
+  {
+    "name": "Anti Monkey Butt",
+    "brandUrl": "https://www.iherb.com/c/anti-monkey-butt"
+  },
+  { "name": "Anua", "brandUrl": "https://www.iherb.com/c/anua" },
+  { "name": "Apex", "brandUrl": "https://www.iherb.com/c/apex" },
+  {
+    "name": "Applied Nutrition",
+    "brandUrl": "https://www.iherb.com/c/applied-nutrition"
+  },
+  {
+    "name": "Aprati Foods",
+    "brandUrl": "https://www.iherb.com/c/aprati-foods"
+  },
+  { "name": "APS", "brandUrl": "https://www.iherb.com/c/aps" },
+  { "name": "Aptamil", "brandUrl": "https://www.iherb.com/c/aptamil" },
+  { "name": "Aquafresh", "brandUrl": "https://www.iherb.com/c/aquafresh" },
+  { "name": "Aquaphor", "brandUrl": "https://www.iherb.com/c/aquaphor" },
+  { "name": "Ardell", "brandUrl": "https://www.iherb.com/c/ardell" },
+  {
+    "name": "Arizona Natural",
+    "brandUrl": "https://www.iherb.com/c/arizona-natural"
+  },
+  {
+    "name": "Ark Naturals",
+    "brandUrl": "https://www.iherb.com/c/ark-naturals"
+  },
+  { "name": "Arm & Hammer", "brandUrl": "https://www.iherb.com/c/arm-hammer" },
+  {
+    "name": "Aroma Naturals",
+    "brandUrl": "https://www.iherb.com/c/aroma-naturals"
+  },
+  { "name": "Aromatica", "brandUrl": "https://www.iherb.com/c/aromatica" },
+  { "name": "Arrid", "brandUrl": "https://www.iherb.com/c/arrid" },
+  {
+    "name": "Arrowhead Mills",
+    "brandUrl": "https://www.iherb.com/c/arrowhead-mills"
+  },
+  {
+    "name": "Arthur Andrew Medical",
+    "brandUrl": "https://www.iherb.com/c/arthur-andrew-medical"
+  },
+  { "name": "Artisana", "brandUrl": "https://www.iherb.com/c/artisana" },
+  { "name": "artnaturals", "brandUrl": "https://www.iherb.com/c/artnaturals" },
+  { "name": "As I Am", "brandUrl": "https://www.iherb.com/c/as-i-am" },
+  { "name": "Aspercreme", "brandUrl": "https://www.iherb.com/c/aspercreme" },
+  { "name": "ASTEPRO", "brandUrl": "https://www.iherb.com/c/astepro" },
+  { "name": "Asutra", "brandUrl": "https://www.iherb.com/c/asutra" },
+  { "name": "Atkins", "brandUrl": "https://www.iherb.com/c/atkins" },
+  { "name": "Atopalm", "brandUrl": "https://www.iherb.com/c/atopalm" },
+  { "name": "ATTITUDE", "brandUrl": "https://www.iherb.com/c/attitude" },
+  {
+    "name": "Aunt Fannie's",
+    "brandUrl": "https://www.iherb.com/c/aunt-fannie-s"
+  },
+  {
+    "name": "Aunt Jackie's Curls & Coils",
+    "brandUrl": "https://www.iherb.com/c/aunt-jackies-curls-coils"
+  },
+  { "name": "Aura Cacia", "brandUrl": "https://www.iherb.com/c/aura-cacia" },
+  { "name": "Auromere", "brandUrl": "https://www.iherb.com/c/auromere" },
+  {
+    "name": "Aurora Nutrascience",
+    "brandUrl": "https://www.iherb.com/c/aurora-nutrascience"
+  },
+  { "name": "Aussie", "brandUrl": "https://www.iherb.com/c/aussie" },
+  { "name": "Aussie Bubs", "brandUrl": "https://www.iherb.com/c/aussie-bubs" },
+  {
+    "name": "Avalon Organics",
+    "brandUrl": "https://www.iherb.com/c/avalon-organics"
+  },
+  { "name": "Avarelle", "brandUrl": "https://www.iherb.com/c/avarelle" },
+  { "name": "Aveeno", "brandUrl": "https://www.iherb.com/c/aveeno" },
+  { "name": "Axe", "brandUrl": "https://www.iherb.com/c/axe" },
+  { "name": "Axis-Y", "brandUrl": "https://www.iherb.com/c/axis-y" },
+  { "name": "Azelique", "brandUrl": "https://www.iherb.com/c/azelique" },
+  { "name": "Azo", "brandUrl": "https://www.iherb.com/c/azo" },
+  {
+    "name": "Aztec Secret",
+    "brandUrl": "https://www.iherb.com/c/aztec-secret"
+  },
+  { "name": "B_Lab", "brandUrl": "https://www.iherb.com/c/blab" },
+  { "name": "B-Fresh Inc.", "brandUrl": "https://www.iherb.com/c/b-fresh" },
+  { "name": "b.fresh", "brandUrl": "https://www.iherb.com/c/bfresh" },
+  { "name": "b.tan", "brandUrl": "https://www.iherb.com/c/btan" },
+  {
+    "name": "Babo Botanicals",
+    "brandUrl": "https://www.iherb.com/c/babo-botanicals"
+  },
+  { "name": "Baby Buddy", "brandUrl": "https://www.iherb.com/c/baby-buddy" },
+  { "name": "Baby Magic", "brandUrl": "https://www.iherb.com/c/baby-magic" },
+  {
+    "name": "Baby Shusher",
+    "brandUrl": "https://www.iherb.com/c/baby-shusher"
+  },
+  { "name": "Babyganics", "brandUrl": "https://www.iherb.com/c/babyganics" },
+  { "name": "Bach", "brandUrl": "https://www.iherb.com/c/bach" },
+  { "name": "Bachan's", "brandUrl": "https://www.iherb.com/c/bachans" },
+  {
+    "name": "Back to Nature",
+    "brandUrl": "https://www.iherb.com/c/back-to-nature"
+  },
+  {
+    "name": "Bada Bean Bada Boom",
+    "brandUrl": "https://www.iherb.com/c/bada-bean-bada-boom"
+  },
+  {
+    "name": "Badger Company",
+    "brandUrl": "https://www.iherb.com/c/ws-badger-company"
+  },
+  { "name": "Bag Balm", "brandUrl": "https://www.iherb.com/c/bag-balm" },
+  { "name": "Balance Bar", "brandUrl": "https://www.iherb.com/c/balance-bar" },
+  {
+    "name": "Balanceuticals",
+    "brandUrl": "https://www.iherb.com/c/balanceuticals"
+  },
+  { "name": "Banana Boat", "brandUrl": "https://www.iherb.com/c/banana-boat" },
+  { "name": "Band Aid", "brandUrl": "https://www.iherb.com/c/band-aid" },
+  { "name": "Banila Co", "brandUrl": "https://www.iherb.com/c/banila-co" },
+  {
+    "name": "Banyan Botanicals",
+    "brandUrl": "https://www.iherb.com/c/banyan-botanicals"
+  },
+  { "name": "Banza", "brandUrl": "https://www.iherb.com/c/banza" },
+  { "name": "Bar Harbor", "brandUrl": "https://www.iherb.com/c/bar-harbor" },
+  {
+    "name": "Bare Performance Nutrition",
+    "brandUrl": "https://www.iherb.com/c/bare-performance-nutrition"
+  },
+  {
+    "name": "BareOrganics",
+    "brandUrl": "https://www.iherb.com/c/bareorganics"
+  },
+  { "name": "Barilla", "brandUrl": "https://www.iherb.com/c/barilla" },
+  { "name": "Barlean's", "brandUrl": "https://www.iherb.com/c/barleans" },
+  { "name": "Barnana", "brandUrl": "https://www.iherb.com/c/barnana" },
+  {
+    "name": "Barney Butter",
+    "brandUrl": "https://www.iherb.com/c/barney-butter"
+  },
+  { "name": "Barry's Tea", "brandUrl": "https://www.iherb.com/c/barry-s-tea" },
+  {
+    "name": "Bausch + Lomb",
+    "brandUrl": "https://www.iherb.com/c/bausch-lomb"
+  },
+  { "name": "Bayer", "brandUrl": "https://www.iherb.com/c/bayer" },
+  { "name": "Bbluv", "brandUrl": "https://www.iherb.com/c/bbluv" },
+  {
+    "name": "Bdellium Tools",
+    "brandUrl": "https://www.iherb.com/c/bdellium-tools-professional-antibacterial-make-up-brush"
+  },
+  {
+    "name": "Be Care Love",
+    "brandUrl": "https://www.iherb.com/c/be-care-love"
+  },
+  { "name": "Bear", "brandUrl": "https://www.iherb.com/c/bear" },
+  { "name": "Beast", "brandUrl": "https://www.iherb.com/c/beast" },
+  {
+    "name": "Beauty By Earth",
+    "brandUrl": "https://www.iherb.com/c/beauty-by-earth"
+  },
+  {
+    "name": "Beauty of Joseon",
+    "brandUrl": "https://www.iherb.com/c/beauty-of-joseon"
+  },
+  {
+    "name": "Beauty Without Cruelty",
+    "brandUrl": "https://www.iherb.com/c/beauty-without-cruelty"
+  },
+  { "name": "Bebesup", "brandUrl": "https://www.iherb.com/c/bebesup" },
+  { "name": "Bee's Wrap", "brandUrl": "https://www.iherb.com/c/bees-wrap" },
+  { "name": "Beech-Nut", "brandUrl": "https://www.iherb.com/c/beech-nut" },
+  {
+    "name": "Beekeeper's Naturals",
+    "brandUrl": "https://www.iherb.com/c/beekeepers-naturals"
+  },
+  {
+    "name": "Begin Again Toys",
+    "brandUrl": "https://www.iherb.com/c/begin-again-toys"
+  },
+  {
+    "name": "Bell Lifestyle",
+    "brandUrl": "https://www.iherb.com/c/bell-lifestyle"
+  },
+  { "name": "Belle+Bella", "brandUrl": "https://www.iherb.com/c/belle-bella" },
+  { "name": "Benadryl", "brandUrl": "https://www.iherb.com/c/benadryl" },
+  {
+    "name": "Benfotiamine Inc.",
+    "brandUrl": "https://www.iherb.com/c/benfotiamine-inc"
+  },
+  { "name": "Bengay", "brandUrl": "https://www.iherb.com/c/bengay" },
+  { "name": "Benton", "brandUrl": "https://www.iherb.com/c/benton" },
+  { "name": "Beplain", "brandUrl": "https://www.iherb.com/c/beplain" },
+  {
+    "name": "Bergin Fruit and Nut Company",
+    "brandUrl": "https://www.iherb.com/c/bergin-fruit-and-nut-company"
+  },
+  {
+    "name": "Best Naturals",
+    "brandUrl": "https://www.iherb.com/c/best-naturals"
+  },
+  { "name": "Better Life", "brandUrl": "https://www.iherb.com/c/better-life" },
+  {
+    "name": "Better Than Bouillon",
+    "brandUrl": "https://www.iherb.com/c/better-than-bouillon"
+  },
+  {
+    "name": "BetterBody Foods",
+    "brandUrl": "https://www.iherb.com/c/betterbody-foods"
+  },
+  {
+    "name": "Beyond BodiHeat",
+    "brandUrl": "https://www.iherb.com/c/beyond-bodiheat"
+  },
+  { "name": "BHU Foods", "brandUrl": "https://www.iherb.com/c/bhu-foods" },
+  { "name": "BIC", "brandUrl": "https://www.iherb.com/c/bic" },
+  { "name": "BIENA", "brandUrl": "https://www.iherb.com/c/biena" },
+  {
+    "name": "Big Tree Farms",
+    "brandUrl": "https://www.iherb.com/c/big-tree-farms"
+  },
+  {
+    "name": "Bio Nutrition",
+    "brandUrl": "https://www.iherb.com/c/bio-nutrition"
+  },
+  {
+    "name": "Bio Tech Pharmacal, Inc",
+    "brandUrl": "https://www.iherb.com/c/bio-tech-pharmacal-inc"
+  },
+  { "name": "Bio-Oil", "brandUrl": "https://www.iherb.com/c/bio-oil" },
+  { "name": "Bio-Strath", "brandUrl": "https://www.iherb.com/c/bio-strath" },
+  { "name": "Biochem", "brandUrl": "https://www.iherb.com/c/biochem" },
+  { "name": "Bioderma", "brandUrl": "https://www.iherb.com/c/bioderma" },
+  { "name": "BioGaia", "brandUrl": "https://www.iherb.com/c/biogaia" },
+  { "name": "Bioglan", "brandUrl": "https://www.iherb.com/c/bioglan" },
+  { "name": "Biokleen", "brandUrl": "https://www.iherb.com/c/biokleen" },
+  { "name": "Bionaturae", "brandUrl": "https://www.iherb.com/c/bionaturae" },
+  { "name": "Bionorica", "brandUrl": "https://www.iherb.com/c/bionorica" },
+  { "name": "Bioray", "brandUrl": "https://www.iherb.com/c/bioray" },
+  { "name": "Biore", "brandUrl": "https://www.iherb.com/c/biore" },
+  { "name": "BioSchwartz", "brandUrl": "https://www.iherb.com/c/bioschwartz" },
+  { "name": "BioSil", "brandUrl": "https://www.iherb.com/c/biosil" },
+  { "name": "Biosilk", "brandUrl": "https://www.iherb.com/c/biosilk" },
+  { "name": "BioTech", "brandUrl": "https://www.iherb.com/c/biotech" },
+  {
+    "name": "Biotene Dental Products",
+    "brandUrl": "https://www.iherb.com/c/biotene-dental-products"
+  },
+  { "name": "Biotivia", "brandUrl": "https://www.iherb.com/c/biotivia" },
+  { "name": "Biotrue", "brandUrl": "https://www.iherb.com/c/biotrue" },
+  { "name": "BioTRUST", "brandUrl": "https://www.iherb.com/c/biotrust" },
+  {
+    "name": "Birch Benders",
+    "brandUrl": "https://www.iherb.com/c/birch-benders"
+  },
+  {
+    "name": "Blackwood For Men",
+    "brandUrl": "https://www.iherb.com/c/blackwood-for-men"
+  },
+  {
+    "name": "Blender Bottle",
+    "brandUrl": "https://www.iherb.com/c/blender-bottle"
+  },
+  { "name": "Blessed", "brandUrl": "https://www.iherb.com/c/blessed" },
+  { "name": "Blistex", "brandUrl": "https://www.iherb.com/c/blistex" },
+  { "name": "Blithe", "brandUrl": "https://www.iherb.com/c/blithe" },
+  { "name": "Blossom", "brandUrl": "https://www.iherb.com/c/blossom" },
+  {
+    "name": "Blue Diamond",
+    "brandUrl": "https://www.iherb.com/c/blue-diamond"
+  },
+  {
+    "name": "Blue Lizard Australian Sunscreen",
+    "brandUrl": "https://www.iherb.com/c/blue-lizard-australian-sunscreen"
+  },
+  {
+    "name": "Bluebonnet Nutrition",
+    "brandUrl": "https://www.iherb.com/c/bluebonnet-nutrition"
+  },
+  { "name": "BNRG", "brandUrl": "https://www.iherb.com/c/bnrg" },
+  {
+    "name": "Bob's Red Mill",
+    "brandUrl": "https://www.iherb.com/c/bobs-red-mill"
+  },
+  {
+    "name": "Bobo's Oat Bars",
+    "brandUrl": "https://www.iherb.com/c/bobo-s-oat-bars"
+  },
+  {
+    "name": "Bocce's Bakery",
+    "brandUrl": "https://www.iherb.com/c/bocces-bakery"
+  },
+  { "name": "BodyBio", "brandUrl": "https://www.iherb.com/c/bodybio" },
+  { "name": "Bodycology", "brandUrl": "https://www.iherb.com/c/bodycology" },
+  { "name": "BodyGold", "brandUrl": "https://www.iherb.com/c/bodygold" },
+  { "name": "BodyHealth", "brandUrl": "https://www.iherb.com/c/bodyhealth" },
+  {
+    "name": "Boericke & Tafel",
+    "brandUrl": "https://www.iherb.com/c/boericke-tafel"
+  },
+  { "name": "Boiron", "brandUrl": "https://www.iherb.com/c/boiron" },
+  { "name": "Bonne Maman", "brandUrl": "https://www.iherb.com/c/bonne-maman" },
+  {
+    "name": "Boogie Wipes",
+    "brandUrl": "https://www.iherb.com/c/boogie-wipes"
+  },
+  { "name": "Boon", "brandUrl": "https://www.iherb.com/c/boon" },
+  { "name": "Bosley", "brandUrl": "https://www.iherb.com/c/bosley" },
+  {
+    "name": "Boudreaux's Butt Paste",
+    "brandUrl": "https://www.iherb.com/c/boudreauxs-butt-paste"
+  },
+  { "name": "BPI Sports", "brandUrl": "https://www.iherb.com/c/bpi-sports" },
+  {
+    "name": "Brad's Plant Based",
+    "brandUrl": "https://www.iherb.com/c/brads-plant-based"
+  },
+  { "name": "Bragg", "brandUrl": "https://www.iherb.com/c/bragg" },
+  { "name": "BrainStrong", "brandUrl": "https://www.iherb.com/c/brainstrong" },
+  {
+    "name": "Breathe Right",
+    "brandUrl": "https://www.iherb.com/c/breathe-right"
+  },
+  { "name": "Briannas", "brandUrl": "https://www.iherb.com/c/briannas" },
+  { "name": "Bringgreen", "brandUrl": "https://www.iherb.com/c/bringgreen" },
+  { "name": "Brixy", "brandUrl": "https://www.iherb.com/c/brixy" },
+  {
+    "name": "Brooklyn Botany",
+    "brandUrl": "https://www.iherb.com/c/brooklyn-botany"
+  },
+  {
+    "name": "Brothers-All-Natural",
+    "brandUrl": "https://www.iherb.com/c/brothers-all-natural"
+  },
+  {
+    "name": "Brush Buddies",
+    "brandUrl": "https://www.iherb.com/c/brush-buddies"
+  },
+  { "name": "Brylcreem", "brandUrl": "https://www.iherb.com/c/brylcreem" },
+  { "name": "BSN", "brandUrl": "https://www.iherb.com/c/bsn" },
+  {
+    "name": "BUBS Naturals",
+    "brandUrl": "https://www.iherb.com/c/bubs-naturals"
+  },
+  { "name": "Buddha Teas", "brandUrl": "https://www.iherb.com/c/buddha-teas" },
+  {
+    "name": "Bulldog Skincare For Men",
+    "brandUrl": "https://www.iherb.com/c/bulldog-skincare-for-men"
+  },
+  { "name": "BulletProof", "brandUrl": "https://www.iherb.com/c/bulletproof" },
+  {
+    "name": "Buoy Hydration",
+    "brandUrl": "https://www.iherb.com/c/buoy-hydration"
+  },
+  {
+    "name": "Buried Treasure",
+    "brandUrl": "https://www.iherb.com/c/buried-treasure"
+  },
+  { "name": "Burt's Bees", "brandUrl": "https://www.iherb.com/c/burt-s-bees" },
+  {
+    "name": "By Wishtrend",
+    "brandUrl": "https://www.iherb.com/c/by-wishtrend"
+  },
+  {
+    "name": "Byrd Hairdo Products",
+    "brandUrl": "https://www.iherb.com/c/byrd-hairdo-products"
+  },
+  { "name": "Caboo", "brandUrl": "https://www.iherb.com/c/caboo" },
+  { "name": "Cafe Altura", "brandUrl": "https://www.iherb.com/c/cafe-altura" },
+  {
+    "name": "Café Bustelo",
+    "brandUrl": "https://www.iherb.com/c/caf%C3%A9-bustelo"
+  },
+  { "name": "Cafix", "brandUrl": "https://www.iherb.com/c/cafix" },
+  { "name": "Cailyn", "brandUrl": "https://www.iherb.com/c/cailyn" },
+  { "name": "Cake Beauty", "brandUrl": "https://www.iherb.com/c/cake-beauty" },
+  { "name": "Caldesene", "brandUrl": "https://www.iherb.com/c/caldesene" },
+  {
+    "name": "Caleb Treeze Organic Farm",
+    "brandUrl": "https://www.iherb.com/c/caleb-treeze-organic-farm"
+  },
+  {
+    "name": "California Gold Nutrition",
+    "brandUrl": "https://www.iherb.com/c/california-gold-nutrition"
+  },
+  {
+    "name": "California Natural",
+    "brandUrl": "https://www.iherb.com/c/california-natural"
+  },
+  {
+    "name": "California Olive Ranch",
+    "brandUrl": "https://www.iherb.com/c/california-olive-ranch"
+  },
+  {
+    "name": "Camille Rose",
+    "brandUrl": "https://www.iherb.com/c/camille-rose"
+  },
+  { "name": "Cantu", "brandUrl": "https://www.iherb.com/c/cantu" },
+  {
+    "name": "Cardiovascular Research Ltd.",
+    "brandUrl": "https://www.iherb.com/c/cardiovascular-research-ltd"
+  },
+  { "name": "Care:Nel", "brandUrl": "https://www.iherb.com/c/carenel" },
+  { "name": "Carefree", "brandUrl": "https://www.iherb.com/c/carefree" },
+  { "name": "Carex", "brandUrl": "https://www.iherb.com/c/carex" },
+  { "name": "Carlson", "brandUrl": "https://www.iherb.com/c/carlson" },
+  { "name": "Carmex", "brandUrl": "https://www.iherb.com/c/carmex" },
+  {
+    "name": "Carnation Milk",
+    "brandUrl": "https://www.iherb.com/c/carnation-milk"
+  },
+  {
+    "name": "Carol's Daughter",
+    "brandUrl": "https://www.iherb.com/c/carols-daughter"
+  },
+  {
+    "name": "Cascadian Farm",
+    "brandUrl": "https://www.iherb.com/c/cascadian-farm"
+  },
+  { "name": "Cat-Man-Doo", "brandUrl": "https://www.iherb.com/c/cat-man-doo" },
+  {
+    "name": "Catalina Crunch",
+    "brandUrl": "https://www.iherb.com/c/catalina-crunch"
+  },
+  {
+    "name": "Catalo Naturals",
+    "brandUrl": "https://www.iherb.com/c/catalo-naturals"
+  },
+  {
+    "name": "Caveman Foods",
+    "brandUrl": "https://www.iherb.com/c/caveman-foods"
+  },
+  {
+    "name": "Celestial Seasonings",
+    "brandUrl": "https://www.iherb.com/c/celestial-seasonings"
+  },
+  { "name": "Celimax", "brandUrl": "https://www.iherb.com/c/celimax" },
+  { "name": "Cellucor", "brandUrl": "https://www.iherb.com/c/cellucor" },
+  {
+    "name": "Celsus Bio-Intelligence",
+    "brandUrl": "https://www.iherb.com/c/celsus-bio-intelligence"
+  },
+  {
+    "name": "Celtic Sea Salt",
+    "brandUrl": "https://www.iherb.com/c/celtic-sea-salt"
+  },
+  { "name": "Centrum", "brandUrl": "https://www.iherb.com/c/centrum" },
+  { "name": "Ceramedx", "brandUrl": "https://www.iherb.com/c/ceramedx" },
+  { "name": "Cerebelly", "brandUrl": "https://www.iherb.com/c/cerebelly" },
+  { "name": "Cetaphil", "brandUrl": "https://www.iherb.com/c/cetaphil" },
+  {
+    "name": "Chandrika Soap",
+    "brandUrl": "https://www.iherb.com/c/chandrika-soap"
+  },
+  { "name": "Chapter One", "brandUrl": "https://www.iherb.com/c/chapter-one" },
+  { "name": "Chapter Six", "brandUrl": "https://www.iherb.com/c/chapter-six" },
+  {
+    "name": "Charlie and Frank",
+    "brandUrl": "https://www.iherb.com/c/charlie-and-frank"
+  },
+  { "name": "Chassis", "brandUrl": "https://www.iherb.com/c/chassis" },
+  {
+    "name": "CheongKwanJang",
+    "brandUrl": "https://www.iherb.com/c/cheongkwanjang"
+  },
+  { "name": "Chew + Heal", "brandUrl": "https://www.iherb.com/c/chew--heal" },
+  { "name": "Chi", "brandUrl": "https://www.iherb.com/c/chi" },
+  { "name": "Chickapea", "brandUrl": "https://www.iherb.com/c/chickapea" },
+  {
+    "name": "Chicken of the Sea",
+    "brandUrl": "https://www.iherb.com/c/chicken-of-the-sea"
+  },
+  {
+    "name": "Chike Nutrition",
+    "brandUrl": "https://www.iherb.com/c/chike-nutrition"
+  },
+  {
+    "name": "ChildLife Clinicals",
+    "brandUrl": "https://www.iherb.com/c/childlife-clinicals"
+  },
+  {
+    "name": "ChildLife Essentials",
+    "brandUrl": "https://www.iherb.com/c/childlife-essentials"
+  },
+  { "name": "Chimes", "brandUrl": "https://www.iherb.com/c/chimes" },
+  {
+    "name": "Ching Wan Hung",
+    "brandUrl": "https://www.iherb.com/c/ching-wan-hung"
+  },
+  { "name": "Chocolove", "brandUrl": "https://www.iherb.com/c/chocolove" },
+  { "name": "ChocZero", "brandUrl": "https://www.iherb.com/c/choczero" },
+  {
+    "name": "Choice Organic Teas",
+    "brandUrl": "https://www.iherb.com/c/choice-organic-teas"
+  },
+  { "name": "Cholula", "brandUrl": "https://www.iherb.com/c/cholula" },
+  { "name": "Chomps", "brandUrl": "https://www.iherb.com/c/chomps" },
+  {
+    "name": "Chosen Foods",
+    "brandUrl": "https://www.iherb.com/c/chosen-foods"
+  },
+  {
+    "name": "Christopher's Original Formulas",
+    "brandUrl": "https://www.iherb.com/c/christopher-s-original-formulas"
+  },
+  {
+    "name": "Chu Kiang Brand",
+    "brandUrl": "https://www.iherb.com/c/chu-kiang-brand"
+  },
+  { "name": "Citracal", "brandUrl": "https://www.iherb.com/c/citracal" },
+  {
+    "name": "Citrus Magic",
+    "brandUrl": "https://www.iherb.com/c/citrus-magic"
+  },
+  {
+    "name": "Claires Korea",
+    "brandUrl": "https://www.iherb.com/c/claires-korea"
+  },
+  { "name": "Claritin", "brandUrl": "https://www.iherb.com/c/claritin" },
+  {
+    "name": "Clean & Clear",
+    "brandUrl": "https://www.iherb.com/c/clean-and-clear"
+  },
+  { "name": "CleanLife", "brandUrl": "https://www.iherb.com/c/cleanlife" },
+  { "name": "Clear Eyes", "brandUrl": "https://www.iherb.com/c/clear-eyes" },
+  {
+    "name": "Clear Products",
+    "brandUrl": "https://www.iherb.com/c/clear-products"
+  },
+  { "name": "Clearblue", "brandUrl": "https://www.iherb.com/c/clearblue" },
+  { "name": "Clif Bar", "brandUrl": "https://www.iherb.com/c/clif-bar" },
+  { "name": "Cliganic", "brandUrl": "https://www.iherb.com/c/cliganic" },
+  { "name": "Clio", "brandUrl": "https://www.iherb.com/c/clio" },
+  { "name": "Cococare", "brandUrl": "https://www.iherb.com/c/cococare" },
+  { "name": "Cocokind", "brandUrl": "https://www.iherb.com/c/cocokind" },
+  { "name": "Cocomels", "brandUrl": "https://www.iherb.com/c/cocomels" },
+  {
+    "name": "Coconut Cloud",
+    "brandUrl": "https://www.iherb.com/c/coconut-cloud"
+  },
+  {
+    "name": "Coconut Secret",
+    "brandUrl": "https://www.iherb.com/c/coconut-secret"
+  },
+  { "name": "Codeage", "brandUrl": "https://www.iherb.com/c/codeage" },
+  { "name": "Coffee Mate", "brandUrl": "https://www.iherb.com/c/coffee-mate" },
+  { "name": "Colgate", "brandUrl": "https://www.iherb.com/c/colgate" },
+  { "name": "Colman's", "brandUrl": "https://www.iherb.com/c/colman-s" },
+  { "name": "Colorgram", "brandUrl": "https://www.iherb.com/c/colorgram" },
+  {
+    "name": "ColorKitchen",
+    "brandUrl": "https://www.iherb.com/c/colorkitchen"
+  },
+  { "name": "Compound W", "brandUrl": "https://www.iherb.com/c/compound-w" },
+  { "name": "Comvita", "brandUrl": "https://www.iherb.com/c/comvita" },
+  { "name": "Con-Cret", "brandUrl": "https://www.iherb.com/c/con-cret" },
+  { "name": "Conair", "brandUrl": "https://www.iherb.com/c/conair" },
+  {
+    "name": "Controlled Labs",
+    "brandUrl": "https://www.iherb.com/c/controlled-labs"
+  },
+  {
+    "name": "Coombs Family Farms",
+    "brandUrl": "https://www.iherb.com/c/coombs-family-farms"
+  },
+  { "name": "Coppertone", "brandUrl": "https://www.iherb.com/c/coppertone" },
+  {
+    "name": "Coricidin HBP",
+    "brandUrl": "https://www.iherb.com/c/coricidin-hbp"
+  },
+  { "name": "Coromega", "brandUrl": "https://www.iherb.com/c/coromega" },
+  {
+    "name": "Cortizone 10",
+    "brandUrl": "https://www.iherb.com/c/cortizone-10"
+  },
+  { "name": "Cos De BAHA", "brandUrl": "https://www.iherb.com/c/cos-de-baha" },
+  {
+    "name": "Cosmedica Skincare",
+    "brandUrl": "https://www.iherb.com/c/cosmedica-skincare"
+  },
+  { "name": "Cosnori", "brandUrl": "https://www.iherb.com/c/cosnori" },
+  { "name": "CosRx", "brandUrl": "https://www.iherb.com/c/cosrx" },
+  { "name": "Cottons", "brandUrl": "https://www.iherb.com/c/cottons" },
+  {
+    "name": "Country Archer Jerky",
+    "brandUrl": "https://www.iherb.com/c/country-archer-jerky"
+  },
+  {
+    "name": "Country Comfort",
+    "brandUrl": "https://www.iherb.com/c/country-comfort"
+  },
+  {
+    "name": "Country Farms",
+    "brandUrl": "https://www.iherb.com/c/country-farms"
+  },
+  {
+    "name": "Country Life",
+    "brandUrl": "https://www.iherb.com/c/country-life"
+  },
+  { "name": "CP-1", "brandUrl": "https://www.iherb.com/c/cp-1" },
+  { "name": "Craftmix", "brandUrl": "https://www.iherb.com/c/craftmix" },
+  { "name": "Craize", "brandUrl": "https://www.iherb.com/c/craize" },
+  { "name": "Crayola", "brandUrl": "https://www.iherb.com/c/crayola" },
+  { "name": "Crazy Skin", "brandUrl": "https://www.iherb.com/c/crazy-skin" },
+  {
+    "name": "Creekside Natural Therapeutics",
+    "brandUrl": "https://www.iherb.com/c/creekside-natural-therapeutics"
+  },
+  {
+    "name": "Creme Of Nature",
+    "brandUrl": "https://www.iherb.com/c/creme-of-nature"
+  },
+  { "name": "Cremo", "brandUrl": "https://www.iherb.com/c/cremo" },
+  { "name": "Crest", "brandUrl": "https://www.iherb.com/c/crest" },
+  {
+    "name": "Crispy Green",
+    "brandUrl": "https://www.iherb.com/c/crispy-green"
+  },
+  {
+    "name": "Crofter's Organic",
+    "brandUrl": "https://www.iherb.com/c/crofter-s-organic"
+  },
+  {
+    "name": "Crown Prince Natural",
+    "brandUrl": "https://www.iherb.com/c/crown-prince-natural"
+  },
+  {
+    "name": "Crunchmaster",
+    "brandUrl": "https://www.iherb.com/c/crunchmaster"
+  },
+  { "name": "Crystal", "brandUrl": "https://www.iherb.com/c/crystal" },
+  {
+    "name": "Crystal Star",
+    "brandUrl": "https://www.iherb.com/c/crystal-star"
+  },
+  { "name": "Culturelle", "brandUrl": "https://www.iherb.com/c/culturelle" },
+  {
+    "name": "Cultures for Health",
+    "brandUrl": "https://www.iherb.com/c/cultures-for-health"
+  },
+  { "name": "CuraLife", "brandUrl": "https://www.iherb.com/c/curalife" },
+  {
+    "name": "Cure Hydration",
+    "brandUrl": "https://www.iherb.com/c/cure-hydration"
+  },
+  { "name": "Curel", "brandUrl": "https://www.iherb.com/c/curel" },
+  { "name": "Curls", "brandUrl": "https://www.iherb.com/c/curls" },
+  { "name": "Curlsmith", "brandUrl": "https://www.iherb.com/c/curlsmith" },
+  { "name": "CurlyKids", "brandUrl": "https://www.iherb.com/c/curlykids" },
+  {
+    "name": "Cutler Nutrition",
+    "brandUrl": "https://www.iherb.com/c/cutler-nutrition"
+  },
+  {
+    "name": "D'Adamo Personalized Nutrition",
+    "brandUrl": "https://www.iherb.com/c/d-adamo-personalized-nutrition"
+  },
+  { "name": "d'Alba", "brandUrl": "https://www.iherb.com/c/dalba" },
+  {
+    "name": "D'vash Organics",
+    "brandUrl": "https://www.iherb.com/c/dvash-organics"
+  },
+  { "name": "Daelmans", "brandUrl": "https://www.iherb.com/c/daelmans" },
+  {
+    "name": "DAENG GI MEO RI",
+    "brandUrl": "https://www.iherb.com/c/daeng-gi-meo-ri"
+  },
+  {
+    "name": "Daily Crunch",
+    "brandUrl": "https://www.iherb.com/c/daily-crunch"
+  },
+  {
+    "name": "Daily Wellness Company",
+    "brandUrl": "https://www.iherb.com/c/daily-wellness-company"
+  },
+  { "name": "Dandy Blend", "brandUrl": "https://www.iherb.com/c/dandy-blend" },
+  { "name": "Dang Foods", "brandUrl": "https://www.iherb.com/c/dang-foods" },
+  { "name": "Dashu", "brandUrl": "https://www.iherb.com/c/dashu" },
+  { "name": "Dastony", "brandUrl": "https://www.iherb.com/c/dastony" },
+  { "name": "Date Lady", "brandUrl": "https://www.iherb.com/c/date-lady" },
+  {
+    "name": "Davids Natural Toothpaste",
+    "brandUrl": "https://www.iherb.com/c/davids-natural-toothpaste"
+  },
+  {
+    "name": "DaVinci Laboratories of Vermont",
+    "brandUrl": "https://www.iherb.com/c/davinci-laboratories-of-vermont"
+  },
+  { "name": "Ddrops", "brandUrl": "https://www.iherb.com/c/ddrops" },
+  { "name": "De Cecco", "brandUrl": "https://www.iherb.com/c/de-cecco" },
+  { "name": "De La Cruz", "brandUrl": "https://www.iherb.com/c/de-la-cruz" },
+  { "name": "Dear, Klairs", "brandUrl": "https://www.iherb.com/c/dear-klairs" },
+  {
+    "name": "Death Wish Coffee",
+    "brandUrl": "https://www.iherb.com/c/death-wish-coffee"
+  },
+  { "name": "Debrox", "brandUrl": "https://www.iherb.com/c/debrox" },
+  {
+    "name": "Deebee's Organic",
+    "brandUrl": "https://www.iherb.com/c/deebees-organic"
+  },
+  { "name": "Deep Steep", "brandUrl": "https://www.iherb.com/c/deep-steep" },
+  { "name": "Degree", "brandUrl": "https://www.iherb.com/c/degree" },
+  { "name": "Denco", "brandUrl": "https://www.iherb.com/c/denco" },
+  { "name": "DenTek", "brandUrl": "https://www.iherb.com/c/dentek" },
+  { "name": "Dentemp", "brandUrl": "https://www.iherb.com/c/dentemp" },
+  { "name": "DERMA E", "brandUrl": "https://www.iherb.com/c/derma-e" },
+  { "name": "Derma:B", "brandUrl": "https://www.iherb.com/c/dermab" },
+  { "name": "Dermal", "brandUrl": "https://www.iherb.com/c/dermal" },
+  { "name": "Dermarest", "brandUrl": "https://www.iherb.com/c/dermarest" },
+  { "name": "Dermasuri", "brandUrl": "https://www.iherb.com/c/dermasuri" },
+  {
+    "name": "Desert Essence",
+    "brandUrl": "https://www.iherb.com/c/desert-essence"
+  },
+  {
+    "name": "Designer Wellness",
+    "brandUrl": "https://www.iherb.com/c/designer-wellness"
+  },
+  { "name": "Desitin", "brandUrl": "https://www.iherb.com/c/desitin" },
+  { "name": "Deva", "brandUrl": "https://www.iherb.com/c/deva" },
+  { "name": "DevaCurl", "brandUrl": "https://www.iherb.com/c/devacurl" },
+  {
+    "name": "Dickinson Brands",
+    "brandUrl": "https://www.iherb.com/c/t-n-dickinson-s"
+  },
+  { "name": "DietWorks", "brandUrl": "https://www.iherb.com/c/dietworks" },
+  { "name": "Differin", "brandUrl": "https://www.iherb.com/c/differin" },
+  {
+    "name": "Diggin your dog",
+    "brandUrl": "https://www.iherb.com/c/diggin-your-dog"
+  },
+  {
+    "name": "Diva International",
+    "brandUrl": "https://www.iherb.com/c/diva-international"
+  },
+  {
+    "name": "Doctor Arthritis",
+    "brandUrl": "https://www.iherb.com/c/doctor-arthritis"
+  },
+  {
+    "name": "Doctor's Best",
+    "brandUrl": "https://www.iherb.com/c/doctors-best"
+  },
+  {
+    "name": "Doctor's Finest",
+    "brandUrl": "https://www.iherb.com/c/doctors-finest"
+  },
+  { "name": "Domeboro", "brandUrl": "https://www.iherb.com/c/domeboro" },
+  { "name": "Double Dare", "brandUrl": "https://www.iherb.com/c/double-dare" },
+  { "name": "Dove", "brandUrl": "https://www.iherb.com/c/dove" },
+  {
+    "name": "Dr. Axe / Ancient Nutrition",
+    "brandUrl": "https://www.iherb.com/c/dr-axe-ancient-nutrition"
+  },
+  {
+    "name": "Dr. Botanicals",
+    "brandUrl": "https://www.iherb.com/c/dr-botanicals"
+  },
+  { "name": "Dr. Brite", "brandUrl": "https://www.iherb.com/c/dr-brite" },
+  {
+    "name": "Dr. Bronner's",
+    "brandUrl": "https://www.iherb.com/c/dr-bronners"
+  },
+  { "name": "Dr. Brown's", "brandUrl": "https://www.iherb.com/c/dr-brown-s" },
+  {
+    "name": "Dr. Emil Nutrition",
+    "brandUrl": "https://www.iherb.com/c/dr-emil-nutrition"
+  },
+  {
+    "name": "Dr. Jacobs Naturals",
+    "brandUrl": "https://www.iherb.com/c/dr-jacobs-naturals"
+  },
+  {
+    "name": "Dr. John's Healthy Sweets",
+    "brandUrl": "https://www.iherb.com/c/dr-johns-healthy-sweets"
+  },
+  {
+    "name": "Dr. McDougall's",
+    "brandUrl": "https://www.iherb.com/c/dr-mcdougall-s"
+  },
+  { "name": "Dr. Mercola", "brandUrl": "https://www.iherb.com/c/dr-mercola" },
+  { "name": "Dr. Murray's", "brandUrl": "https://www.iherb.com/c/dr-murrays" },
+  {
+    "name": "Dr. Ohhira's, Essential Formulas Inc.",
+    "brandUrl": "https://www.iherb.com/c/dr-ohhira-s-essential-formulas-inc"
+  },
+  { "name": "Dr. Oracle", "brandUrl": "https://www.iherb.com/c/dr-oracle" },
+  { "name": "Dr. Scheller", "brandUrl": "https://www.iherb.com/c/dr-scheller" },
+  { "name": "Dr. Sinatra", "brandUrl": "https://www.iherb.com/c/dr-sinatra" },
+  { "name": "Dr. Talbot's", "brandUrl": "https://www.iherb.com/c/dr-talbots" },
+  { "name": "Dr. Tobias", "brandUrl": "https://www.iherb.com/c/dr-tobias" },
+  { "name": "Dr. Tung's", "brandUrl": "https://www.iherb.com/c/dr-tung-s" },
+  { "name": "Dr. Woods", "brandUrl": "https://www.iherb.com/c/dr-woods" },
+  { "name": "Dr.ForHair", "brandUrl": "https://www.iherb.com/c/drforhair" },
+  {
+    "name": "Dragon Herbs ( Ron Teeguarden )",
+    "brandUrl": "https://www.iherb.com/c/dragon-herbs"
+  },
+  { "name": "Dream Water", "brandUrl": "https://www.iherb.com/c/dream-water" },
+  {
+    "name": "Drogheria & Alimentari",
+    "brandUrl": "https://www.iherb.com/c/drogheria-and-alimentari"
+  },
+  {
+    "name": "Dude Products",
+    "brandUrl": "https://www.iherb.com/c/dude-products"
+  },
+  { "name": "DUO", "brandUrl": "https://www.iherb.com/c/duo" },
+  { "name": "Dymatize", "brandUrl": "https://www.iherb.com/c/dymatize" },
+  {
+    "name": "Dynamic Health",
+    "brandUrl": "https://www.iherb.com/c/dynamic-health-laboratories"
+  },
+  { "name": "E.L.F.", "brandUrl": "https://www.iherb.com/c/e-l-f" },
+  {
+    "name": "Earth Circle Organics",
+    "brandUrl": "https://www.iherb.com/c/earth-circle-organics"
+  },
+  {
+    "name": "Earth Friendly Products",
+    "brandUrl": "https://www.iherb.com/c/earth-friendly-products"
+  },
+  { "name": "Earth Rated", "brandUrl": "https://www.iherb.com/c/earth-rated" },
+  {
+    "name": "Earth Science",
+    "brandUrl": "https://www.iherb.com/c/earth-science"
+  },
+  {
+    "name": "Earth Therapeutics",
+    "brandUrl": "https://www.iherb.com/c/earth-therapeutics"
+  },
+  {
+    "name": "Earth's Best",
+    "brandUrl": "https://www.iherb.com/c/earth-s-best"
+  },
+  {
+    "name": "Earth's Bounty ( Matrix Health )",
+    "brandUrl": "https://www.iherb.com/c/earth-s-bounty"
+  },
+  {
+    "name": "Earth's Care",
+    "brandUrl": "https://www.iherb.com/c/earth-s-care"
+  },
+  {
+    "name": "Earth's Natural Alternative",
+    "brandUrl": "https://www.iherb.com/c/earths-natural-alternative"
+  },
+  { "name": "Earthrise", "brandUrl": "https://www.iherb.com/c/earthrise" },
+  {
+    "name": "Earthtone Foods",
+    "brandUrl": "https://www.iherb.com/c/earthtone-foods"
+  },
+  { "name": "EAS", "brandUrl": "https://www.iherb.com/c/eas" },
+  { "name": "Easy@Home", "brandUrl": "https://www.iherb.com/c/easyhome" },
+  {
+    "name": "Eclectic Institute",
+    "brandUrl": "https://www.iherb.com/c/eclectic-institute"
+  },
+  { "name": "Eco Love", "brandUrl": "https://www.iherb.com/c/eco-love" },
+  { "name": "Eco-Dent", "brandUrl": "https://www.iherb.com/c/eco-dent" },
+  {
+    "name": "Ecological Formulas",
+    "brandUrl": "https://www.iherb.com/c/ecological-formulas"
+  },
+  { "name": "Econugenics", "brandUrl": "https://www.iherb.com/c/econugenics" },
+  { "name": "EcoTeas", "brandUrl": "https://www.iherb.com/c/ecoteas" },
+  { "name": "EcoTools", "brandUrl": "https://www.iherb.com/c/ecotools" },
+  { "name": "Eden Foods", "brandUrl": "https://www.iherb.com/c/eden-foods" },
+  { "name": "Edgeu", "brandUrl": "https://www.iherb.com/c/edgeu" },
+  {
+    "name": "Edward & Sons",
+    "brandUrl": "https://www.iherb.com/c/edward-and-sons"
+  },
+  { "name": "Efferdent", "brandUrl": "https://www.iherb.com/c/efferdent" },
+  { "name": "EFX Sports", "brandUrl": "https://www.iherb.com/c/efx-sports" },
+  {
+    "name": "Egmont Honey",
+    "brandUrl": "https://www.iherb.com/c/egmont-honey"
+  },
+  { "name": "EHPlabs", "brandUrl": "https://www.iherb.com/c/ehplabs" },
+  {
+    "name": "Eidon Mineral Supplements",
+    "brandUrl": "https://www.iherb.com/c/eidon-mineral-supplements"
+  },
+  { "name": "Elactia", "brandUrl": "https://www.iherb.com/c/elactia" },
+  { "name": "Elizavecca", "brandUrl": "https://www.iherb.com/c/elizavecca" },
+  { "name": "Else", "brandUrl": "https://www.iherb.com/c/else" },
+  { "name": "Embryolisse", "brandUrl": "https://www.iherb.com/c/embryolisse" },
+  {
+    "name": "Emerald Laboratories",
+    "brandUrl": "https://www.iherb.com/c/emerald-laboratories"
+  },
+  { "name": "Emergen-C", "brandUrl": "https://www.iherb.com/c/emergen-c" },
+  { "name": "Emerita", "brandUrl": "https://www.iherb.com/c/emerita" },
+  { "name": "ENADA", "brandUrl": "https://www.iherb.com/c/enada" },
+  {
+    "name": "Endangered Species Chocolate",
+    "brandUrl": "https://www.iherb.com/c/endangered-species-chocolate"
+  },
+  { "name": "Ener-C", "brandUrl": "https://www.iherb.com/c/ener-c" },
+  {
+    "name": "Enjoy Life Foods",
+    "brandUrl": "https://www.iherb.com/c/enjoy-life-foods"
+  },
+  { "name": "Enough", "brandUrl": "https://www.iherb.com/c/enough" },
+  { "name": "Enzymedica", "brandUrl": "https://www.iherb.com/c/enzymedica" },
+  { "name": "EO Products", "brandUrl": "https://www.iherb.com/c/eo-products" },
+  { "name": "EPI", "brandUrl": "https://www.iherb.com/c/epi" },
+  { "name": "Epic Bar", "brandUrl": "https://www.iherb.com/c/epic-bar" },
+  { "name": "Epic Dental", "brandUrl": "https://www.iherb.com/c/epic-dental" },
+  {
+    "name": "Epicuren Discovery",
+    "brandUrl": "https://www.iherb.com/c/epicuren-discovery"
+  },
+  { "name": "Equal", "brandUrl": "https://www.iherb.com/c/equal" },
+  {
+    "name": "Equal Exchange",
+    "brandUrl": "https://www.iherb.com/c/equal-exchange"
+  },
+  {
+    "name": "Erase Your Face",
+    "brandUrl": "https://www.iherb.com/c/erase-your-face"
+  },
+  {
+    "name": "Erin Baker's",
+    "brandUrl": "https://www.iherb.com/c/erin-baker-s"
+  },
+  { "name": "Estroven", "brandUrl": "https://www.iherb.com/c/estroven" },
+  { "name": "Etude", "brandUrl": "https://www.iherb.com/c/etude" },
+  { "name": "Eu Natural", "brandUrl": "https://www.iherb.com/c/eu-natural" },
+  { "name": "Eucerin", "brandUrl": "https://www.iherb.com/c/eucerin" },
+  { "name": "Euthymol", "brandUrl": "https://www.iherb.com/c/euthymol" },
+  {
+    "name": "Eva Naturals",
+    "brandUrl": "https://www.iherb.com/c/eva-naturals"
+  },
+  {
+    "name": "Eveline Cosmetics",
+    "brandUrl": "https://www.iherb.com/c/eveline-cosmetics"
+  },
+  {
+    "name": "Evenflo Feeding",
+    "brandUrl": "https://www.iherb.com/c/evenflo-feeding"
+  },
+  {
+    "name": "Every Man Jack",
+    "brandUrl": "https://www.iherb.com/c/every-man-jack"
+  },
+  { "name": "Everydaze", "brandUrl": "https://www.iherb.com/c/everydaze" },
+  { "name": "Everyone", "brandUrl": "https://www.iherb.com/c/everyone" },
+  {
+    "name": "EVLution Nutrition",
+    "brandUrl": "https://www.iherb.com/c/evlution-nutrition"
+  },
+  {
+    "name": "Evolution of Smooth",
+    "brandUrl": "https://www.iherb.com/c/evolution-of-smooth"
+  },
+  { "name": "Excedrin", "brandUrl": "https://www.iherb.com/c/excedrin" },
+  {
+    "name": "Existing Beauty Lashes",
+    "brandUrl": "https://www.iherb.com/c/existing-beauty-lashes"
+  },
+  { "name": "FaceTory", "brandUrl": "https://www.iherb.com/c/facetory" },
+  {
+    "name": "Fairhaven Health",
+    "brandUrl": "https://www.iherb.com/c/fairhaven-health"
+  },
+  { "name": "Familia", "brandUrl": "https://www.iherb.com/c/familia" },
+  { "name": "Fancii", "brandUrl": "https://www.iherb.com/c/fancii" },
+  { "name": "Farin' Up", "brandUrl": "https://www.iherb.com/c/farin-up" },
+  { "name": "Farmstay", "brandUrl": "https://www.iherb.com/c/farmstay" },
+  { "name": "Fat Snax", "brandUrl": "https://www.iherb.com/c/fat-snax" },
+  {
+    "name": "Fearn Natural Foods",
+    "brandUrl": "https://www.iherb.com/c/fearn-natural-foods"
+  },
+  { "name": "Fifty 50", "brandUrl": "https://www.iherb.com/c/fifty-50" },
+  { "name": "Finaflex", "brandUrl": "https://www.iherb.com/c/finaflex" },
+  { "name": "Fini Modena", "brandUrl": "https://www.iherb.com/c/fini-modena" },
+  { "name": "Finn Crisp", "brandUrl": "https://www.iherb.com/c/finn-crisp" },
+  {
+    "name": "First Response",
+    "brandUrl": "https://www.iherb.com/c/first-response"
+  },
+  {
+    "name": "First Salt After The Rain",
+    "brandUrl": "https://www.iherb.com/c/first-salt-after-the-rain"
+  },
+  {
+    "name": "Fisher-Price",
+    "brandUrl": "https://www.iherb.com/c/fisher-price"
+  },
+  {
+    "name": "Fisherman's Friend",
+    "brandUrl": "https://www.iherb.com/c/fisherman-s-friend"
+  },
+  { "name": "Fit & Lean", "brandUrl": "https://www.iherb.com/c/fit-lean" },
+  { "name": "FITCODE", "brandUrl": "https://www.iherb.com/c/fitcode" },
+  { "name": "FITCRUNCH", "brandUrl": "https://www.iherb.com/c/fitcrunch" },
+  { "name": "Fix & Fogg", "brandUrl": "https://www.iherb.com/c/fix-fogg" },
+  { "name": "Fixodent", "brandUrl": "https://www.iherb.com/c/fixodent" },
+  { "name": "FlapJacked", "brandUrl": "https://www.iherb.com/c/flapjacked" },
+  { "name": "Flat Tummy", "brandUrl": "https://www.iherb.com/c/flat-tummy" },
+  { "name": "Flintstones", "brandUrl": "https://www.iherb.com/c/flintstones" },
+  { "name": "Flora", "brandUrl": "https://www.iherb.com/c/flora" },
+  {
+    "name": "Flower Essence Services",
+    "brandUrl": "https://www.iherb.com/c/flower-essence-services"
+  },
+  {
+    "name": "Focus Factor",
+    "brandUrl": "https://www.iherb.com/c/focus-factor"
+  },
+  {
+    "name": "Food For Life",
+    "brandUrl": "https://www.iherb.com/c/food-for-life"
+  },
+  {
+    "name": "Food Huggers",
+    "brandUrl": "https://www.iherb.com/c/food-huggers"
+  },
+  { "name": "Foods Alive", "brandUrl": "https://www.iherb.com/c/foods-alive" },
+  {
+    "name": "Force Factor",
+    "brandUrl": "https://www.iherb.com/c/force-factor"
+  },
+  {
+    "name": "Forces of Nature",
+    "brandUrl": "https://www.iherb.com/c/forces-of-nature"
+  },
+  { "name": "Forest Leaf", "brandUrl": "https://www.iherb.com/c/forest-leaf" },
+  {
+    "name": "Four Sigmatic",
+    "brandUrl": "https://www.iherb.com/c/four-sigmatic"
+  },
+  { "name": "Fran Wilson", "brandUrl": "https://www.iherb.com/c/fran-wilson" },
+  {
+    "name": "Frankincense & Myrrh",
+    "brandUrl": "https://www.iherb.com/c/frankincense-myrrh"
+  },
+  {
+    "name": "Freeman Beauty",
+    "brandUrl": "https://www.iherb.com/c/freeman-beauty"
+  },
+  {
+    "name": "From The Ground Up",
+    "brandUrl": "https://www.iherb.com/c/from-the-ground-up"
+  },
+  {
+    "name": "Frontier Co-op",
+    "brandUrl": "https://www.iherb.com/c/frontier-co-op"
+  },
+  { "name": "Frownies", "brandUrl": "https://www.iherb.com/c/frownies" },
+  { "name": "Frudia", "brandUrl": "https://www.iherb.com/c/frudia" },
+  { "name": "Fruily", "brandUrl": "https://www.iherb.com/c/fruily" },
+  {
+    "name": "Fruit of the Earth",
+    "brandUrl": "https://www.iherb.com/c/fruit-of-the-earth"
+  },
+  {
+    "name": "Full Circle Home LLC",
+    "brandUrl": "https://www.iherb.com/c/full-circle-home-llc"
+  },
+  {
+    "name": "Fungi Perfecti Host Defense",
+    "brandUrl": "https://www.iherb.com/c/fungi-perfecti"
+  },
+  { "name": "Fungies", "brandUrl": "https://www.iherb.com/c/fungies" },
+  { "name": "Funny Farm", "brandUrl": "https://www.iherb.com/c/funny-farm" },
+  {
+    "name": "Further Food",
+    "brandUrl": "https://www.iherb.com/c/further-food"
+  },
+  {
+    "name": "Futurebiotics",
+    "brandUrl": "https://www.iherb.com/c/futurebiotics"
+  },
+  { "name": "G Hughes", "brandUrl": "https://www.iherb.com/c/g-hughes" },
+  { "name": "G9skin", "brandUrl": "https://www.iherb.com/c/g9skin" },
+  { "name": "Gaea", "brandUrl": "https://www.iherb.com/c/gaea" },
+  { "name": "Gaia Herbs", "brandUrl": "https://www.iherb.com/c/gaia-herbs" },
+  {
+    "name": "Gaia Herbs Professional Solutions",
+    "brandUrl": "https://www.iherb.com/c/gaia-herbs-professional-solutions"
+  },
+  {
+    "name": "Garden of Eatin'",
+    "brandUrl": "https://www.iherb.com/c/garden-of-eatin"
+  },
+  {
+    "name": "Garden of Life",
+    "brandUrl": "https://www.iherb.com/c/garden-of-life"
+  },
+  { "name": "Garnier", "brandUrl": "https://www.iherb.com/c/garnier" },
+  {
+    "name": "Gaspari Nutrition",
+    "brandUrl": "https://www.iherb.com/c/gaspari-nutrition"
+  },
+  { "name": "GAT", "brandUrl": "https://www.iherb.com/c/gat" },
+  {
+    "name": "Genceutic Naturals",
+    "brandUrl": "https://www.iherb.com/c/genceutic-naturals"
+  },
+  { "name": "GENEPRO", "brandUrl": "https://www.iherb.com/c/genepro" },
+  { "name": "Genexa LLC", "brandUrl": "https://www.iherb.com/c/genexa" },
+  { "name": "Genova", "brandUrl": "https://www.iherb.com/c/genova" },
+  {
+    "name": "Gerard Cosmetics",
+    "brandUrl": "https://www.iherb.com/c/gerard-cosmetics"
+  },
+  { "name": "Gerber", "brandUrl": "https://www.iherb.com/c/gerber" },
+  { "name": "Gigi Spa", "brandUrl": "https://www.iherb.com/c/gigi-spa" },
+  { "name": "Gillette", "brandUrl": "https://www.iherb.com/c/gillette" },
+  { "name": "gimMe", "brandUrl": "https://www.iherb.com/c/gimme" },
+  { "name": "Giovanni", "brandUrl": "https://www.iherb.com/c/giovanni" },
+  {
+    "name": "Glad for Pets",
+    "brandUrl": "https://www.iherb.com/c/glad-for-pets"
+  },
+  { "name": "Gly-Oxide", "brandUrl": "https://www.iherb.com/c/gly-oxide" },
+  { "name": "GNC", "brandUrl": "https://www.iherb.com/c/gnc" },
+  { "name": "Go Raw", "brandUrl": "https://www.iherb.com/c/go-raw" },
+  { "name": "Godefroy", "brandUrl": "https://www.iherb.com/c/godefroy" },
+  { "name": "Gold Bond", "brandUrl": "https://www.iherb.com/c/gold-bond" },
+  {
+    "name": "Golden Flower",
+    "brandUrl": "https://www.iherb.com/c/golden-flower"
+  },
+  {
+    "name": "Golden Throat",
+    "brandUrl": "https://www.iherb.com/c/golden-throat"
+  },
+  {
+    "name": "Goli Nutrition",
+    "brandUrl": "https://www.iherb.com/c/goli-nutrition"
+  },
+  {
+    "name": "Good Day Chocolate",
+    "brandUrl": "https://www.iherb.com/c/good-day-chocolate"
+  },
+  { "name": "GOOD GOOD", "brandUrl": "https://www.iherb.com/c/good-good" },
+  { "name": "Goodal", "brandUrl": "https://www.iherb.com/c/goodal" },
+  { "name": "Goodbase", "brandUrl": "https://www.iherb.com/c/goodbase" },
+  { "name": "GoStak", "brandUrl": "https://www.iherb.com/c/gostak" },
+  { "name": "Grab Green", "brandUrl": "https://www.iherb.com/c/grab-green" },
+  {
+    "name": "Grace & Stella",
+    "brandUrl": "https://www.iherb.com/c/grace-stella"
+  },
+  {
+    "name": "Great Wall Brand",
+    "brandUrl": "https://www.iherb.com/c/great-wall-brand"
+  },
+  {
+    "name": "Green Foods Corporation",
+    "brandUrl": "https://www.iherb.com/c/green-foods-corporation"
+  },
+  { "name": "Green Gruff", "brandUrl": "https://www.iherb.com/c/green-gruff" },
+  {
+    "name": "Green Sprouts",
+    "brandUrl": "https://www.iherb.com/c/green-sprouts"
+  },
+  {
+    "name": "Greens First",
+    "brandUrl": "https://www.iherb.com/c/greens-first"
+  },
+  { "name": "Greens Plus", "brandUrl": "https://www.iherb.com/c/greens-plus" },
+  {
+    "name": "Greensations",
+    "brandUrl": "https://www.iherb.com/c/greensations"
+  },
+  {
+    "name": "Growth Spurt",
+    "brandUrl": "https://www.iherb.com/c/growth-spurt"
+  },
+  { "name": "GummiKing", "brandUrl": "https://www.iherb.com/c/gummiking" },
+  { "name": "Gummiology", "brandUrl": "https://www.iherb.com/c/gummiology" },
+  { "name": "GummYum!", "brandUrl": "https://www.iherb.com/c/gummyum" },
+  { "name": "Haan", "brandUrl": "https://www.iherb.com/c/haan" },
+  { "name": "Haba", "brandUrl": "https://www.iherb.com/c/haba" },
+  { "name": "Hadalabo", "brandUrl": "https://www.iherb.com/c/hadalabo" },
+  { "name": "Hair Food", "brandUrl": "https://www.iherb.com/c/hair-food" },
+  {
+    "name": "Hana Beverage",
+    "brandUrl": "https://www.iherb.com/c/hana-beverage"
+  },
+  { "name": "Hanskin", "brandUrl": "https://www.iherb.com/c/hanskin" },
+  { "name": "Happy Cappy", "brandUrl": "https://www.iherb.com/c/happy-cappy" },
+  {
+    "name": "Happy Family Organics",
+    "brandUrl": "https://www.iherb.com/c/happy-family-organics"
+  },
+  {
+    "name": "Happy Healthy Hippie",
+    "brandUrl": "https://www.iherb.com/c/happy-healthy-hippie"
+  },
+  {
+    "name": "Harmonic Innerprizes",
+    "brandUrl": "https://www.iherb.com/c/harmonic-innerprizes"
+  },
+  {
+    "name": "Harney & Sons",
+    "brandUrl": "https://www.iherb.com/c/harney-sons"
+  },
+  { "name": "Haruharu", "brandUrl": "https://www.iherb.com/c/haruharu" },
+  { "name": "Hask Beauty", "brandUrl": "https://www.iherb.com/c/hask-beauty" },
+  {
+    "name": "Havasu Nutrition",
+    "brandUrl": "https://www.iherb.com/c/havasu-nutrition"
+  },
+  {
+    "name": "Hawaiian Tropic",
+    "brandUrl": "https://www.iherb.com/c/hawaiian-tropic"
+  },
+  {
+    "name": "Head & Shoulders",
+    "brandUrl": "https://www.iherb.com/c/head-shoulders"
+  },
+  {
+    "name": "Health Direct",
+    "brandUrl": "https://www.iherb.com/c/health-direct"
+  },
+  {
+    "name": "Health Garden",
+    "brandUrl": "https://www.iherb.com/c/health-garden"
+  },
+  {
+    "name": "Health Plus Inc.",
+    "brandUrl": "https://www.iherb.com/c/health-plus-inc"
+  },
+  {
+    "name": "HealthForce Superfoods",
+    "brandUrl": "https://www.iherb.com/c/healthforce-superfoods"
+  },
+  {
+    "name": "Healths Harmony",
+    "brandUrl": "https://www.iherb.com/c/healths-harmony"
+  },
+  { "name": "Healthy Pup", "brandUrl": "https://www.iherb.com/c/healthy-pup" },
+  {
+    "name": "Healthy Trading",
+    "brandUrl": "https://www.iherb.com/c/healthy-trading"
+  },
+  { "name": "HealthyBiom", "brandUrl": "https://www.iherb.com/c/healthybiom" },
+  { "name": "Hearos", "brandUrl": "https://www.iherb.com/c/hearos" },
+  {
+    "name": "Heather's Tummy Care",
+    "brandUrl": "https://www.iherb.com/c/heathers-tummy"
+  },
+  {
+    "name": "Heavenly Organics",
+    "brandUrl": "https://www.iherb.com/c/heavenly-organics"
+  },
+  {
+    "name": "Heavenly Tea Leaves",
+    "brandUrl": "https://www.iherb.com/c/heavenly-tea-leaves"
+  },
+  { "name": "Heimish", "brandUrl": "https://www.iherb.com/c/heimish" },
+  { "name": "Helimix", "brandUrl": "https://www.iherb.com/c/helimix" },
+  { "name": "Hello", "brandUrl": "https://www.iherb.com/c/hello" },
+  { "name": "Helloganic", "brandUrl": "https://www.iherb.com/c/helloganic" },
+  { "name": "Hempz", "brandUrl": "https://www.iherb.com/c/hempz" },
+  { "name": "Herb Pharm", "brandUrl": "https://www.iherb.com/c/herb-pharm" },
+  {
+    "name": "Herbal Answers, Inc",
+    "brandUrl": "https://www.iherb.com/c/herbal-answers-inc"
+  },
+  {
+    "name": "Herbal Essences",
+    "brandUrl": "https://www.iherb.com/c/herbal-essences"
+  },
+  {
+    "name": "Herbal Secrets",
+    "brandUrl": "https://www.iherb.com/c/herbal-secrets"
+  },
+  {
+    "name": "Herban Cowboy",
+    "brandUrl": "https://www.iherb.com/c/herban-cowboy"
+  },
+  { "name": "Herbatint", "brandUrl": "https://www.iherb.com/c/herbatint" },
+  { "name": "Herbs Etc.", "brandUrl": "https://www.iherb.com/c/herbs-etc" },
+  {
+    "name": "Herbs for Kids",
+    "brandUrl": "https://www.iherb.com/c/herbs-for-kids"
+  },
+  { "name": "Here We Flo", "brandUrl": "https://www.iherb.com/c/here-we-flo" },
+  {
+    "name": "Heritage Store",
+    "brandUrl": "https://www.iherb.com/c/heritage-store"
+  },
+  {
+    "name": "Hero Cosmetics",
+    "brandUrl": "https://www.iherb.com/c/hero-cosmetics"
+  },
+  { "name": "HiBAR", "brandUrl": "https://www.iherb.com/c/hibar" },
+  {
+    "name": "Highground Coffee",
+    "brandUrl": "https://www.iherb.com/c/highground-coffee"
+  },
+  { "name": "HighKey", "brandUrl": "https://www.iherb.com/c/highkey" },
+  { "name": "Himalaya", "brandUrl": "https://www.iherb.com/c/himalaya" },
+  {
+    "name": "Himalayan Chandra",
+    "brandUrl": "https://www.iherb.com/c/himalayan-chandra"
+  },
+  {
+    "name": "Himalayan Institute",
+    "brandUrl": "https://www.iherb.com/c/himalayan-institute"
+  },
+  {
+    "name": "Himalayan Pet Supply",
+    "brandUrl": "https://www.iherb.com/c/himalayan-pet-supply"
+  },
+  { "name": "Hippeas", "brandUrl": "https://www.iherb.com/c/hippeas" },
+  { "name": "Hobe Labs", "brandUrl": "https://www.iherb.com/c/hobe-labs" },
+  {
+    "name": "Holika Holika",
+    "brandUrl": "https://www.iherb.com/c/holika-holika"
+  },
+  {
+    "name": "Holistic Blend",
+    "brandUrl": "https://www.iherb.com/c/holistic-blend"
+  },
+  { "name": "Home Health", "brandUrl": "https://www.iherb.com/c/home-health" },
+  {
+    "name": "Homeolab USA",
+    "brandUrl": "https://www.iherb.com/c/homeolab-usa"
+  },
+  { "name": "Honees", "brandUrl": "https://www.iherb.com/c/honees" },
+  { "name": "Honey Belle", "brandUrl": "https://www.iherb.com/c/honey-belle" },
+  {
+    "name": "Honey Gardens",
+    "brandUrl": "https://www.iherb.com/c/honey-gardens"
+  },
+  { "name": "Honeyskin", "brandUrl": "https://www.iherb.com/c/honeyskin" },
+  { "name": "Hot Kid", "brandUrl": "https://www.iherb.com/c/hot-kid" },
+  {
+    "name": "Houston Enzymes",
+    "brandUrl": "https://www.iherb.com/c/houston-enzymes"
+  },
+  { "name": "Hu", "brandUrl": "https://www.iherb.com/c/hu" },
+  { "name": "Huangjisoo", "brandUrl": "https://www.iherb.com/c/huangjisoo" },
+  { "name": "Humphreys", "brandUrl": "https://www.iherb.com/c/humphreys" },
+  { "name": "Hurraw!", "brandUrl": "https://www.iherb.com/c/hurraw-balm" },
+  { "name": "Huxley", "brandUrl": "https://www.iherb.com/c/huxley" },
+  { "name": "HVMN", "brandUrl": "https://www.iherb.com/c/hvmn" },
+  {
+    "name": "Hyalogic LLC",
+    "brandUrl": "https://www.iherb.com/c/hyalogic-llc"
+  },
+  { "name": "Hydralyte", "brandUrl": "https://www.iherb.com/c/hydralyte" },
+  { "name": "HydroJug", "brandUrl": "https://www.iherb.com/c/hydrojug" },
+  { "name": "Hydroxycut", "brandUrl": "https://www.iherb.com/c/hydroxycut" },
+  {
+    "name": "Hyland's Naturals",
+    "brandUrl": "https://www.iherb.com/c/hylands-naturals"
+  },
+  { "name": "Hyleys Tea", "brandUrl": "https://www.iherb.com/c/hyleys-tea" },
+  {
+    "name": "Hyperbiotics",
+    "brandUrl": "https://www.iherb.com/c/hyperbiotics"
+  },
+  { "name": "I Dew Care", "brandUrl": "https://www.iherb.com/c/i-dew-care" },
+  { "name": "I'm From", "brandUrl": "https://www.iherb.com/c/im-from" },
+  { "name": "Icy Hot", "brandUrl": "https://www.iherb.com/c/icy-hot" },
+  { "name": "Idealove", "brandUrl": "https://www.iherb.com/c/idealove" },
+  { "name": "If You Care", "brandUrl": "https://www.iherb.com/c/if-you-care" },
+  {
+    "name": "iHerb Brands",
+    "brandUrl": "https://www.iherb.com/c/iherb-brands"
+  },
+  { "name": "iHerb Goods", "brandUrl": "https://www.iherb.com/c/iherb-goods" },
+  { "name": "Ilhwa", "brandUrl": "https://www.iherb.com/c/ilhwa" },
+  {
+    "name": "Imperial Elixir",
+    "brandUrl": "https://www.iherb.com/c/imperial-elixir"
+  },
+  { "name": "Indie Lee", "brandUrl": "https://www.iherb.com/c/indie-lee" },
+  { "name": "Inecto", "brandUrl": "https://www.iherb.com/c/inecto" },
+  {
+    "name": "Innate Response Formulas",
+    "brandUrl": "https://www.iherb.com/c/innate-response-formulas"
+  },
+  { "name": "InnovixLabs", "brandUrl": "https://www.iherb.com/c/innovixlabs" },
+  {
+    "name": "InstaNatural",
+    "brandUrl": "https://www.iherb.com/c/instanatural"
+  },
+  {
+    "name": "International Veterinary Sciences",
+    "brandUrl": "https://www.iherb.com/c/international-veterinary-sciences"
+  },
+  {
+    "name": "InterPlexus Inc.",
+    "brandUrl": "https://www.iherb.com/c/interplexus-inc"
+  },
+  {
+    "name": "Invisibobble",
+    "brandUrl": "https://www.iherb.com/c/invisibobble"
+  },
+  {
+    "name": "ION Intelligence of Nature",
+    "brandUrl": "https://www.iherb.com/c/ion-intelligence-of-nature"
+  },
+  {
+    "name": "IP-6 International",
+    "brandUrl": "https://www.iherb.com/c/ip-6-international"
+  },
+  { "name": "IQBAR", "brandUrl": "https://www.iherb.com/c/iqbar" },
+  {
+    "name": "Irwin Naturals",
+    "brandUrl": "https://www.iherb.com/c/irwin-naturals"
+  },
+  { "name": "Isntree", "brandUrl": "https://www.iherb.com/c/isntree" },
+  { "name": "Isopure", "brandUrl": "https://www.iherb.com/c/isopure" },
+  { "name": "It's Skin", "brandUrl": "https://www.iherb.com/c/it-s-skin" },
+  { "name": "itzy ritzy", "brandUrl": "https://www.iherb.com/c/itzy-ritzy" },
+  { "name": "iUNIK", "brandUrl": "https://www.iherb.com/c/iunik" },
+  { "name": "iWi", "brandUrl": "https://www.iherb.com/c/iwi" },
+  {
+    "name": "IWON Organics",
+    "brandUrl": "https://www.iherb.com/c/iwon-organics"
+  },
+  { "name": "J R Watkins", "brandUrl": "https://www.iherb.com/c/j-r-watkins" },
+  { "name": "J.Cat Beauty", "brandUrl": "https://www.iherb.com/c/jcat-beauty" },
+  {
+    "name": "J.R. Liggetts",
+    "brandUrl": "https://www.iherb.com/c/j-r-liggett-s"
+  },
+  {
+    "name": "J&R Port Trading",
+    "brandUrl": "https://www.iherb.com/c/j-r-port-trading"
+  },
+  { "name": "Jack n' Jill", "brandUrl": "https://www.iherb.com/c/jack-n-jill" },
+  {
+    "name": "Jacked Factory",
+    "brandUrl": "https://www.iherb.com/c/jacked-factory"
+  },
+  { "name": "JAKTRX", "brandUrl": "https://www.iherb.com/c/jaktrx" },
+  { "name": "Jane's Krazy", "brandUrl": "https://www.iherb.com/c/janes-krazy" },
+  {
+    "name": "Jarrow Formulas",
+    "brandUrl": "https://www.iherb.com/c/jarrow-formulas"
+  },
+  {
+    "name": "Jason Natural",
+    "brandUrl": "https://www.iherb.com/c/jason-natural"
+  },
+  {
+    "name": "Jayjun Cosmetic",
+    "brandUrl": "https://www.iherb.com/c/jayjun-cosmetic"
+  },
+  {
+    "name": "Jeffrey James Botanicals",
+    "brandUrl": "https://www.iherb.com/c/jeffrey-james-botanicals"
+  },
+  {
+    "name": "Jennies Macaroons",
+    "brandUrl": "https://www.iherb.com/c/jennies-macaroons"
+  },
+  { "name": "Jergens", "brandUrl": "https://www.iherb.com/c/jergens" },
+  {
+    "name": "Jigsaw Health",
+    "brandUrl": "https://www.iherb.com/c/jigsaw-health"
+  },
+  { "name": "JiMMY!", "brandUrl": "https://www.iherb.com/c/jimmy" },
+  {
+    "name": "Jiva Organics",
+    "brandUrl": "https://www.iherb.com/c/jiva-organics"
+  },
+  { "name": "JNX Sports", "brandUrl": "https://www.iherb.com/c/jnx-sports" },
+  {
+    "name": "Johnson's Baby",
+    "brandUrl": "https://www.iherb.com/c/johnsons-baby"
+  },
+  {
+    "name": "Jool Baby Products",
+    "brandUrl": "https://www.iherb.com/c/jool-baby-products"
+  },
+  { "name": "Joolies", "brandUrl": "https://www.iherb.com/c/joolies" },
+  { "name": "Jovial", "brandUrl": "https://www.iherb.com/c/jovial" },
+  { "name": "JoySpring", "brandUrl": "https://www.iherb.com/c/joyspring" },
+  {
+    "name": "Jules Destrooper",
+    "brandUrl": "https://www.iherb.com/c/jules-destrooper"
+  },
+  {
+    "name": "Julian Bakery",
+    "brandUrl": "https://www.iherb.com/c/julian-bakery"
+  },
+  { "name": "Jumiso", "brandUrl": "https://www.iherb.com/c/jumiso" },
+  {
+    "name": "JUNP Hydration",
+    "brandUrl": "https://www.iherb.com/c/junp-hydration"
+  },
+  {
+    "name": "Just for Men",
+    "brandUrl": "https://www.iherb.com/c/just-for-men"
+  },
+  {
+    "name": "Just Hemp Foods",
+    "brandUrl": "https://www.iherb.com/c/just-hemp-foods"
+  },
+  {
+    "name": "Just The Cheese",
+    "brandUrl": "https://www.iherb.com/c/just-the-cheese"
+  },
+  {
+    "name": "Justin's Nut Butter",
+    "brandUrl": "https://www.iherb.com/c/justin-s-nut-butter"
+  },
+  {
+    "name": "JYM Supplement Science",
+    "brandUrl": "https://www.iherb.com/c/jym-supplement-science"
+  },
+  { "name": "KA-ME", "brandUrl": "https://www.iherb.com/c/ka-me" },
+  { "name": "Kabrita", "brandUrl": "https://www.iherb.com/c/kabrita" },
+  {
+    "name": "Kaffree Roma",
+    "brandUrl": "https://www.iherb.com/c/kaffree-roma"
+  },
+  { "name": "Kaged", "brandUrl": "https://www.iherb.com/c/kaged" },
+  { "name": "Kaine", "brandUrl": "https://www.iherb.com/c/kaine" },
+  { "name": "KAL", "brandUrl": "https://www.iherb.com/c/kal" },
+  {
+    "name": "Karen's Naturals",
+    "brandUrl": "https://www.iherb.com/c/karen-s-naturals"
+  },
+  { "name": "KeaBabies", "brandUrl": "https://www.iherb.com/c/keababies" },
+  { "name": "Kekoa", "brandUrl": "https://www.iherb.com/c/kekoa" },
+  { "name": "Kenkoderm", "brandUrl": "https://www.iherb.com/c/kenkoderm" },
+  { "name": "Kerasal", "brandUrl": "https://www.iherb.com/c/kerasal" },
+  { "name": "Kerasys", "brandUrl": "https://www.iherb.com/c/kerasys" },
+  { "name": "Keri", "brandUrl": "https://www.iherb.com/c/keri" },
+  { "name": "Keto and Co", "brandUrl": "https://www.iherb.com/c/keto-and-co" },
+  { "name": "KetoLogic", "brandUrl": "https://www.iherb.com/c/ketologic" },
+  {
+    "name": "Kettle & Fire",
+    "brandUrl": "https://www.iherb.com/c/kettle-fire"
+  },
+  {
+    "name": "Kettle Foods",
+    "brandUrl": "https://www.iherb.com/c/kettle-foods"
+  },
+  { "name": "Kevala", "brandUrl": "https://www.iherb.com/c/kevala" },
+  {
+    "name": "Kevin's Natural Foods",
+    "brandUrl": "https://www.iherb.com/c/kevins-natural-foods"
+  },
+  { "name": "Kiki Milk", "brandUrl": "https://www.iherb.com/c/kiki-milk" },
+  {
+    "name": "Kikumasamune",
+    "brandUrl": "https://www.iherb.com/c/kikumasamune"
+  },
+  { "name": "Kin+Kind", "brandUrl": "https://www.iherb.com/c/kin-kind" },
+  {
+    "name": "KIND Bars",
+    "brandUrl": "https://www.iherb.com/c/kind-healthy-snacks"
+  },
+  { "name": "KINDER'S", "brandUrl": "https://www.iherb.com/c/kinders" },
+  {
+    "name": "King Arthur Baking Company",
+    "brandUrl": "https://www.iherb.com/c/king-arthur-baking-company"
+  },
+  { "name": "King Oscar", "brandUrl": "https://www.iherb.com/c/king-oscar" },
+  { "name": "Kinky-Curly", "brandUrl": "https://www.iherb.com/c/kinky-curly" },
+  {
+    "name": "Kirkman Labs",
+    "brandUrl": "https://www.iherb.com/c/kirkman-labs"
+  },
+  { "name": "Kirks", "brandUrl": "https://www.iherb.com/c/kirks" },
+  {
+    "name": "Kiss My Face",
+    "brandUrl": "https://www.iherb.com/c/kiss-my-face"
+  },
+  {
+    "name": "Kiss My Keto",
+    "brandUrl": "https://www.iherb.com/c/kiss-my-keto"
+  },
+  { "name": "KissMe", "brandUrl": "https://www.iherb.com/c/kissme" },
+  {
+    "name": "Kitchens of India",
+    "brandUrl": "https://www.iherb.com/c/kitchens-of-india"
+  },
+  { "name": "Kitsch", "brandUrl": "https://www.iherb.com/c/kitsch" },
+  { "name": "Kitty Caps", "brandUrl": "https://www.iherb.com/c/kitty-caps" },
+  { "name": "KLAVUU", "brandUrl": "https://www.iherb.com/c/klavuu" },
+  { "name": "Knorr", "brandUrl": "https://www.iherb.com/c/knorr" },
+  {
+    "name": "Kodiak Cakes",
+    "brandUrl": "https://www.iherb.com/c/kodiak-cakes"
+  },
+  { "name": "Koelf", "brandUrl": "https://www.iherb.com/c/koelf" },
+  { "name": "Koji", "brandUrl": "https://www.iherb.com/c/koji" },
+  { "name": "Kolorex", "brandUrl": "https://www.iherb.com/c/kolorex" },
+  { "name": "Kori", "brandUrl": "https://www.iherb.com/c/kori" },
+  { "name": "KOS", "brandUrl": "https://www.iherb.com/c/kos" },
+  { "name": "Kosette", "brandUrl": "https://www.iherb.com/c/kosette" },
+  { "name": "Kracie", "brandUrl": "https://www.iherb.com/c/kracie" },
+  {
+    "name": "Kroeger Herb Co",
+    "brandUrl": "https://www.iherb.com/c/kroeger-herb-co"
+  },
+  { "name": "Kundal", "brandUrl": "https://www.iherb.com/c/kundal" },
+  { "name": "Kyolic", "brandUrl": "https://www.iherb.com/c/kyolic" },
+  { "name": "L.A. Girl", "brandUrl": "https://www.iherb.com/c/la-girl" },
+  {
+    "name": "L'il Critters",
+    "brandUrl": "https://www.iherb.com/c/l-il-critters"
+  },
+  { "name": "L'Oréal", "brandUrl": "https://www.iherb.com/c/loreal" },
+  {
+    "name": "La Tourangelle",
+    "brandUrl": "https://www.iherb.com/c/la-tourangelle"
+  },
+  {
+    "name": "Labrada Nutrition",
+    "brandUrl": "https://www.iherb.com/c/labrada-nutrition"
+  },
+  {
+    "name": "Laird Superfood",
+    "brandUrl": "https://www.iherb.com/c/laird-superfood"
+  },
+  { "name": "Lakanto", "brandUrl": "https://www.iherb.com/c/lakanto" },
+  {
+    "name": "Lake Avenue Nutrition",
+    "brandUrl": "https://www.iherb.com/c/lake-avenue-nutrition"
+  },
+  { "name": "Lalarecipe", "brandUrl": "https://www.iherb.com/c/lalarecipe" },
+  { "name": "Lamaze", "brandUrl": "https://www.iherb.com/c/lamaze" },
+  { "name": "Landsberg", "brandUrl": "https://www.iherb.com/c/landsberg" },
+  { "name": "Laneige", "brandUrl": "https://www.iherb.com/c/laneige" },
+  { "name": "Lansinoh", "brandUrl": "https://www.iherb.com/c/lansinoh" },
+  { "name": "Lapcos", "brandUrl": "https://www.iherb.com/c/lapcos" },
+  { "name": "Larabar", "brandUrl": "https://www.iherb.com/c/larabar" },
+  { "name": "Late July", "brandUrl": "https://www.iherb.com/c/late-july" },
+  { "name": "Lather", "brandUrl": "https://www.iherb.com/c/lather" },
+  {
+    "name": "Lavaa Lashes",
+    "brandUrl": "https://www.iherb.com/c/lavaa-lashes"
+  },
+  { "name": "LaVie", "brandUrl": "https://www.iherb.com/c/lavie" },
+  { "name": "Lavilin", "brandUrl": "https://www.iherb.com/c/lavilin" },
+  { "name": "Lavons", "brandUrl": "https://www.iherb.com/c/lavons" },
+  { "name": "Lazartigue", "brandUrl": "https://www.iherb.com/c/lazartigue" },
+  { "name": "Leaders", "brandUrl": "https://www.iherb.com/c/leaders" },
+  { "name": "Lean1", "brandUrl": "https://www.iherb.com/c/lean1" },
+  {
+    "name": "Leaner Creamer",
+    "brandUrl": "https://www.iherb.com/c/leaner-creamer"
+  },
+  {
+    "name": "Left Coast Performance",
+    "brandUrl": "https://www.iherb.com/c/left-coast-performance"
+  },
+  {
+    "name": "Legendairy Milk",
+    "brandUrl": "https://www.iherb.com/c/legendairy-milk"
+  },
+  {
+    "name": "Legendary Foods",
+    "brandUrl": "https://www.iherb.com/c/legendary-foods"
+  },
+  { "name": "Lemi Shine", "brandUrl": "https://www.iherb.com/c/lemi-shine" },
+  {
+    "name": "Lenny & Larry's",
+    "brandUrl": "https://www.iherb.com/c/lenny-larry-s"
+  },
+  { "name": "LesserEvil", "brandUrl": "https://www.iherb.com/c/lesserevil" },
+  { "name": "Let Me Skin", "brandUrl": "https://www.iherb.com/c/let-me-skin" },
+  { "name": "Leven Rose", "brandUrl": "https://www.iherb.com/c/leven-rose" },
+  { "name": "Lewis Labs", "brandUrl": "https://www.iherb.com/c/lewis-labs" },
+  {
+    "name": "Li Chung Shing Tong",
+    "brandUrl": "https://www.iherb.com/c/li-chung-shing-tong"
+  },
+  {
+    "name": "Life Enhancement",
+    "brandUrl": "https://www.iherb.com/c/life-enhancement"
+  },
+  {
+    "name": "Life Extension",
+    "brandUrl": "https://www.iherb.com/c/life-extension"
+  },
+  {
+    "name": "Life Source Basics (WGP Beta Glucan)",
+    "brandUrl": "https://www.iherb.com/c/life-source-basics-wgp-beta-glucan"
+  },
+  { "name": "Life-flo", "brandUrl": "https://www.iherb.com/c/life-flo" },
+  { "name": "Life's DHA", "brandUrl": "https://www.iherb.com/c/lifes-dha" },
+  { "name": "Lifeable", "brandUrl": "https://www.iherb.com/c/lifeable" },
+  { "name": "LifeSeasons", "brandUrl": "https://www.iherb.com/c/lifeseasons" },
+  {
+    "name": "LifeTime Vitamins",
+    "brandUrl": "https://www.iherb.com/c/lifetime-vitamins"
+  },
+  {
+    "name": "Light Mountain",
+    "brandUrl": "https://www.iherb.com/c/light-mountain"
+  },
+  {
+    "name": "Lily of the Desert",
+    "brandUrl": "https://www.iherb.com/c/lily-of-the-desert"
+  },
+  {
+    "name": "Lily's Sweets",
+    "brandUrl": "https://www.iherb.com/c/lilys-sweets"
+  },
+  {
+    "name": "Lilyana Naturals",
+    "brandUrl": "https://www.iherb.com/c/lilyana-naturals"
+  },
+  { "name": "Lip Smacker", "brandUrl": "https://www.iherb.com/c/lip-smacker" },
+  {
+    "name": "Lipo Naturals",
+    "brandUrl": "https://www.iherb.com/c/lipo-naturals"
+  },
+  {
+    "name": "Lipo-Flavonoid",
+    "brandUrl": "https://www.iherb.com/c/lipo-flavonoid"
+  },
+  { "name": "Liquid I.V.", "brandUrl": "https://www.iherb.com/c/liquid-iv" },
+  { "name": "Listerine", "brandUrl": "https://www.iherb.com/c/listerine" },
+  {
+    "name": "Little Bellies",
+    "brandUrl": "https://www.iherb.com/c/little-bellies"
+  },
+  {
+    "name": "Little DaVinci",
+    "brandUrl": "https://www.iherb.com/c/little-davinci"
+  },
+  {
+    "name": "Little Remedies",
+    "brandUrl": "https://www.iherb.com/c/little-remedies"
+  },
+  {
+    "name": "Little Secrets",
+    "brandUrl": "https://www.iherb.com/c/little-secrets"
+  },
+  {
+    "name": "Live Conscious",
+    "brandUrl": "https://www.iherb.com/c/live-conscious"
+  },
+  { "name": "LIVIVA", "brandUrl": "https://www.iherb.com/c/liviva" },
+  { "name": "Livlo", "brandUrl": "https://www.iherb.com/c/livlo" },
+  {
+    "name": "Longreen Corporation",
+    "brandUrl": "https://www.iherb.com/c/longreen-corporation"
+  },
+  { "name": "Lonolife", "brandUrl": "https://www.iherb.com/c/lonolife" },
+  { "name": "Lotrimin", "brandUrl": "https://www.iherb.com/c/lotrimin" },
+  { "name": "Lottabody", "brandUrl": "https://www.iherb.com/c/lottabody" },
+  { "name": "Lotus Foods", "brandUrl": "https://www.iherb.com/c/lotus-foods" },
+  {
+    "name": "Louisville Vegan Jerky Co",
+    "brandUrl": "https://www.iherb.com/c/louisville-vegan-jerky-co"
+  },
+  {
+    "name": "Love Beauty and Planet",
+    "brandUrl": "https://www.iherb.com/c/love-beauty-and-planet"
+  },
+  { "name": "Love Corn", "brandUrl": "https://www.iherb.com/c/love-corn" },
+  {
+    "name": "Love Good Fats",
+    "brandUrl": "https://www.iherb.com/c/love-good-fats"
+  },
+  {
+    "name": "LoveBug Probiotics",
+    "brandUrl": "https://www.iherb.com/c/lovebug-probiotics"
+  },
+  { "name": "Lubriderm", "brandUrl": "https://www.iherb.com/c/lubriderm" },
+  { "name": "Lucini", "brandUrl": "https://www.iherb.com/c/lucini" },
+  { "name": "Luden's", "brandUrl": "https://www.iherb.com/c/ludens" },
+  { "name": "Lululun", "brandUrl": "https://www.iherb.com/c/lululun" },
+  { "name": "Lumify", "brandUrl": "https://www.iherb.com/c/lumify" },
+  { "name": "Lumin", "brandUrl": "https://www.iherb.com/c/lumin" },
+  {
+    "name": "Lumineux Oral Essentials",
+    "brandUrl": "https://www.iherb.com/c/lumineux-oral-essentials"
+  },
+  { "name": "Lundberg", "brandUrl": "https://www.iherb.com/c/lundberg" },
+  {
+    "name": "Luseta Beauty",
+    "brandUrl": "https://www.iherb.com/c/luseta-beauty"
+  },
+  { "name": "LxH", "brandUrl": "https://www.iherb.com/c/lxh" },
+  { "name": "M3 Naturals", "brandUrl": "https://www.iherb.com/c/m3-naturals" },
+  { "name": "ma:nyo", "brandUrl": "https://www.iherb.com/c/manyo" },
+  { "name": "Maca Magic", "brandUrl": "https://www.iherb.com/c/maca-magic" },
+  {
+    "name": "Macrolife Naturals",
+    "brandUrl": "https://www.iherb.com/c/macrolife-naturals"
+  },
+  { "name": "Mad Hippie", "brandUrl": "https://www.iherb.com/c/mad-hippie" },
+  {
+    "name": "Made in Nature",
+    "brandUrl": "https://www.iherb.com/c/made-in-nature"
+  },
+  { "name": "MadeGood", "brandUrl": "https://www.iherb.com/c/madegood" },
+  {
+    "name": "Madhava Natural Sweeteners",
+    "brandUrl": "https://www.iherb.com/c/madhava-natural-sweeteners"
+  },
+  { "name": "Madre Labs", "brandUrl": "https://www.iherb.com/c/madre-labs" },
+  { "name": "Magic Spoon", "brandUrl": "https://www.iherb.com/c/magic-spoon" },
+  { "name": "MagniLife", "brandUrl": "https://www.iherb.com/c/magnilife" },
+  {
+    "name": "Maine Coast Sea Vegetables",
+    "brandUrl": "https://www.iherb.com/c/maine-coast-sea-vegetables"
+  },
+  { "name": "MAM", "brandUrl": "https://www.iherb.com/c/mam" },
+  { "name": "Mamma Chia", "brandUrl": "https://www.iherb.com/c/mamma-chia" },
+  { "name": "Mane 'n Tail", "brandUrl": "https://www.iherb.com/c/mane-n-tail" },
+  { "name": "Mane Choice", "brandUrl": "https://www.iherb.com/c/mane-choice" },
+  {
+    "name": "Manitoba Harvest",
+    "brandUrl": "https://www.iherb.com/c/manitoba-harvest"
+  },
+  {
+    "name": "Manuka Doctor",
+    "brandUrl": "https://www.iherb.com/c/manuka-doctor"
+  },
+  {
+    "name": "Manuka Health",
+    "brandUrl": "https://www.iherb.com/c/manuka-health"
+  },
+  { "name": "ManukaGuard", "brandUrl": "https://www.iherb.com/c/manukaguard" },
+  { "name": "MaraNatha", "brandUrl": "https://www.iherb.com/c/maranatha" },
+  {
+    "name": "Marc Anthony",
+    "brandUrl": "https://www.iherb.com/c/marc-anthony"
+  },
+  { "name": "Maree", "brandUrl": "https://www.iherb.com/c/maree" },
+  {
+    "name": "Mariani Dried Fruit",
+    "brandUrl": "https://www.iherb.com/c/mariani-dried-fruit"
+  },
+  { "name": "Maro", "brandUrl": "https://www.iherb.com/c/maro" },
+  { "name": "Marukan", "brandUrl": "https://www.iherb.com/c/marukan" },
+  { "name": "Mary & May", "brandUrl": "https://www.iherb.com/c/mary-may" },
+  {
+    "name": "Mary's Gone Crackers",
+    "brandUrl": "https://www.iherb.com/c/mary-s-gone-crackers"
+  },
+  {
+    "name": "Maryann Organics",
+    "brandUrl": "https://www.iherb.com/c/maryann-organics"
+  },
+  {
+    "name": "MaryRuth Organics",
+    "brandUrl": "https://www.iherb.com/c/maryruth-organics"
+  },
+  {
+    "name": "Mason Natural",
+    "brandUrl": "https://www.iherb.com/c/mason-natural"
+  },
+  {
+    "name": "Master Supplements",
+    "brandUrl": "https://www.iherb.com/c/master-supplements"
+  },
+  { "name": "Matcha Road", "brandUrl": "https://www.iherb.com/c/matcha-road" },
+  { "name": "Mate Factor", "brandUrl": "https://www.iherb.com/c/mate-factor" },
+  { "name": "Maty's", "brandUrl": "https://www.iherb.com/c/matys" },
+  { "name": "Maui Babe", "brandUrl": "https://www.iherb.com/c/maui-babe" },
+  {
+    "name": "Maui Moisture",
+    "brandUrl": "https://www.iherb.com/c/maui-moisture"
+  },
+  { "name": "Mauna Loa", "brandUrl": "https://www.iherb.com/c/mauna-loa" },
+  {
+    "name": "MAV Nutrition",
+    "brandUrl": "https://www.iherb.com/c/mav-nutrition"
+  },
+  { "name": "Mavala", "brandUrl": "https://www.iherb.com/c/mavala" },
+  {
+    "name": "Maxim Hygiene Products",
+    "brandUrl": "https://www.iherb.com/c/maxim-hygiene-products"
+  },
+  { "name": "Maya Kaimal", "brandUrl": "https://www.iherb.com/c/maya-kaimal" },
+  { "name": "Maybelline", "brandUrl": "https://www.iherb.com/c/maybelline" },
+  { "name": "McCormick", "brandUrl": "https://www.iherb.com/c/mccormick" },
+  {
+    "name": "McCormick Gourmet",
+    "brandUrl": "https://www.iherb.com/c/mccormick-gourmet"
+  },
+  {
+    "name": "McCormick Gourmet Global Selects",
+    "brandUrl": "https://www.iherb.com/c/mccormick-gourmet-global-selects"
+  },
+  {
+    "name": "McCormick Grill Mates",
+    "brandUrl": "https://www.iherb.com/c/mccormick-grill-mates"
+  },
+  { "name": "Mederma", "brandUrl": "https://www.iherb.com/c/mederma" },
+  { "name": "Medi-Peel", "brandUrl": "https://www.iherb.com/c/medi-peel" },
+  {
+    "name": "Medicine Mama's",
+    "brandUrl": "https://www.iherb.com/c/medicine-mama-s"
+  },
+  { "name": "Mediheal", "brandUrl": "https://www.iherb.com/c/mediheal" },
+  { "name": "MediNatura", "brandUrl": "https://www.iherb.com/c/medinatura" },
+  { "name": "Medix 5.5", "brandUrl": "https://www.iherb.com/c/medix-55" },
+  { "name": "Meg & Hugo", "brandUrl": "https://www.iherb.com/c/meg-hugo" },
+  { "name": "MegaFood", "brandUrl": "https://www.iherb.com/c/megafood" },
+  { "name": "Megrhythm", "brandUrl": "https://www.iherb.com/c/megrhythm" },
+  { "name": "Mehaz", "brandUrl": "https://www.iherb.com/c/mehaz" },
+  {
+    "name": "Mei Apothecary",
+    "brandUrl": "https://www.iherb.com/c/mei-apothecary"
+  },
+  { "name": "Meishoku", "brandUrl": "https://www.iherb.com/c/meishoku" },
+  { "name": "Mentholatum", "brandUrl": "https://www.iherb.com/c/mentholatum" },
+  { "name": "MET-Rx", "brandUrl": "https://www.iherb.com/c/met-rx" },
+  {
+    "name": "Metabolic Maintenance",
+    "brandUrl": "https://www.iherb.com/c/metabolic-maintenance"
+  },
+  {
+    "name": "Metabolic Nutrition",
+    "brandUrl": "https://www.iherb.com/c/metabolic-nutrition"
+  },
+  { "name": "Metagenics", "brandUrl": "https://www.iherb.com/c/metagenics" },
+  { "name": "Method", "brandUrl": "https://www.iherb.com/c/method" },
+  {
+    "name": "Meyenberg Goat Milk",
+    "brandUrl": "https://www.iherb.com/c/meyenberg-goat-milk"
+  },
+  { "name": "MHP", "brandUrl": "https://www.iherb.com/c/mhp" },
+  {
+    "name": "Michael's Naturopathic",
+    "brandUrl": "https://www.iherb.com/c/michaels-naturopathic"
+  },
+  { "name": "Midol", "brandUrl": "https://www.iherb.com/c/midol" },
+  { "name": "Mielle", "brandUrl": "https://www.iherb.com/c/mielle" },
+  {
+    "name": "Mike's Hot Honey",
+    "brandUrl": "https://www.iherb.com/c/mikes-hot-honey"
+  },
+  {
+    "name": "Mike's Mighty Good",
+    "brandUrl": "https://www.iherb.com/c/mikes-mighty-good"
+  },
+  {
+    "name": "Mild By Nature",
+    "brandUrl": "https://www.iherb.com/c/mild-by-nature"
+  },
+  {
+    "name": "Mill Creek Botanicals",
+    "brandUrl": "https://www.iherb.com/c/mill-creek-botanicals"
+  },
+  {
+    "name": "Milton's Craft Bakers",
+    "brandUrl": "https://www.iherb.com/c/miltons-craft-bakers"
+  },
+  { "name": "Mina", "brandUrl": "https://www.iherb.com/c/mina" },
+  {
+    "name": "Minami Nutrition",
+    "brandUrl": "https://www.iherb.com/c/minami-nutrition"
+  },
+  { "name": "Mindhoney", "brandUrl": "https://www.iherb.com/c/mindhoney" },
+  {
+    "name": "Miracle Noodle",
+    "brandUrl": "https://www.iherb.com/c/miracle-noodle"
+  },
+  {
+    "name": "Miracle Plus",
+    "brandUrl": "https://www.iherb.com/c/miracle-plus"
+  },
+  { "name": "MiraLAX", "brandUrl": "https://www.iherb.com/c/miralax" },
+  {
+    "name": "Miss Jones Baking Co",
+    "brandUrl": "https://www.iherb.com/c/miss-jones-baking-co"
+  },
+  { "name": "Missha", "brandUrl": "https://www.iherb.com/c/missha" },
+  { "name": "Mixsoon", "brandUrl": "https://www.iherb.com/c/mixsoon" },
+  { "name": "Mizon", "brandUrl": "https://www.iherb.com/c/mizon" },
+  {
+    "name": "Modern Products",
+    "brandUrl": "https://www.iherb.com/c/modern-products"
+  },
+  { "name": "Moist Diane", "brandUrl": "https://www.iherb.com/c/moist-diane" },
+  { "name": "Moku", "brandUrl": "https://www.iherb.com/c/moku" },
+  {
+    "name": "Molly's Suds",
+    "brandUrl": "https://www.iherb.com/c/molly-s-suds"
+  },
+  {
+    "name": "Mommy Knows Best",
+    "brandUrl": "https://www.iherb.com/c/mommy-knows-best"
+  },
+  {
+    "name": "Mommy's Bliss",
+    "brandUrl": "https://www.iherb.com/c/mommy-s-bliss"
+  },
+  { "name": "Momofuku", "brandUrl": "https://www.iherb.com/c/momofuku" },
+  {
+    "name": "Monari Federzoni",
+    "brandUrl": "https://www.iherb.com/c/monari-federzoni"
+  },
+  { "name": "Monistat", "brandUrl": "https://www.iherb.com/c/monistat" },
+  {
+    "name": "Monoi Tiare Tahiti",
+    "brandUrl": "https://www.iherb.com/c/monoi-tiare-tahiti"
+  },
+  { "name": "MOODmatcher", "brandUrl": "https://www.iherb.com/c/moodmatcher" },
+  { "name": "Moon Cheese", "brandUrl": "https://www.iherb.com/c/moon-cheese" },
+  {
+    "name": "Morningstar Minerals",
+    "brandUrl": "https://www.iherb.com/c/morningstar-minerals"
+  },
+  { "name": "Motherlove", "brandUrl": "https://www.iherb.com/c/motherlove" },
+  { "name": "Motrin", "brandUrl": "https://www.iherb.com/c/motrin" },
+  { "name": "Mount Hagen", "brandUrl": "https://www.iherb.com/c/mount-hagen" },
+  { "name": "Mount Lai", "brandUrl": "https://www.iherb.com/c/mount-lai" },
+  {
+    "name": "MRM Nutrition",
+    "brandUrl": "https://www.iherb.com/c/mrm-nutrition"
+  },
+  {
+    "name": "Mrs. Meyers Clean Day",
+    "brandUrl": "https://www.iherb.com/c/mrs-meyers-clean-day"
+  },
+  {
+    "name": "Mrs. Stewart's",
+    "brandUrl": "https://www.iherb.com/c/mrs-stewarts"
+  },
+  { "name": "Mt. Capra", "brandUrl": "https://www.iherb.com/c/mt-capra" },
+  {
+    "name": "Mt. Whitney Coffee Roasters",
+    "brandUrl": "https://www.iherb.com/c/mt-whitney-coffee-roasters"
+  },
+  { "name": "Mucinex", "brandUrl": "https://www.iherb.com/c/mucinex" },
+  { "name": "Munk Pack", "brandUrl": "https://www.iherb.com/c/munk-pack" },
+  { "name": "MuscleMeds", "brandUrl": "https://www.iherb.com/c/musclemeds" },
+  { "name": "MuscleSport", "brandUrl": "https://www.iherb.com/c/musclesport" },
+  { "name": "MuscleTech", "brandUrl": "https://www.iherb.com/c/muscletech" },
+  {
+    "name": "Mushroom Wisdom",
+    "brandUrl": "https://www.iherb.com/c/mushroom-wisdom"
+  },
+  { "name": "Mustela", "brandUrl": "https://www.iherb.com/c/mustela" },
+  { "name": "Mylanta", "brandUrl": "https://www.iherb.com/c/mylanta" },
+  { "name": "Mylicon", "brandUrl": "https://www.iherb.com/c/mylicon" },
+  { "name": "Nacific", "brandUrl": "https://www.iherb.com/c/nacific" },
+  { "name": "Nair", "brandUrl": "https://www.iherb.com/c/nair" },
+  { "name": "Nairn's Inc", "brandUrl": "https://www.iherb.com/c/nairn-s-inc" },
+  { "name": "Naissance", "brandUrl": "https://www.iherb.com/c/naissance" },
+  {
+    "name": "Naka Herbs & Vitamins Ltd",
+    "brandUrl": "https://www.iherb.com/c/naka-herbs-vitamins-ltd"
+  },
+  {
+    "name": "Napa Valley Naturals",
+    "brandUrl": "https://www.iherb.com/c/napa-valley-naturals"
+  },
+  { "name": "Nasopure", "brandUrl": "https://www.iherb.com/c/nasopure" },
+  { "name": "Natierra", "brandUrl": "https://www.iherb.com/c/natierra" },
+  { "name": "NatraBio", "brandUrl": "https://www.iherb.com/c/natrabio" },
+  { "name": "Natracare", "brandUrl": "https://www.iherb.com/c/natracare" },
+  { "name": "Natrol", "brandUrl": "https://www.iherb.com/c/natrol" },
+  { "name": "Naturade", "brandUrl": "https://www.iherb.com/c/naturade" },
+  {
+    "name": "Natural Balance",
+    "brandUrl": "https://www.iherb.com/c/natural-balance"
+  },
+  {
+    "name": "Natural Dog Company",
+    "brandUrl": "https://www.iherb.com/c/natural-dog-company"
+  },
+  {
+    "name": "Natural Dynamix (NDX)",
+    "brandUrl": "https://www.iherb.com/c/natural-dynamix-ndx"
+  },
+  {
+    "name": "Natural Factors",
+    "brandUrl": "https://www.iherb.com/c/natural-factors"
+  },
+  {
+    "name": "Natural Heaven",
+    "brandUrl": "https://www.iherb.com/c/natural-heaven"
+  },
+  {
+    "name": "Natural Path Silver Wings",
+    "brandUrl": "https://www.iherb.com/c/natural-path-silver-wings"
+  },
+  {
+    "name": "Natural Simply Delish",
+    "brandUrl": "https://www.iherb.com/c/natural-simply-delish"
+  },
+  {
+    "name": "Natural Stacks",
+    "brandUrl": "https://www.iherb.com/c/natural-stacks"
+  },
+  {
+    "name": "Natural Vitality",
+    "brandUrl": "https://www.iherb.com/c/natural-vitality"
+  },
+  { "name": "NaturalCare", "brandUrl": "https://www.iherb.com/c/naturalcare" },
+  {
+    "name": "Naturally Fresh",
+    "brandUrl": "https://www.iherb.com/c/naturally-fresh"
+  },
+  {
+    "name": "Naturally Vitamins",
+    "brandUrl": "https://www.iherb.com/c/naturally-vitamins"
+  },
+  {
+    "name": "NaturaNectar",
+    "brandUrl": "https://www.iherb.com/c/naturanectar"
+  },
+  { "name": "Nature Made", "brandUrl": "https://www.iherb.com/c/nature-made" },
+  {
+    "name": "Nature Republic",
+    "brandUrl": "https://www.iherb.com/c/nature-republic"
+  },
+  {
+    "name": "Nature's Answer",
+    "brandUrl": "https://www.iherb.com/c/nature-s-answer"
+  },
+  {
+    "name": "Nature's Baby Organics",
+    "brandUrl": "https://www.iherb.com/c/nature-s-baby-organics"
+  },
+  {
+    "name": "Nature's Bakery",
+    "brandUrl": "https://www.iherb.com/c/natures-bakery"
+  },
+  {
+    "name": "Nature's Bounty",
+    "brandUrl": "https://www.iherb.com/c/nature-s-bounty"
+  },
+  {
+    "name": "Nature's Charm",
+    "brandUrl": "https://www.iherb.com/c/natures-charm"
+  },
+  {
+    "name": "Nature's Craft",
+    "brandUrl": "https://www.iherb.com/c/natures-craft"
+  },
+  {
+    "name": "Nature's Gate",
+    "brandUrl": "https://www.iherb.com/c/nature-s-gate"
+  },
+  {
+    "name": "Nature's Greatest Foods",
+    "brandUrl": "https://www.iherb.com/c/natures-greatest-foods"
+  },
+  {
+    "name": "Nature's Herbs",
+    "brandUrl": "https://www.iherb.com/c/natures-herbs"
+  },
+  {
+    "name": "Nature's Life",
+    "brandUrl": "https://www.iherb.com/c/nature-s-life"
+  },
+  {
+    "name": "Nature's One",
+    "brandUrl": "https://www.iherb.com/c/nature-s-one"
+  },
+  {
+    "name": "Nature's Path",
+    "brandUrl": "https://www.iherb.com/c/natures-path"
+  },
+  {
+    "name": "Nature's Secret",
+    "brandUrl": "https://www.iherb.com/c/nature-s-secret"
+  },
+  {
+    "name": "Nature's Truth",
+    "brandUrl": "https://www.iherb.com/c/nature-s-truth"
+  },
+  {
+    "name": "Nature's Way",
+    "brandUrl": "https://www.iherb.com/c/nature-s-way"
+  },
+  {
+    "name": "Nature's Wild Organic",
+    "brandUrl": "https://www.iherb.com/c/natures-wild-organic"
+  },
+  { "name": "NATURELO", "brandUrl": "https://www.iherb.com/c/naturelo" },
+  { "name": "NaturesPlus", "brandUrl": "https://www.iherb.com/c/naturesplus" },
+  { "name": "NatureWise", "brandUrl": "https://www.iherb.com/c/naturewise" },
+  { "name": "NaturVet", "brandUrl": "https://www.iherb.com/c/naturvet" },
+  { "name": "Naty", "brandUrl": "https://www.iherb.com/c/naty" },
+  { "name": "Navage", "brandUrl": "https://www.iherb.com/c/navage" },
+  {
+    "name": "Navitas Organics",
+    "brandUrl": "https://www.iherb.com/c/navitas-organics"
+  },
+  { "name": "NB Pure", "brandUrl": "https://www.iherb.com/c/nb-pure" },
+  { "name": "NeemAura", "brandUrl": "https://www.iherb.com/c/neemaura" },
+  { "name": "NeilMed", "brandUrl": "https://www.iherb.com/c/neilmed" },
+  { "name": "Nellie's", "brandUrl": "https://www.iherb.com/c/nellie-s" },
+  { "name": "NeoCell", "brandUrl": "https://www.iherb.com/c/neocell" },
+  { "name": "Neogen", "brandUrl": "https://www.iherb.com/c/neogen" },
+  { "name": "Neosporin", "brandUrl": "https://www.iherb.com/c/neosporin" },
+  { "name": "Nervive", "brandUrl": "https://www.iherb.com/c/nervive" },
+  { "name": "Nescafé", "brandUrl": "https://www.iherb.com/c/nescaf%C3%A9" },
+  { "name": "Nesquik", "brandUrl": "https://www.iherb.com/c/nesquik" },
+  {
+    "name": "Nested Naturals",
+    "brandUrl": "https://www.iherb.com/c/nested-naturals"
+  },
+  {
+    "name": "Nestle Hot Cocoa Mix",
+    "brandUrl": "https://www.iherb.com/c/nestle-hot-cocoa-mix"
+  },
+  { "name": "Neutrogena", "brandUrl": "https://www.iherb.com/c/neutrogena" },
+  { "name": "New Chapter", "brandUrl": "https://www.iherb.com/c/new-chapter" },
+  {
+    "name": "New Nordic US Inc",
+    "brandUrl": "https://www.iherb.com/c/new-nordic"
+  },
+  { "name": "New Skin", "brandUrl": "https://www.iherb.com/c/new-skin" },
+  {
+    "name": "Newman's Own Organics",
+    "brandUrl": "https://www.iherb.com/c/newman-s-own-organics"
+  },
+  { "name": "Nexcare", "brandUrl": "https://www.iherb.com/c/nexcare" },
+  { "name": "Nexxus", "brandUrl": "https://www.iherb.com/c/nexxus" },
+  { "name": "Nivea", "brandUrl": "https://www.iherb.com/c/nivea" },
+  { "name": "Nizoral", "brandUrl": "https://www.iherb.com/c/nizoral" },
+  { "name": "No Cow", "brandUrl": "https://www.iherb.com/c/no-cow" },
+  {
+    "name": "Nobi Nutrition",
+    "brandUrl": "https://www.iherb.com/c/nobi-nutrition"
+  },
+  { "name": "Noble Jerky", "brandUrl": "https://www.iherb.com/c/noble-jerky" },
+  {
+    "name": "NOH Foods of Hawaii",
+    "brandUrl": "https://www.iherb.com/c/noh-foods-of-hawaii"
+  },
+  { "name": "Noka", "brandUrl": "https://www.iherb.com/c/noka" },
+  {
+    "name": "Nom Nom Paleo",
+    "brandUrl": "https://www.iherb.com/c/nom-nom-paleo"
+  },
+  { "name": "Nora Snacks", "brandUrl": "https://www.iherb.com/c/nora-snacks" },
+  {
+    "name": "Nordic Naturals",
+    "brandUrl": "https://www.iherb.com/c/nordic-naturals"
+  },
+  { "name": "Norigami", "brandUrl": "https://www.iherb.com/c/norigami" },
+  {
+    "name": "North American Herb & Spice Co.",
+    "brandUrl": "https://www.iherb.com/c/north-american-herb-spice-co"
+  },
+  {
+    "name": "Not Your Mother's",
+    "brandUrl": "https://www.iherb.com/c/not-your-mothers"
+  },
+  { "name": "Noughty", "brandUrl": "https://www.iherb.com/c/noughty" },
+  { "name": "NOW Foods", "brandUrl": "https://www.iherb.com/c/now-foods" },
+  {
+    "name": "Nu U Nutrition",
+    "brandUrl": "https://www.iherb.com/c/nu-u-nutrition"
+  },
+  { "name": "Nu-Pore", "brandUrl": "https://www.iherb.com/c/nu-pore" },
+  { "name": "NuBest", "brandUrl": "https://www.iherb.com/c/nubest" },
+  {
+    "name": "Nubian Heritage",
+    "brandUrl": "https://www.iherb.com/c/nubian-heritage"
+  },
+  { "name": "Nuby", "brandUrl": "https://www.iherb.com/c/nuby" },
+  { "name": "NUCO", "brandUrl": "https://www.iherb.com/c/nuco" },
+  { "name": "Nugenix", "brandUrl": "https://www.iherb.com/c/nugenix" },
+  { "name": "Nugg", "brandUrl": "https://www.iherb.com/c/nugg" },
+  {
+    "name": "NuGo Nutrition",
+    "brandUrl": "https://www.iherb.com/c/nugo-nutrition"
+  },
+  { "name": "NUK", "brandUrl": "https://www.iherb.com/c/nuk" },
+  { "name": "Numbuzin", "brandUrl": "https://www.iherb.com/c/numbuzin" },
+  { "name": "Numi Tea", "brandUrl": "https://www.iherb.com/c/numi-tea" },
+  { "name": "NuNaturals", "brandUrl": "https://www.iherb.com/c/nunaturals" },
+  { "name": "Nutiva", "brandUrl": "https://www.iherb.com/c/nutiva" },
+  { "name": "Nutpods", "brandUrl": "https://www.iherb.com/c/nutpods" },
+  {
+    "name": "Nutra BioGenesis",
+    "brandUrl": "https://www.iherb.com/c/nutra-biogenesis"
+  },
+  { "name": "NutraBio", "brandUrl": "https://www.iherb.com/c/nutrabio" },
+  { "name": "NutraChamps", "brandUrl": "https://www.iherb.com/c/nutrachamps" },
+  { "name": "NuTrail", "brandUrl": "https://www.iherb.com/c/nutrail" },
+  { "name": "Nutrakey", "brandUrl": "https://www.iherb.com/c/nutrakey" },
+  { "name": "NutraLife", "brandUrl": "https://www.iherb.com/c/nutralife" },
+  { "name": "NutraMedix", "brandUrl": "https://www.iherb.com/c/nutramedix" },
+  {
+    "name": "Nutrex Hawaii",
+    "brandUrl": "https://www.iherb.com/c/nutrex-hawaii"
+  },
+  {
+    "name": "Nutrex Research",
+    "brandUrl": "https://www.iherb.com/c/nutrex-research"
+  },
+  { "name": "NutriBiotic", "brandUrl": "https://www.iherb.com/c/nutribiotic" },
+  { "name": "Nutricology", "brandUrl": "https://www.iherb.com/c/nutricology" },
+  { "name": "Nutricost", "brandUrl": "https://www.iherb.com/c/nutricost" },
+  {
+    "name": "Nutrition Now",
+    "brandUrl": "https://www.iherb.com/c/nutrition-now"
+  },
+  { "name": "Nuttzo", "brandUrl": "https://www.iherb.com/c/nuttzo" },
+  { "name": "Nuun", "brandUrl": "https://www.iherb.com/c/nuun" },
+  { "name": "O'Keeffe's", "brandUrl": "https://www.iherb.com/c/o-keeffe-s" },
+  { "name": "Oat Mama", "brandUrl": "https://www.iherb.com/c/oat-mama" },
+  { "name": "Obvi", "brandUrl": "https://www.iherb.com/c/obvi" },
+  { "name": "Ocean Blue", "brandUrl": "https://www.iherb.com/c/ocean-blue" },
+  { "name": "Ocuvite", "brandUrl": "https://www.iherb.com/c/ocuvite" },
+  { "name": "Odor Eaters", "brandUrl": "https://www.iherb.com/c/odor-eaters" },
+  { "name": "Ojio", "brandUrl": "https://www.iherb.com/c/ojio" },
+  {
+    "name": "Okay Pure Naturals",
+    "brandUrl": "https://www.iherb.com/c/okay-pure-naturals"
+  },
+  { "name": "Olay", "brandUrl": "https://www.iherb.com/c/olay" },
+  {
+    "name": "Olbas Therapeutic",
+    "brandUrl": "https://www.iherb.com/c/olbas-therapeutic"
+  },
+  { "name": "Old Bay", "brandUrl": "https://www.iherb.com/c/old-bay" },
+  {
+    "name": "Old School Labs",
+    "brandUrl": "https://www.iherb.com/c/old-school-labs"
+  },
+  { "name": "Old Spice", "brandUrl": "https://www.iherb.com/c/old-spice" },
+  { "name": "OLLY", "brandUrl": "https://www.iherb.com/c/olly" },
+  {
+    "name": "Olympian Labs",
+    "brandUrl": "https://www.iherb.com/c/olympian-labs"
+  },
+  {
+    "name": "Om Mushrooms",
+    "brandUrl": "https://www.iherb.com/c/om-mushrooms"
+  },
+  { "name": "OmegaVia", "brandUrl": "https://www.iherb.com/c/omegavia" },
+  { "name": "One Brands", "brandUrl": "https://www.iherb.com/c/one-brands" },
+  { "name": "One Thing", "brandUrl": "https://www.iherb.com/c/one-thing" },
+  {
+    "name": "One with Nature",
+    "brandUrl": "https://www.iherb.com/c/one-with-nature"
+  },
+  { "name": "One-A-Day", "brandUrl": "https://www.iherb.com/c/one-a-day" },
+  { "name": "Onnit", "brandUrl": "https://www.iherb.com/c/onnit" },
+  { "name": "Opcon-A", "brandUrl": "https://www.iherb.com/c/opcon-a" },
+  { "name": "Optimel", "brandUrl": "https://www.iherb.com/c/optimel" },
+  {
+    "name": "Optimox Corporation",
+    "brandUrl": "https://www.iherb.com/c/optimox-corporation"
+  },
+  {
+    "name": "Optimum Nutrition",
+    "brandUrl": "https://www.iherb.com/c/optimum-nutrition"
+  },
+  { "name": "Ora", "brandUrl": "https://www.iherb.com/c/ora" },
+  { "name": "OraCoat", "brandUrl": "https://www.iherb.com/c/oracoat" },
+  { "name": "Orajel", "brandUrl": "https://www.iherb.com/c/orajel" },
+  { "name": "Oral-B", "brandUrl": "https://www.iherb.com/c/oral-b" },
+  {
+    "name": "Oregons Wild Harvest",
+    "brandUrl": "https://www.iherb.com/c/oregons-wild-harvest"
+  },
+  { "name": "Orgain", "brandUrl": "https://www.iherb.com/c/orgain" },
+  {
+    "name": "Organic Coffee Co.",
+    "brandUrl": "https://www.iherb.com/c/organic-coffee-co"
+  },
+  {
+    "name": "Organic Excellence",
+    "brandUrl": "https://www.iherb.com/c/organic-excellence"
+  },
+  {
+    "name": "Organic India",
+    "brandUrl": "https://www.iherb.com/c/organic-india"
+  },
+  {
+    "name": "Organic Traditions",
+    "brandUrl": "https://www.iherb.com/c/organic-traditions"
+  },
+  {
+    "name": "Organic Valley",
+    "brandUrl": "https://www.iherb.com/c/organic-valley"
+  },
+  { "name": "Organifi", "brandUrl": "https://www.iherb.com/c/organifi" },
+  { "name": "Organika", "brandUrl": "https://www.iherb.com/c/organika" },
+  {
+    "name": "Organix South",
+    "brandUrl": "https://www.iherb.com/c/organix-south"
+  },
+  { "name": "Organyc", "brandUrl": "https://www.iherb.com/c/organyc" },
+  {
+    "name": "Original Sprout Inc",
+    "brandUrl": "https://www.iherb.com/c/original-sprout-inc"
+  },
+  { "name": "Osensia", "brandUrl": "https://www.iherb.com/c/osensia" },
+  { "name": "Oslomega", "brandUrl": "https://www.iherb.com/c/oslomega" },
+  {
+    "name": "Osteo Bi-Flex",
+    "brandUrl": "https://www.iherb.com/c/osteo-bi-flex"
+  },
+  { "name": "Ostrim", "brandUrl": "https://www.iherb.com/c/ostrim" },
+  {
+    "name": "Otto's Naturals",
+    "brandUrl": "https://www.iherb.com/c/ottos-naturals"
+  },
+  { "name": "Ovaltine", "brandUrl": "https://www.iherb.com/c/ovaltine" },
+  { "name": "Ovega-3", "brandUrl": "https://www.iherb.com/c/ovega-3" },
+  {
+    "name": "Oxy Skin Care",
+    "brandUrl": "https://www.iherb.com/c/oxy-skin-care"
+  },
+  { "name": "P-Nuff", "brandUrl": "https://www.iherb.com/c/p-nuff" },
+  {
+    "name": "Pacific Shaving Company",
+    "brandUrl": "https://www.iherb.com/c/pacific-shaving-company"
+  },
+  { "name": "Pacifica", "brandUrl": "https://www.iherb.com/c/pacifica" },
+  { "name": "Palladio", "brandUrl": "https://www.iherb.com/c/palladio" },
+  {
+    "name": "Palmer's for Pets",
+    "brandUrl": "https://www.iherb.com/c/palmers-for-pets"
+  },
+  { "name": "Palmers", "brandUrl": "https://www.iherb.com/c/palmer-s" },
+  { "name": "Palmini", "brandUrl": "https://www.iherb.com/c/palmini" },
+  {
+    "name": "Pamela's Products",
+    "brandUrl": "https://www.iherb.com/c/pamela-s-products"
+  },
+  { "name": "PanOxyl", "brandUrl": "https://www.iherb.com/c/panoxyl" },
+  {
+    "name": "Paradise Herbs",
+    "brandUrl": "https://www.iherb.com/c/paradise-herbs"
+  },
+  { "name": "ParmCrisps", "brandUrl": "https://www.iherb.com/c/parmcrisps" },
+  { "name": "Parodontax", "brandUrl": "https://www.iherb.com/c/parodontax" },
+  { "name": "Partake", "brandUrl": "https://www.iherb.com/c/partake" },
+  {
+    "name": "Patagonia Provisions",
+    "brandUrl": "https://www.iherb.com/c/patagonia-provisions"
+  },
+  { "name": "PB2 Foods", "brandUrl": "https://www.iherb.com/c/pb2-foods" },
+  { "name": "PBfit", "brandUrl": "https://www.iherb.com/c/pbfit" },
+  {
+    "name": "PEAKfresh USA",
+    "brandUrl": "https://www.iherb.com/c/peakfresh-usa"
+  },
+  {
+    "name": "Peanut Butter & Co.",
+    "brandUrl": "https://www.iherb.com/c/peanut-butter-co"
+  },
+  { "name": "Pendulum", "brandUrl": "https://www.iherb.com/c/pendulum" },
+  { "name": "Penetrex", "brandUrl": "https://www.iherb.com/c/penetrex" },
+  { "name": "Peptiva", "brandUrl": "https://www.iherb.com/c/peptiva" },
+  {
+    "name": "Pepto Bismol",
+    "brandUrl": "https://www.iherb.com/c/pepto-bismol"
+  },
+  {
+    "name": "Perfect Sports",
+    "brandUrl": "https://www.iherb.com/c/perfect-sports"
+  },
+  { "name": "Performix", "brandUrl": "https://www.iherb.com/c/performix" },
+  { "name": "Perioe", "brandUrl": "https://www.iherb.com/c/perioe" },
+  { "name": "Peripera", "brandUrl": "https://www.iherb.com/c/peripera" },
+  { "name": "Pero", "brandUrl": "https://www.iherb.com/c/pero" },
+  { "name": "PEScience", "brandUrl": "https://www.iherb.com/c/pescience" },
+  { "name": "Pet Honesty", "brandUrl": "https://www.iherb.com/c/pet-honesty" },
+  {
+    "name": "Pet Naturals",
+    "brandUrl": "https://www.iherb.com/c/pet-naturals"
+  },
+  { "name": "Petal Fresh", "brandUrl": "https://www.iherb.com/c/petal-fresh" },
+  { "name": "Petitfee", "brandUrl": "https://www.iherb.com/c/petitfee" },
+  {
+    "name": "petnc NATURAL CARE",
+    "brandUrl": "https://www.iherb.com/c/petnc-natural-care"
+  },
+  {
+    "name": "pH-D Feminine Health",
+    "brandUrl": "https://www.iherb.com/c/ph-d-feminine-health"
+  },
+  {
+    "name": "Phillip Adam",
+    "brandUrl": "https://www.iherb.com/c/phillip-adam"
+  },
+  { "name": "Phillips", "brandUrl": "https://www.iherb.com/c/phillip-s" },
+  {
+    "name": "pHion Balance",
+    "brandUrl": "https://www.iherb.com/c/phion-balance"
+  },
+  { "name": "pHisoderm", "brandUrl": "https://www.iherb.com/c/phisoderm" },
+  {
+    "name": "Physician's Choice",
+    "brandUrl": "https://www.iherb.com/c/physicians-choice"
+  },
+  {
+    "name": "Physicians Formula",
+    "brandUrl": "https://www.iherb.com/c/physicians-formula"
+  },
+  {
+    "name": "Pickle Juice",
+    "brandUrl": "https://www.iherb.com/c/pickle-juice"
+  },
+  { "name": "Pigout", "brandUrl": "https://www.iherb.com/c/pigout" },
+  { "name": "Pillsbury", "brandUrl": "https://www.iherb.com/c/pillsbury" },
+  {
+    "name": "Pines International",
+    "brandUrl": "https://www.iherb.com/c/pines-international"
+  },
+  { "name": "Pink", "brandUrl": "https://www.iherb.com/c/pink" },
+  { "name": "Pinky Goat", "brandUrl": "https://www.iherb.com/c/pinky-goat" },
+  { "name": "Pipette", "brandUrl": "https://www.iherb.com/c/pipette" },
+  { "name": "Pixi Beauty", "brandUrl": "https://www.iherb.com/c/pixi-beauty" },
+  { "name": "Plackers", "brandUrl": "https://www.iherb.com/c/plackers" },
+  {
+    "name": "Planetary Herbals",
+    "brandUrl": "https://www.iherb.com/c/planetary-herbals"
+  },
+  { "name": "Plant Boss", "brandUrl": "https://www.iherb.com/c/plant-boss" },
+  { "name": "PlantFusion", "brandUrl": "https://www.iherb.com/c/plantfusion" },
+  {
+    "name": "Play Hydrated",
+    "brandUrl": "https://www.iherb.com/c/play-hydrated"
+  },
+  {
+    "name": "Plum Organics",
+    "brandUrl": "https://www.iherb.com/c/plum-organics"
+  },
+  { "name": "Plus White", "brandUrl": "https://www.iherb.com/c/plus-white" },
+  { "name": "Po Sum On", "brandUrl": "https://www.iherb.com/c/po-sum-on" },
+  {
+    "name": "Pogi's Pet Supplies",
+    "brandUrl": "https://www.iherb.com/c/pogis-pet-supplies"
+  },
+  { "name": "Polident", "brandUrl": "https://www.iherb.com/c/polident" },
+  {
+    "name": "Pomona's Universal Pectin",
+    "brandUrl": "https://www.iherb.com/c/pomonas-universal-pectin"
+  },
+  { "name": "Pond's", "brandUrl": "https://www.iherb.com/c/ponds" },
+  { "name": "Poo-Pourri", "brandUrl": "https://www.iherb.com/c/poopourri" },
+  { "name": "Popchips", "brandUrl": "https://www.iherb.com/c/popchips" },
+  { "name": "PopCorners", "brandUrl": "https://www.iherb.com/c/popcorners" },
+  {
+    "name": "Pork King Good",
+    "brandUrl": "https://www.iherb.com/c/pork-king-good"
+  },
+  {
+    "name": "Portland Coffee Roasters",
+    "brandUrl": "https://www.iherb.com/c/portland-coffee-roasters"
+  },
+  { "name": "Power Up", "brandUrl": "https://www.iherb.com/c/power-up" },
+  { "name": "PowerBar", "brandUrl": "https://www.iherb.com/c/powerbar" },
+  {
+    "name": "Premier Protein",
+    "brandUrl": "https://www.iherb.com/c/premier-protein"
+  },
+  {
+    "name": "Premier Research Labs",
+    "brandUrl": "https://www.iherb.com/c/premier-research-labs"
+  },
+  {
+    "name": "PrescriptSkin",
+    "brandUrl": "https://www.iherb.com/c/prescriptskin"
+  },
+  {
+    "name": "PreserVision",
+    "brandUrl": "https://www.iherb.com/c/preservision"
+  },
+  { "name": "Primaforce", "brandUrl": "https://www.iherb.com/c/primaforce" },
+  {
+    "name": "Primal Kitchen",
+    "brandUrl": "https://www.iherb.com/c/primal-kitchen"
+  },
+  {
+    "name": "Prince of Peace",
+    "brandUrl": "https://www.iherb.com/c/prince-of-peace"
+  },
+  { "name": "Probelle", "brandUrl": "https://www.iherb.com/c/probelle" },
+  { "name": "Probulin", "brandUrl": "https://www.iherb.com/c/probulin" },
+  { "name": "Procure", "brandUrl": "https://www.iherb.com/c/procure" },
+  { "name": "ProDen", "brandUrl": "https://www.iherb.com/c/proden" },
+  {
+    "name": "Professor Fuzzworthy's",
+    "brandUrl": "https://www.iherb.com/c/professor-fuzzworthys"
+  },
+  { "name": "Profoot", "brandUrl": "https://www.iherb.com/c/profoot" },
+  {
+    "name": "ProHealth Longevity",
+    "brandUrl": "https://www.iherb.com/c/prohealth-longevity"
+  },
+  { "name": "Promensil", "brandUrl": "https://www.iherb.com/c/promensil" },
+  { "name": "ProSupps", "brandUrl": "https://www.iherb.com/c/prosupps" },
+  {
+    "name": "Protocol for Life Balance",
+    "brandUrl": "https://www.iherb.com/c/protocol"
+  },
+  { "name": "Puffworks", "brandUrl": "https://www.iherb.com/c/puffworks" },
+  { "name": "Pukka Herbs", "brandUrl": "https://www.iherb.com/c/pukka-herbs" },
+  {
+    "name": "Pumpkin Tree Organics",
+    "brandUrl": "https://www.iherb.com/c/pumpkin-tree-organics"
+  },
+  {
+    "name": "Punky Colour",
+    "brandUrl": "https://www.iherb.com/c/punky-colour"
+  },
+  { "name": "Pura D'or", "brandUrl": "https://www.iherb.com/c/pura-d-or" },
+  {
+    "name": "Pure Biology",
+    "brandUrl": "https://www.iherb.com/c/pure-biology"
+  },
+  {
+    "name": "Pure Body Naturals",
+    "brandUrl": "https://www.iherb.com/c/pure-body-naturals"
+  },
+  { "name": "Pure Co.", "brandUrl": "https://www.iherb.com/c/pure-co" },
+  {
+    "name": "Pure Essence",
+    "brandUrl": "https://www.iherb.com/c/pure-essence"
+  },
+  {
+    "name": "Pure Indian Foods",
+    "brandUrl": "https://www.iherb.com/c/pure-indian-foods"
+  },
+  { "name": "Pure Planet", "brandUrl": "https://www.iherb.com/c/pure-planet" },
+  {
+    "name": "Pure Protein",
+    "brandUrl": "https://www.iherb.com/c/pure-protein"
+  },
+  {
+    "name": "Pure Synergy",
+    "brandUrl": "https://www.iherb.com/c/pure-synergy"
+  },
+  { "name": "Pure Via", "brandUrl": "https://www.iherb.com/c/pure-via" },
+  { "name": "Pureboost", "brandUrl": "https://www.iherb.com/c/pureboost" },
+  { "name": "Purecane", "brandUrl": "https://www.iherb.com/c/purecane" },
+  { "name": "Purederm", "brandUrl": "https://www.iherb.com/c/purederm" },
+  { "name": "PureHeals", "brandUrl": "https://www.iherb.com/c/pureheals" },
+  {
+    "name": "Purely Elizabeth",
+    "brandUrl": "https://www.iherb.com/c/purely-elizabeth"
+  },
+  {
+    "name": "Purely Inspired",
+    "brandUrl": "https://www.iherb.com/c/purely-inspired"
+  },
+  { "name": "Purito", "brandUrl": "https://www.iherb.com/c/purito" },
+  {
+    "name": "Purity Products",
+    "brandUrl": "https://www.iherb.com/c/purity-products"
+  },
+  { "name": "Purus Labs", "brandUrl": "https://www.iherb.com/c/purus-labs" },
+  {
+    "name": "Pyunkang Yul",
+    "brandUrl": "https://www.iherb.com/c/pyunkang-yul"
+  },
+  { "name": "Pyure", "brandUrl": "https://www.iherb.com/c/pyure" },
+  { "name": "Q-tips", "brandUrl": "https://www.iherb.com/c/q-tips" },
+  {
+    "name": "Quality of Life Labs",
+    "brandUrl": "https://www.iherb.com/c/quality-of-life-labs"
+  },
+  {
+    "name": "QUANTUM ENERGY SQUARE",
+    "brandUrl": "https://www.iherb.com/c/quantum-energy-square"
+  },
+  {
+    "name": "Quantum Health",
+    "brandUrl": "https://www.iherb.com/c/quantum-health"
+  },
+  {
+    "name": "Queen Helene",
+    "brandUrl": "https://www.iherb.com/c/queen-helene"
+  },
+  {
+    "name": "Quest Nutrition",
+    "brandUrl": "https://www.iherb.com/c/quest-nutrition"
+  },
+  {
+    "name": "Quinn Snacks",
+    "brandUrl": "https://www.iherb.com/c/quinn-snacks"
+  },
+  { "name": "Qunol", "brandUrl": "https://www.iherb.com/c/qunol" },
+  {
+    "name": "Radiant Seoul",
+    "brandUrl": "https://www.iherb.com/c/radiant-seoul"
+  },
+  { "name": "RADIUS", "brandUrl": "https://www.iherb.com/c/radius" },
+  { "name": "Rael, Inc.", "brandUrl": "https://www.iherb.com/c/rael-inc" },
+  {
+    "name": "Rainbow Light",
+    "brandUrl": "https://www.iherb.com/c/rainbow-light"
+  },
+  {
+    "name": "Rainbow Research",
+    "brandUrl": "https://www.iherb.com/c/rainbow-research"
+  },
+  { "name": "RAPIDFIRE", "brandUrl": "https://www.iherb.com/c/rapidfire" },
+  { "name": "RapidLash", "brandUrl": "https://www.iherb.com/c/rapidlash" },
+  { "name": "Raw Rev", "brandUrl": "https://www.iherb.com/c/raw-rev" },
+  { "name": "Rawmio", "brandUrl": "https://www.iherb.com/c/rawmio" },
+  { "name": "RaZbaby", "brandUrl": "https://www.iherb.com/c/razbaby" },
+  { "name": "Reach", "brandUrl": "https://www.iherb.com/c/reach" },
+  {
+    "name": "Ready Pet Go",
+    "brandUrl": "https://www.iherb.com/c/ready-pet-go"
+  },
+  {
+    "name": "Real Aloe Inc.",
+    "brandUrl": "https://www.iherb.com/c/real-aloe-inc"
+  },
+  {
+    "name": "Real Barrier",
+    "brandUrl": "https://www.iherb.com/c/real-barrier"
+  },
+  { "name": "Real Health", "brandUrl": "https://www.iherb.com/c/real-health" },
+  {
+    "name": "Real Mushrooms",
+    "brandUrl": "https://www.iherb.com/c/real-mushrooms"
+  },
+  { "name": "Real Purity", "brandUrl": "https://www.iherb.com/c/real-purity" },
+  {
+    "name": "Real Techniques",
+    "brandUrl": "https://www.iherb.com/c/real-techniques"
+  },
+  {
+    "name": "Really Raw Honey",
+    "brandUrl": "https://www.iherb.com/c/really-raw-honey"
+  },
+  { "name": "Rebel Green", "brandUrl": "https://www.iherb.com/c/rebel-green" },
+  { "name": "Red Star", "brandUrl": "https://www.iherb.com/c/red-star" },
+  { "name": "Red Vines", "brandUrl": "https://www.iherb.com/c/red-vines" },
+  {
+    "name": "Redd Remedies",
+    "brandUrl": "https://www.iherb.com/c/redd-remedies"
+  },
+  {
+    "name": "Redmond Trading Company",
+    "brandUrl": "https://www.iherb.com/c/redmond-trading-company"
+  },
+  { "name": "Reed's", "brandUrl": "https://www.iherb.com/c/reeds" },
+  { "name": "Reese", "brandUrl": "https://www.iherb.com/c/reese" },
+  { "name": "Rejuvenate", "brandUrl": "https://www.iherb.com/c/rejuvenate" },
+  { "name": "Rejuvicare", "brandUrl": "https://www.iherb.com/c/rejuvicare" },
+  { "name": "Renew Life", "brandUrl": "https://www.iherb.com/c/renew-life" },
+  { "name": "Renpure", "brandUrl": "https://www.iherb.com/c/renpure" },
+  { "name": "Renu", "brandUrl": "https://www.iherb.com/c/renu" },
+  { "name": "Replesta", "brandUrl": "https://www.iherb.com/c/replesta" },
+  {
+    "name": "Reserveage Nutrition",
+    "brandUrl": "https://www.iherb.com/c/reserveage-nutrition"
+  },
+  {
+    "name": "Reshape Plus",
+    "brandUrl": "https://www.iherb.com/c/reshape-plus"
+  },
+  { "name": "Reviva Labs", "brandUrl": "https://www.iherb.com/c/reviva-labs" },
+  { "name": "Revlon", "brandUrl": "https://www.iherb.com/c/revlon" },
+  { "name": "Ricola", "brandUrl": "https://www.iherb.com/c/ricola" },
+  {
+    "name": "RidgeCrest Herbals",
+    "brandUrl": "https://www.iherb.com/c/ridgecrest-herbals"
+  },
+  { "name": "RightRice", "brandUrl": "https://www.iherb.com/c/rightrice" },
+  {
+    "name": "Riley’s Organics",
+    "brandUrl": "https://www.iherb.com/c/riley-s-organics"
+  },
+  {
+    "name": "Rimmel London",
+    "brandUrl": "https://www.iherb.com/c/rimmel-london"
+  },
+  {
+    "name": "Rip Van Wafels",
+    "brandUrl": "https://www.iherb.com/c/rip-van-wafels"
+  },
+  { "name": "Rise Bar", "brandUrl": "https://www.iherb.com/c/rise-bar" },
+  { "name": "Rishi Tea", "brandUrl": "https://www.iherb.com/c/rishi-tea" },
+  { "name": "Risque", "brandUrl": "https://www.iherb.com/c/risque" },
+  { "name": "RoC", "brandUrl": "https://www.iherb.com/c/roc" },
+  { "name": "Rohto", "brandUrl": "https://www.iherb.com/c/rohto" },
+  { "name": "rom&nd", "brandUrl": "https://www.iherb.com/c/rom-nd" },
+  {
+    "name": "Ronnie Coleman",
+    "brandUrl": "https://www.iherb.com/c/ronnie-coleman"
+  },
+  { "name": "Round Lab", "brandUrl": "https://www.iherb.com/c/round-lab" },
+  { "name": "Rovectin", "brandUrl": "https://www.iherb.com/c/rovectin" },
+  {
+    "name": "RSP Nutrition",
+    "brandUrl": "https://www.iherb.com/c/rsp-nutrition"
+  },
+  {
+    "name": "Ruff 'N Ruffus",
+    "brandUrl": "https://www.iherb.com/c/ruff-n-ruffus"
+  },
+  { "name": "RXBAR", "brandUrl": "https://www.iherb.com/c/rxbar" },
+  { "name": "RxSugar", "brandUrl": "https://www.iherb.com/c/rxsugar" },
+  { "name": "Ryse Supps", "brandUrl": "https://www.iherb.com/c/ryse-supps" },
+  { "name": "Ryukakusan", "brandUrl": "https://www.iherb.com/c/ryukakusan" },
+  { "name": "Safari", "brandUrl": "https://www.iherb.com/c/safari" },
+  { "name": "Sage Spirit", "brandUrl": "https://www.iherb.com/c/sage-spirit" },
+  {
+    "name": "Sage Spoonfuls",
+    "brandUrl": "https://www.iherb.com/c/sage-spoonfuls"
+  },
+  {
+    "name": "Sahale Snacks",
+    "brandUrl": "https://www.iherb.com/c/sahale-snacks"
+  },
+  { "name": "Sai Baba", "brandUrl": "https://www.iherb.com/c/sai-baba" },
+  {
+    "name": "Salad Pizazz!",
+    "brandUrl": "https://www.iherb.com/c/salad-pizazz"
+  },
+  {
+    "name": "Sally Hansen",
+    "brandUrl": "https://www.iherb.com/c/sally-hansen"
+  },
+  { "name": "Salonpas", "brandUrl": "https://www.iherb.com/c/salonpas" },
+  { "name": "Sambucol", "brandUrl": "https://www.iherb.com/c/sambucol" },
+  { "name": "Sana", "brandUrl": "https://www.iherb.com/c/sana" },
+  { "name": "Sapadilla", "brandUrl": "https://www.iherb.com/c/sapadilla" },
+  { "name": "Sarna", "brandUrl": "https://www.iherb.com/c/sarna" },
+  { "name": "Sassy", "brandUrl": "https://www.iherb.com/c/sassy" },
+  { "name": "Schick", "brandUrl": "https://www.iherb.com/c/schick" },
+  { "name": "Schiff", "brandUrl": "https://www.iherb.com/c/schiff" },
+  { "name": "Schmidt's", "brandUrl": "https://www.iherb.com/c/schmidt-s" },
+  { "name": "Scinic", "brandUrl": "https://www.iherb.com/c/scinic" },
+  {
+    "name": "Scotch-Brite",
+    "brandUrl": "https://www.iherb.com/c/scotch-brite"
+  },
+  { "name": "Scout", "brandUrl": "https://www.iherb.com/c/scout" },
+  { "name": "Scunci", "brandUrl": "https://www.iherb.com/c/scunci" },
+  {
+    "name": "Sea Minerals",
+    "brandUrl": "https://www.iherb.com/c/sea-minerals"
+  },
+  {
+    "name": "Sea Tangle Noodle Company",
+    "brandUrl": "https://www.iherb.com/c/sea-tangle-noodle-company"
+  },
+  { "name": "SeaBond", "brandUrl": "https://www.iherb.com/c/seabond" },
+  {
+    "name": "SeaBuckWonders",
+    "brandUrl": "https://www.iherb.com/c/seabuckwonders"
+  },
+  { "name": "Seagate", "brandUrl": "https://www.iherb.com/c/seagate" },
+  {
+    "name": "Seapoint Farms",
+    "brandUrl": "https://www.iherb.com/c/seapoint-farms"
+  },
+  { "name": "SeaSnax", "brandUrl": "https://www.iherb.com/c/seasnax" },
+  { "name": "Secret", "brandUrl": "https://www.iherb.com/c/secret" },
+  { "name": "Secret Key", "brandUrl": "https://www.iherb.com/c/secret-key" },
+  {
+    "name": "Secrets of Tea",
+    "brandUrl": "https://www.iherb.com/c/secrets-of-tea"
+  },
+  {
+    "name": "Seeds of Change",
+    "brandUrl": "https://www.iherb.com/c/seeds-of-change"
+  },
+  {
+    "name": "Seeking Health",
+    "brandUrl": "https://www.iherb.com/c/seeking-health"
+  },
+  { "name": "Selsun Blue", "brandUrl": "https://www.iherb.com/c/selsun-blue" },
+  {
+    "name": "Sencha Naturals",
+    "brandUrl": "https://www.iherb.com/c/sencha-naturals"
+  },
+  { "name": "Sensodyne", "brandUrl": "https://www.iherb.com/c/sensodyne" },
+  {
+    "name": "SeoulCeuticals",
+    "brandUrl": "https://www.iherb.com/c/seoulceuticals"
+  },
+  {
+    "name": "Serenity Kids",
+    "brandUrl": "https://www.iherb.com/c/serenity-kids"
+  },
+  { "name": "Sesmark", "brandUrl": "https://www.iherb.com/c/sesmark" },
+  {
+    "name": "Seven Minerals",
+    "brandUrl": "https://www.iherb.com/c/seven-minerals"
+  },
+  {
+    "name": "Seventh Generation",
+    "brandUrl": "https://www.iherb.com/c/seventh-generation"
+  },
+  {
+    "name": "SheaMoisture",
+    "brandUrl": "https://www.iherb.com/c/sheamoisture"
+  },
+  { "name": "Sheila G's", "brandUrl": "https://www.iherb.com/c/sheila-gs" },
+  { "name": "Shinyakoso", "brandUrl": "https://www.iherb.com/c/shinyakoso" },
+  { "name": "Sibu Beauty", "brandUrl": "https://www.iherb.com/c/sibu-beauty" },
+  { "name": "Sierra Bees", "brandUrl": "https://www.iherb.com/c/sierra-bees" },
+  { "name": "Sierra Fit", "brandUrl": "https://www.iherb.com/c/sierra-fit" },
+  { "name": "Siete", "brandUrl": "https://www.iherb.com/c/siete" },
+  {
+    "name": "Sight Savers",
+    "brandUrl": "https://www.iherb.com/c/sight-savers"
+  },
+  {
+    "name": "Silicium Laboratories LLC",
+    "brandUrl": "https://www.iherb.com/c/silicium-laboratories-llc"
+  },
+  { "name": "Similasan", "brandUrl": "https://www.iherb.com/c/similasan" },
+  {
+    "name": "Simple Mills",
+    "brandUrl": "https://www.iherb.com/c/simple-mills"
+  },
+  { "name": "Simply Gum", "brandUrl": "https://www.iherb.com/c/simply-gum" },
+  {
+    "name": "Simply Organic",
+    "brandUrl": "https://www.iherb.com/c/simply-organic"
+  },
+  {
+    "name": "Simply Tera's",
+    "brandUrl": "https://www.iherb.com/c/simply-teras"
+  },
+  { "name": "Sinol", "brandUrl": "https://www.iherb.com/c/sinol" },
+  { "name": "Sioris", "brandUrl": "https://www.iherb.com/c/sioris" },
+  {
+    "name": "Sir Kensington's",
+    "brandUrl": "https://www.iherb.com/c/sir-kensington-s"
+  },
+  { "name": "SIXSTAR", "brandUrl": "https://www.iherb.com/c/sixstar" },
+  {
+    "name": "Skin Chemists",
+    "brandUrl": "https://www.iherb.com/c/skin-chemists"
+  },
+  { "name": "SKIN1004", "brandUrl": "https://www.iherb.com/c/skin1004" },
+  { "name": "SKINFOOD", "brandUrl": "https://www.iherb.com/c/skinfood" },
+  {
+    "name": "SkinnyDipped",
+    "brandUrl": "https://www.iherb.com/c/skinnydipped"
+  },
+  { "name": "SkinRx Lab", "brandUrl": "https://www.iherb.com/c/skinrx-lab" },
+  { "name": "Skoy", "brandUrl": "https://www.iherb.com/c/skoy" },
+  {
+    "name": "Sky Organics",
+    "brandUrl": "https://www.iherb.com/c/sky-organics"
+  },
+  { "name": "Skybottle", "brandUrl": "https://www.iherb.com/c/skybottle" },
+  { "name": "SlimFast", "brandUrl": "https://www.iherb.com/c/slimfast" },
+  { "name": "Smart Care", "brandUrl": "https://www.iherb.com/c/smart-care" },
+  { "name": "Smartshake", "brandUrl": "https://www.iherb.com/c/smartshake" },
+  { "name": "SmartSweets", "brandUrl": "https://www.iherb.com/c/smartsweets" },
+  { "name": "SmartyPants", "brandUrl": "https://www.iherb.com/c/smartypants" },
+  { "name": "SMNutrition", "brandUrl": "https://www.iherb.com/c/smnutrition" },
+  {
+    "name": "Snack Factory",
+    "brandUrl": "https://www.iherb.com/c/snack-factory"
+  },
+  {
+    "name": "Snap Supplements",
+    "brandUrl": "https://www.iherb.com/c/snap-supplements"
+  },
+  { "name": "SNP", "brandUrl": "https://www.iherb.com/c/snp" },
+  { "name": "Soapbox", "brandUrl": "https://www.iherb.com/c/soapbox" },
+  { "name": "SoCozy", "brandUrl": "https://www.iherb.com/c/socozy" },
+  { "name": "SoF", "brandUrl": "https://www.iherb.com/c/sof" },
+  { "name": "Softlips", "brandUrl": "https://www.iherb.com/c/softlips" },
+  { "name": "Softymo", "brandUrl": "https://www.iherb.com/c/softymo" },
+  { "name": "Solaray", "brandUrl": "https://www.iherb.com/c/solaray" },
+  { "name": "Solely", "brandUrl": "https://www.iherb.com/c/solely" },
+  { "name": "Solgar", "brandUrl": "https://www.iherb.com/c/solgar" },
+  { "name": "Solumeve", "brandUrl": "https://www.iherb.com/c/solumeve" },
+  {
+    "name": "Sombra Professional Therapy",
+    "brandUrl": "https://www.iherb.com/c/sombra"
+  },
+  { "name": "SOME BY MI", "brandUrl": "https://www.iherb.com/c/some-by-mi" },
+  {
+    "name": "Song Shu Pai",
+    "brandUrl": "https://www.iherb.com/c/song-shu-pai"
+  },
+  {
+    "name": "Sonoma Creamery",
+    "brandUrl": "https://www.iherb.com/c/sonoma-creamery"
+  },
+  {
+    "name": "Source Naturals",
+    "brandUrl": "https://www.iherb.com/c/source-naturals"
+  },
+  {
+    "name": "Sovereign Silver",
+    "brandUrl": "https://www.iherb.com/c/sovereign-silver"
+  },
+  { "name": "Spatty", "brandUrl": "https://www.iherb.com/c/spatty" },
+  {
+    "name": "Spectrum Culinary",
+    "brandUrl": "https://www.iherb.com/c/spectrum-culinary"
+  },
+  {
+    "name": "Spectrum Essentials",
+    "brandUrl": "https://www.iherb.com/c/spectrum-essentials"
+  },
+  { "name": "Spike", "brandUrl": "https://www.iherb.com/c/spike" },
+  { "name": "Spinbrush", "brandUrl": "https://www.iherb.com/c/spinbrush" },
+  {
+    "name": "Sports Research",
+    "brandUrl": "https://www.iherb.com/c/sports-research"
+  },
+  {
+    "name": "Spread The Love",
+    "brandUrl": "https://www.iherb.com/c/spread-the-love"
+  },
+  {
+    "name": "Sprout Living",
+    "brandUrl": "https://www.iherb.com/c/sprout-living"
+  },
+  {
+    "name": "Sprout Organics",
+    "brandUrl": "https://www.iherb.com/c/sprout-organics"
+  },
+  { "name": "Spunky Pup", "brandUrl": "https://www.iherb.com/c/spunky-pup" },
+  { "name": "Squip", "brandUrl": "https://www.iherb.com/c/squip" },
+  {
+    "name": "Squip Products",
+    "brandUrl": "https://www.iherb.com/c/squip-products"
+  },
+  { "name": "St. Dalfour", "brandUrl": "https://www.iherb.com/c/st-dalfour" },
+  { "name": "St. Ives", "brandUrl": "https://www.iherb.com/c/st-ives" },
+  { "name": "St. Tropez", "brandUrl": "https://www.iherb.com/c/st-tropez" },
+  {
+    "name": "Starwest Botanicals",
+    "brandUrl": "https://www.iherb.com/c/starwest-botanicals"
+  },
+  {
+    "name": "Stash Tea",
+    "brandUrl": "https://www.iherb.com/c/stash-tea-company"
+  },
+  { "name": "Stasher", "brandUrl": "https://www.iherb.com/c/stasher" },
+  { "name": "Stayfree", "brandUrl": "https://www.iherb.com/c/stayfree" },
+  { "name": "Steambase", "brandUrl": "https://www.iherb.com/c/steambase" },
+  { "name": "SteelFit", "brandUrl": "https://www.iherb.com/c/steelfit" },
+  { "name": "Stevita", "brandUrl": "https://www.iherb.com/c/stevita" },
+  { "name": "Stridex", "brandUrl": "https://www.iherb.com/c/stridex" },
+  { "name": "Stur", "brandUrl": "https://www.iherb.com/c/stur" },
+  {
+    "name": "Sufficient C",
+    "brandUrl": "https://www.iherb.com/c/sufficient-c"
+  },
+  { "name": "Sukin", "brandUrl": "https://www.iherb.com/c/sukin" },
+  { "name": "Summer's Eve", "brandUrl": "https://www.iherb.com/c/summers-eve" },
+  { "name": "Sun Bum", "brandUrl": "https://www.iherb.com/c/sun-bum" },
+  {
+    "name": "Sun Chlorella",
+    "brandUrl": "https://www.iherb.com/c/sun-chlorella"
+  },
+  { "name": "Sun Potion", "brandUrl": "https://www.iherb.com/c/sun-potion" },
+  { "name": "Sun-Maid", "brandUrl": "https://www.iherb.com/c/sun-maid" },
+  { "name": "Sunbiotics", "brandUrl": "https://www.iherb.com/c/sunbiotics" },
+  { "name": "SunButter", "brandUrl": "https://www.iherb.com/c/sunbutter" },
+  { "name": "SuncoatGirl", "brandUrl": "https://www.iherb.com/c/suncoatgirl" },
+  {
+    "name": "Suncore Foods",
+    "brandUrl": "https://www.iherb.com/c/suncore-foods"
+  },
+  {
+    "name": "Sundance Vitamins",
+    "brandUrl": "https://www.iherb.com/c/sundance-vitamins"
+  },
+  {
+    "name": "Sundown Naturals",
+    "brandUrl": "https://www.iherb.com/c/sundown-naturals"
+  },
+  { "name": "Sunergetic", "brandUrl": "https://www.iherb.com/c/sunergetic" },
+  { "name": "Sunfood", "brandUrl": "https://www.iherb.com/c/sunfood" },
+  { "name": "Sunlipid", "brandUrl": "https://www.iherb.com/c/sunlipid" },
+  { "name": "Sunny Green", "brandUrl": "https://www.iherb.com/c/sunny-green" },
+  { "name": "Sunny Isle", "brandUrl": "https://www.iherb.com/c/sunny-isle" },
+  { "name": "Sunwarrior", "brandUrl": "https://www.iherb.com/c/sunwarrior" },
+  {
+    "name": "Super Nutrition",
+    "brandUrl": "https://www.iherb.com/c/super-nutrition"
+  },
+  {
+    "name": "Super Snouts",
+    "brandUrl": "https://www.iherb.com/c/super-snouts"
+  },
+  { "name": "SuperFat", "brandUrl": "https://www.iherb.com/c/superfat" },
+  {
+    "name": "Superior Source",
+    "brandUrl": "https://www.iherb.com/c/superior-source"
+  },
+  {
+    "name": "Supernatural Kitchen",
+    "brandUrl": "https://www.iherb.com/c/supernatural-kitchen"
+  },
+  {
+    "name": "Surya Brasil",
+    "brandUrl": "https://www.iherb.com/c/surya-brasil"
+  },
+  {
+    "name": "Sustainable Seas",
+    "brandUrl": "https://www.iherb.com/c/sustainable-seas"
+  },
+  { "name": "Swanson", "brandUrl": "https://www.iherb.com/c/swanson" },
+  { "name": "Swanson WIO", "brandUrl": "https://www.iherb.com/c/swanson-wio" },
+  { "name": "Sweetwell", "brandUrl": "https://www.iherb.com/c/sweetwell" },
+  { "name": "Swerve", "brandUrl": "https://www.iherb.com/c/swerve" },
+  { "name": "Swisse", "brandUrl": "https://www.iherb.com/c/swisse" },
+  { "name": "Swisspers", "brandUrl": "https://www.iherb.com/c/swisspers" },
+  { "name": "Symbiotics", "brandUrl": "https://www.iherb.com/c/symbiotics" },
+  {
+    "name": "Sympli Beautiful",
+    "brandUrl": "https://www.iherb.com/c/sympli-beautiful"
+  },
+  {
+    "name": "T is for Tame",
+    "brandUrl": "https://www.iherb.com/c/t-is-for-tame"
+  },
+  { "name": "T-RQ", "brandUrl": "https://www.iherb.com/c/t-rq" },
+  { "name": "T. Taio", "brandUrl": "https://www.iherb.com/c/t-taio" },
+  { "name": "Tabasco", "brandUrl": "https://www.iherb.com/c/tabasco" },
+  { "name": "Tampax", "brandUrl": "https://www.iherb.com/c/tampax" },
+  { "name": "Tao Kae Noi", "brandUrl": "https://www.iherb.com/c/tao-kae-noi" },
+  { "name": "Tasty Bite", "brandUrl": "https://www.iherb.com/c/tasty-bite" },
+  {
+    "name": "Taylor & Colledge",
+    "brandUrl": "https://www.iherb.com/c/taylor-colledge"
+  },
+  { "name": "Tazo Teas", "brandUrl": "https://www.iherb.com/c/tazo-teas" },
+  {
+    "name": "Tea Tree Therapy",
+    "brandUrl": "https://www.iherb.com/c/tea-tree-therapy"
+  },
+  { "name": "Teami", "brandUrl": "https://www.iherb.com/c/teami" },
+  { "name": "Teeccino", "brandUrl": "https://www.iherb.com/c/teeccino" },
+  {
+    "name": "Terra Origin",
+    "brandUrl": "https://www.iherb.com/c/terra-origin"
+  },
+  { "name": "Terrasil", "brandUrl": "https://www.iherb.com/c/terrasil" },
+  {
+    "name": "Terry Naturally",
+    "brandUrl": "https://www.iherb.com/c/terry-naturally"
+  },
+  {
+    "name": "Thai Deodorant Stone",
+    "brandUrl": "https://www.iherb.com/c/thai-deodorant-stone"
+  },
+  {
+    "name": "Thai Kitchen",
+    "brandUrl": "https://www.iherb.com/c/thai-kitchen"
+  },
+  { "name": "The Doux", "brandUrl": "https://www.iherb.com/c/the-doux" },
+  {
+    "name": "The Face Shop",
+    "brandUrl": "https://www.iherb.com/c/the-face-shop"
+  },
+  {
+    "name": "The First Years",
+    "brandUrl": "https://www.iherb.com/c/the-first-years"
+  },
+  {
+    "name": "The Genius Brand",
+    "brandUrl": "https://www.iherb.com/c/the-genius-brand"
+  },
+  { "name": "The GFB", "brandUrl": "https://www.iherb.com/c/the-gfb" },
+  {
+    "name": "The Ginger People",
+    "brandUrl": "https://www.iherb.com/c/the-ginger-people"
+  },
+  {
+    "name": "The Good Crisp Company",
+    "brandUrl": "https://www.iherb.com/c/the-good-crisp-company"
+  },
+  {
+    "name": "The Grandpa Soap Co.",
+    "brandUrl": "https://www.iherb.com/c/the-grandpa-soap-co"
+  },
+  {
+    "name": "The Honest Company",
+    "brandUrl": "https://www.iherb.com/c/the-honest-company"
+  },
+  {
+    "name": "The Honey Pot Company",
+    "brandUrl": "https://www.iherb.com/c/the-honey-pot-company"
+  },
+  {
+    "name": "The New Primal",
+    "brandUrl": "https://www.iherb.com/c/the-new-primal"
+  },
+  {
+    "name": "The Organic Skin Co.",
+    "brandUrl": "https://www.iherb.com/c/the-organic-skin-co"
+  },
+  {
+    "name": "The PUR Company",
+    "brandUrl": "https://www.iherb.com/c/the-pur-company"
+  },
+  { "name": "The Saem", "brandUrl": "https://www.iherb.com/c/the-saem" },
+  { "name": "The Smurfs", "brandUrl": "https://www.iherb.com/c/the-smurfs" },
+  {
+    "name": "The Spice Lab",
+    "brandUrl": "https://www.iherb.com/c/the-spice-lab"
+  },
+  {
+    "name": "The Tao of Tea",
+    "brandUrl": "https://www.iherb.com/c/the-tao-of-tea"
+  },
+  {
+    "name": "The Vintage Cosmetics Co.",
+    "brandUrl": "https://www.iherb.com/c/the-vintage-cosmetic-co"
+  },
+  {
+    "name": "theBalm Cosmetics",
+    "brandUrl": "https://www.iherb.com/c/thebalm-cosmetics"
+  },
+  { "name": "TheBreathCo.", "brandUrl": "https://www.iherb.com/c/thebreathco" },
+  { "name": "TheraBreath", "brandUrl": "https://www.iherb.com/c/therabreath" },
+  { "name": "TheraPearl", "brandUrl": "https://www.iherb.com/c/therapearl" },
+  {
+    "name": "Therapy Clean",
+    "brandUrl": "https://www.iherb.com/c/therapy-clean"
+  },
+  { "name": "TheraTears", "brandUrl": "https://www.iherb.com/c/theratears" },
+  { "name": "ThermaCare", "brandUrl": "https://www.iherb.com/c/thermacare" },
+  { "name": "think", "brandUrl": "https://www.iherb.com/c/think" },
+  { "name": "Think !", "brandUrl": "https://www.iherb.com/c/think-" },
+  { "name": "Thompson", "brandUrl": "https://www.iherb.com/c/thompson" },
+  { "name": "Thorne", "brandUrl": "https://www.iherb.com/c/thorne" },
+  {
+    "name": "Three Wishes",
+    "brandUrl": "https://www.iherb.com/c/three-wishes"
+  },
+  { "name": "Thunderbird", "brandUrl": "https://www.iherb.com/c/thunderbird" },
+  { "name": "Tiam", "brandUrl": "https://www.iherb.com/c/tiam" },
+  { "name": "Tiger Balm", "brandUrl": "https://www.iherb.com/c/tiger-balm" },
+  { "name": "TIGI", "brandUrl": "https://www.iherb.com/c/tigi" },
+  { "name": "Tinactin", "brandUrl": "https://www.iherb.com/c/tinactin" },
+  { "name": "TIRTIR", "brandUrl": "https://www.iherb.com/c/tirtir" },
+  {
+    "name": "Tom's of Maine",
+    "brandUrl": "https://www.iherb.com/c/toms-of-maine"
+  },
+  {
+    "name": "Tong Ren Tang",
+    "brandUrl": "https://www.iherb.com/c/tong-ren-tang"
+  },
+  {
+    "name": "Tony Chachere's",
+    "brandUrl": "https://www.iherb.com/c/tony-chacheres"
+  },
+  { "name": "Tony Moly", "brandUrl": "https://www.iherb.com/c/tony-moly" },
+  {
+    "name": "Too Cool for School",
+    "brandUrl": "https://www.iherb.com/c/too-cool-for-school"
+  },
+  {
+    "name": "Top Secret Nutrition",
+    "brandUrl": "https://www.iherb.com/c/top-secret-nutrition"
+  },
+  { "name": "Toppik", "brandUrl": "https://www.iherb.com/c/toppik" },
+  {
+    "name": "Torie & Howard",
+    "brandUrl": "https://www.iherb.com/c/torie-howard"
+  },
+  { "name": "Torriden", "brandUrl": "https://www.iherb.com/c/torriden" },
+  { "name": "Tosowoong", "brandUrl": "https://www.iherb.com/c/tosowoong" },
+  { "name": "TPCS", "brandUrl": "https://www.iherb.com/c/tpcs" },
+  {
+    "name": "Trace Minerals ®",
+    "brandUrl": "https://www.iherb.com/c/trace-minerals-r"
+  },
+  {
+    "name": "Traditional Medicinals",
+    "brandUrl": "https://www.iherb.com/c/traditional-medicinals"
+  },
+  { "name": "TransformHQ", "brandUrl": "https://www.iherb.com/c/transformhq" },
+  { "name": "Tree Hut", "brandUrl": "https://www.iherb.com/c/tree-hut" },
+  { "name": "Tree To Tub", "brandUrl": "https://www.iherb.com/c/tree-to-tub" },
+  { "name": "Tresemme", "brandUrl": "https://www.iherb.com/c/tresemme" },
+  { "name": "Trilane", "brandUrl": "https://www.iherb.com/c/trilane" },
+  { "name": "Trilastin", "brandUrl": "https://www.iherb.com/c/trilastin" },
+  { "name": "Trilogy", "brandUrl": "https://www.iherb.com/c/trilogy" },
+  {
+    "name": "Triple Leaf Tea",
+    "brandUrl": "https://www.iherb.com/c/triple-leaf-tea"
+  },
+  {
+    "name": "Triple Paste",
+    "brandUrl": "https://www.iherb.com/c/triple-paste"
+  },
+  {
+    "name": "Tropic Isle Living",
+    "brandUrl": "https://www.iherb.com/c/tropic-isle-living"
+  },
+  { "name": "Tru Niagen", "brandUrl": "https://www.iherb.com/c/tru-niagen" },
+  { "name": "TruBiotics", "brandUrl": "https://www.iherb.com/c/trubiotics" },
+  { "name": "True Citrus", "brandUrl": "https://www.iherb.com/c/true-citrus" },
+  {
+    "name": "True Made Foods",
+    "brandUrl": "https://www.iherb.com/c/true-made-foods"
+  },
+  { "name": "Truff", "brandUrl": "https://www.iherb.com/c/truff" },
+  { "name": "TruHeight", "brandUrl": "https://www.iherb.com/c/truheight" },
+  { "name": "TruKid", "brandUrl": "https://www.iherb.com/c/trukid" },
+  { "name": "TruSkin", "brandUrl": "https://www.iherb.com/c/truskin" },
+  { "name": "TS Trillion", "brandUrl": "https://www.iherb.com/c/ts-trillion" },
+  { "name": "Tucks", "brandUrl": "https://www.iherb.com/c/tucks" },
+  { "name": "Tummydrops", "brandUrl": "https://www.iherb.com/c/tummydrops" },
+  { "name": "Tums", "brandUrl": "https://www.iherb.com/c/tums" },
+  { "name": "Twin Peaks", "brandUrl": "https://www.iherb.com/c/twin-peaks" },
+  { "name": "Twinings", "brandUrl": "https://www.iherb.com/c/twinings" },
+  { "name": "Twinlab", "brandUrl": "https://www.iherb.com/c/twinlab" },
+  { "name": "Ty Ling", "brandUrl": "https://www.iherb.com/c/ty-ling" },
+  { "name": "Tylenol", "brandUrl": "https://www.iherb.com/c/tylenol" },
+  {
+    "name": "Tylers Coffees",
+    "brandUrl": "https://www.iherb.com/c/tylers-coffees"
+  },
+  { "name": "TypeZero", "brandUrl": "https://www.iherb.com/c/typezero" },
+  {
+    "name": "Udderly Smooth",
+    "brandUrl": "https://www.iherb.com/c/udderly-smooth"
+  },
+  { "name": "Ultamins", "brandUrl": "https://www.iherb.com/c/ultamins" },
+  {
+    "name": "Ultima Replenisher",
+    "brandUrl": "https://www.iherb.com/c/ultima-replenisher"
+  },
+  { "name": "Umac-Core", "brandUrl": "https://www.iherb.com/c/umac-core" },
+  {
+    "name": "Uncle Lee's Tea",
+    "brandUrl": "https://www.iherb.com/c/uncle-lee-s-tea"
+  },
+  { "name": "Unisoy", "brandUrl": "https://www.iherb.com/c/unisoy" },
+  {
+    "name": "Universal Nutrition",
+    "brandUrl": "https://www.iherb.com/c/universal-nutrition"
+  },
+  { "name": "Unreal", "brandUrl": "https://www.iherb.com/c/unreal" },
+  { "name": "up4", "brandUrl": "https://www.iherb.com/c/up4" },
+  { "name": "UpSpring", "brandUrl": "https://www.iherb.com/c/upspring" },
+  {
+    "name": "Urban Accents",
+    "brandUrl": "https://www.iherb.com/c/urban-accents"
+  },
+  { "name": "Uriage", "brandUrl": "https://www.iherb.com/c/uriage" },
+  {
+    "name": "USimplySeason",
+    "brandUrl": "https://www.iherb.com/c/usimplyseason"
+  },
+  { "name": "USN", "brandUrl": "https://www.iherb.com/c/usn" },
+  {
+    "name": "Vade Nutrition",
+    "brandUrl": "https://www.iherb.com/c/vade-nutrition"
+  },
+  { "name": "Vagisil", "brandUrl": "https://www.iherb.com/c/vagisil" },
+  { "name": "Vahdam Teas", "brandUrl": "https://www.iherb.com/c/vahdam-teas" },
+  { "name": "Valor", "brandUrl": "https://www.iherb.com/c/valor" },
+  { "name": "Vanicream", "brandUrl": "https://www.iherb.com/c/vanicream" },
+  { "name": "Vaseline", "brandUrl": "https://www.iherb.com/c/vaseline" },
+  { "name": "Vega", "brandUrl": "https://www.iherb.com/c/vega" },
+  { "name": "VeganSmart", "brandUrl": "https://www.iherb.com/c/vegansmart" },
+  { "name": "VegLife", "brandUrl": "https://www.iherb.com/c/veglife" },
+  {
+    "name": "Vermont Village",
+    "brandUrl": "https://www.iherb.com/c/vermont-village"
+  },
+  {
+    "name": "Vibrant Health",
+    "brandUrl": "https://www.iherb.com/c/vibrant-health"
+  },
+  { "name": "Vicks", "brandUrl": "https://www.iherb.com/c/vicks" },
+  {
+    "name": "Vika Nailjam",
+    "brandUrl": "https://www.iherb.com/c/vika-nailjam"
+  },
+  { "name": "Visine", "brandUrl": "https://www.iherb.com/c/visine" },
+  { "name": "Vitables", "brandUrl": "https://www.iherb.com/c/vitables" },
+  { "name": "Vitaburst", "brandUrl": "https://www.iherb.com/c/vitaburst" },
+  { "name": "VitaCup", "brandUrl": "https://www.iherb.com/c/vitacup" },
+  { "name": "VitaFusion", "brandUrl": "https://www.iherb.com/c/vitafusion" },
+  {
+    "name": "Vital Earth Minerals",
+    "brandUrl": "https://www.iherb.com/c/vital-earth-minerals"
+  },
+  {
+    "name": "Vital Essentials",
+    "brandUrl": "https://www.iherb.com/c/vital-essentials"
+  },
+  {
+    "name": "Vital Nutrients",
+    "brandUrl": "https://www.iherb.com/c/vital-nutrients"
+  },
+  {
+    "name": "Vital Proteins",
+    "brandUrl": "https://www.iherb.com/c/vital-proteins"
+  },
+  {
+    "name": "Vitality Works",
+    "brandUrl": "https://www.iherb.com/c/vitality-works"
+  },
+  { "name": "Vitamatic", "brandUrl": "https://www.iherb.com/c/vitamatic" },
+  {
+    "name": "Vitamin Friends",
+    "brandUrl": "https://www.iherb.com/c/vitamin-friends"
+  },
+  { "name": "Vitanica", "brandUrl": "https://www.iherb.com/c/vitanica" },
+  {
+    "name": "Vitauthority",
+    "brandUrl": "https://www.iherb.com/c/vitauthority"
+  },
+  {
+    "name": "Viva Naturals",
+    "brandUrl": "https://www.iherb.com/c/viva-naturals"
+  },
+  { "name": "Viviscal", "brandUrl": "https://www.iherb.com/c/viviscal" },
+  { "name": "VMI Sports", "brandUrl": "https://www.iherb.com/c/vmi-sports" },
+  { "name": "Vplab", "brandUrl": "https://www.iherb.com/c/vplab" },
+  {
+    "name": "VT Cosmetics",
+    "brandUrl": "https://www.iherb.com/c/vt-cosmetics"
+  },
+  { "name": "W7", "brandUrl": "https://www.iherb.com/c/w7" },
+  { "name": "Waka Coffee", "brandUrl": "https://www.iherb.com/c/waka-coffee" },
+  {
+    "name": "Walden Farms",
+    "brandUrl": "https://www.iherb.com/c/walden-farms"
+  },
+  {
+    "name": "Wally's Natural",
+    "brandUrl": "https://www.iherb.com/c/wally-s-natural"
+  },
+  { "name": "Want-Want", "brandUrl": "https://www.iherb.com/c/want-want" },
+  {
+    "name": "Wasa Flatbread",
+    "brandUrl": "https://www.iherb.com/c/wasa-flatbread"
+  },
+  { "name": "Waxelene", "brandUrl": "https://www.iherb.com/c/waxelene" },
+  { "name": "Wedderspoon", "brandUrl": "https://www.iherb.com/c/wedderspoon" },
+  { "name": "Weleda", "brandUrl": "https://www.iherb.com/c/weleda" },
+  { "name": "Wet Brush", "brandUrl": "https://www.iherb.com/c/wet-brush" },
+  { "name": "wet n wild", "brandUrl": "https://www.iherb.com/c/wet-n-wild" },
+  { "name": "Wet Ones", "brandUrl": "https://www.iherb.com/c/wet-ones" },
+  { "name": "Whamisa", "brandUrl": "https://www.iherb.com/c/whamisa" },
+  { "name": "Whisps", "brandUrl": "https://www.iherb.com/c/whisps" },
+  {
+    "name": "Whitaker Nutrition",
+    "brandUrl": "https://www.iherb.com/c/whitaker-nutrition"
+  },
+  {
+    "name": "White Egret Personal Care",
+    "brandUrl": "https://www.iherb.com/c/white-egret-personal-care"
+  },
+  { "name": "Whole Earth", "brandUrl": "https://www.iherb.com/c/whole-earth" },
+  {
+    "name": "Whole World Botanicals",
+    "brandUrl": "https://www.iherb.com/c/whole-world-botanicals"
+  },
+  {
+    "name": "Wholesome Story",
+    "brandUrl": "https://www.iherb.com/c/wholesome-story"
+  },
+  {
+    "name": "Wholesome Sweeteners",
+    "brandUrl": "https://www.iherb.com/c/wholesome-sweeteners"
+  },
+  { "name": "Wild Planet", "brandUrl": "https://www.iherb.com/c/wild-planet" },
+  {
+    "name": "Wilderness Poets",
+    "brandUrl": "https://www.iherb.com/c/wilderness-poets"
+  },
+  {
+    "name": "Wildly Organic",
+    "brandUrl": "https://www.iherb.com/c/wildly-organic"
+  },
+  {
+    "name": "Wiley's Finest",
+    "brandUrl": "https://www.iherb.com/c/wiley-s-finest"
+  },
+  {
+    "name": "Williams Nutrition",
+    "brandUrl": "https://www.iherb.com/c/williams-nutrition"
+  },
+  {
+    "name": "Wisdom Natural",
+    "brandUrl": "https://www.iherb.com/c/wisdom-natural"
+  },
+  {
+    "name": "Wisdom Of The Ancient",
+    "brandUrl": "https://www.iherb.com/c/wisdom-of-the-ancient"
+  },
+  {
+    "name": "WiseWays Herbals, LLC",
+    "brandUrl": "https://www.iherb.com/c/wiseways-herbals-llc"
+  },
+  {
+    "name": "WishGarden Herbs",
+    "brandUrl": "https://www.iherb.com/c/wishgarden-herbs"
+  },
+  { "name": "Wobenzym N", "brandUrl": "https://www.iherb.com/c/wobenzym-n" },
+  { "name": "Wonder", "brandUrl": "https://www.iherb.com/c/wonder" },
+  { "name": "Wonder Paws", "brandUrl": "https://www.iherb.com/c/wonder-paws" },
+  { "name": "Wonderbelly", "brandUrl": "https://www.iherb.com/c/wonderbelly" },
+  {
+    "name": "Wonderful Pistachios",
+    "brandUrl": "https://www.iherb.com/c/wonderful-pistachios"
+  },
+  {
+    "name": "World Organic",
+    "brandUrl": "https://www.iherb.com/c/world-organic"
+  },
+  {
+    "name": "Wow Skin Science",
+    "brandUrl": "https://www.iherb.com/c/wow-skin-science"
+  },
+  { "name": "WubbaNub", "brandUrl": "https://www.iherb.com/c/wubbanub" },
+  { "name": "Xlear", "brandUrl": "https://www.iherb.com/c/xlear" },
+  { "name": "XP Sports", "brandUrl": "https://www.iherb.com/c/xp-sports" },
+  { "name": "Xtend", "brandUrl": "https://www.iherb.com/c/xtend" },
+  { "name": "XyliDENT", "brandUrl": "https://www.iherb.com/c/xylident" },
+  { "name": "Xyloburst", "brandUrl": "https://www.iherb.com/c/xyloburst" },
+  {
+    "name": "Yamamoto Kanpoh",
+    "brandUrl": "https://www.iherb.com/c/yamamoto-kanpoh"
+  },
+  {
+    "name": "Yardley London",
+    "brandUrl": "https://www.iherb.com/c/yardley-london"
+  },
+  {
+    "name": "YeastGard Advanced",
+    "brandUrl": "https://www.iherb.com/c/yeastgard-advanced"
+  },
+  {
+    "name": "Yellowbird Sauce",
+    "brandUrl": "https://www.iherb.com/c/yellowbird-sauce"
+  },
+  { "name": "Yeouth", "brandUrl": "https://www.iherb.com/c/yeouth" },
+  { "name": "Yerba Prima", "brandUrl": "https://www.iherb.com/c/yerba-prima" },
+  { "name": "Yes Bar", "brandUrl": "https://www.iherb.com/c/yes-bar" },
+  { "name": "Yes To", "brandUrl": "https://www.iherb.com/c/yes-to" },
+  { "name": "Yishi", "brandUrl": "https://www.iherb.com/c/yishi" },
+  { "name": "Yogi Tea", "brandUrl": "https://www.iherb.com/c/yogi-tea" },
+  { "name": "Your Super", "brandUrl": "https://www.iherb.com/c/your-super" },
+  { "name": "Youtheory", "brandUrl": "https://www.iherb.com/c/youtheory" },
+  { "name": "YumEarth", "brandUrl": "https://www.iherb.com/c/yumearth" },
+  { "name": "YumV's", "brandUrl": "https://www.iherb.com/c/yumvs" },
+  { "name": "Zahler", "brandUrl": "https://www.iherb.com/c/zahler" },
+  { "name": "Zand", "brandUrl": "https://www.iherb.com/c/zand" },
+  { "name": "Zarbee's", "brandUrl": "https://www.iherb.com/c/zarbees" },
+  { "name": "ZenToes", "brandUrl": "https://www.iherb.com/c/zentoes" },
+  {
+    "name": "Zenwise Health",
+    "brandUrl": "https://www.iherb.com/c/zenwise-health"
+  },
+  { "name": "Zesty Paws", "brandUrl": "https://www.iherb.com/c/zesty-paws" },
+  {
+    "name": "Zhou Nutrition",
+    "brandUrl": "https://www.iherb.com/c/zhou-nutrition"
+  },
+  { "name": "Zicam", "brandUrl": "https://www.iherb.com/c/zicam" },
+  { "name": "Zing Bars", "brandUrl": "https://www.iherb.com/c/zing-bars" },
+  { "name": "Zint", "brandUrl": "https://www.iherb.com/c/zint" },
+  { "name": "Zion Health", "brandUrl": "https://www.iherb.com/c/zion-health" },
+  { "name": "Zipfizz", "brandUrl": "https://www.iherb.com/c/zipfizz" },
+  {
+    "name": "ZOI Research",
+    "brandUrl": "https://www.iherb.com/c/zoi-research-products"
+  },
+  { "name": "Zollipops", "brandUrl": "https://www.iherb.com/c/zollipops" },
+  { "name": "ZonePerfect", "brandUrl": "https://www.iherb.com/c/zoneperfect" },
+  { "name": "ZUM", "brandUrl": "https://www.iherb.com/c/zum" },
+  { "name": "Zyrtec", "brandUrl": "https://www.iherb.com/c/zyrtec" }
+]
