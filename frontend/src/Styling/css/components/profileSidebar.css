@@ -1,10 +1,11 @@
 /* Sidebar.css */
+.profile-main-container {
+  margin-top: 180px;
+}
+
 .profile-sidebar {
-  width: 300px;
-  top: 200px;
-  height: 101vh;
   position: fixed;
-  display: flex;
+  z-index: 100;
 }
 
 .profile-li {
@@ -26,10 +27,6 @@
   opacity: 1;
 }
 
-.my-orders-section {
-  position: relative;
-}
-
 .no-orders-img {
   max-width: 30vw;
   position: absolute;
@@ -39,53 +36,78 @@
 }
 
 .my-orders-container {
-  width: 50vw;
-  margin-left: 30%;
-  margin-top: 215px;
+  width: 100%;
 }
 
 .one-order-container {
   padding: 0.75rem;
-  border-bottom: 1px solid grey;
   align-items: center;
   width: 100%;
+  border-bottom: 1px solid grey;
 }
 
 .order-details {
-  display: flex;
-  justify-content: space-evenly;
+  display: grid;
   align-items: center;
+  grid-template-columns: 2fr 3fr 1fr;
+  column-gap: 0.75rem;
+  margin-bottom: 0.75rem;
+}
+
+.order-date {
+  text-align: center;
+  font-weight: bold;
+  font-size: large;
 }
 
 .one-order-container:nth-child(odd) {
-  background-color: lightgrey;
+  background-color: #dbe6e9;
 }
 
 .one-order-container:nth-child(even) {
-  background-color: wheat;
+  background-color: #f6f7f6;
 }
 
 .orders-images {
   display: inline-block;
   height: 120px;
   width: 120px;
-  margin-right: 0.75rem;
-}
-
-.account-details-section .post-submitted-card {
-  margin: 180px 20% 70px auto;
-}
-
-.change-password .login-container {
-  margin: 180px 20% 70px auto;
+  margin-bottom: 0.75rem;
 }
 
 .mobile-ul {
-  display: flex;
-  flex-direction: row;
-  height: 13vh;
+  display: grid;
+  grid-template-columns: 2fr 2fr;
+  grid-template-rows: 2fr 2fr;
+  width: 100%;
+  margin-bottom: 20px;
+  row-gap: 20px;
+  column-gap: 20px;
+  padding: 15px;
+}
+
+.mobile-ul > * {
+  width: 100%;
+  margin: 0;
 }
 
 .mobile-sidebar {
   display: flex;
+}
+
+.my-orders-section {
+  position: relative;
+  width: 65vw;
+  margin-bottom: 0.75rem;
+}
+
+.my-orders-section,
+.account-details-section,
+.change-password {
+  margin-left: 29%;
+}
+
+.zero-left {
+  margin-left: 0;
+  width: 100%;
 }

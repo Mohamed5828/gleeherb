@@ -7,5 +7,4 @@ function Profile() {
 
   return isMobile ? <ProfileMobile /> : <ProfileNormal />;
 }
-
 export default Profile;

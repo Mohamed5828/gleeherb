@@ -71,6 +71,29 @@
     }
   }
 }
+.checkout-discount-btn {
+  @include btn(#1773b0);
+  padding: 11.1px;
+  background-color: #1773b0 !important ;
+  border-radius: 3px;
+  color: #fff;
+  margin: 10px 0;
+
+  &:hover {
+    background-color: #105989 !important ;
+  }
+}
+.finish-order-btn {
+  @include btn($loginBtn);
+  padding: 11px;
+  background-color: $loginBtn !important ;
+  border-radius: 3px;
+  color: #fff;
+
+  &:hover {
+    background-color: #45a049 !important ;
+  }
+}
 .submit-btn {
   width: 212px;
   height: 38px;

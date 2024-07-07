@@ -22,15 +22,12 @@ public class OrderDetailService {
     @Autowired
     private final JwtService jwtService;
     @Autowired
-    private final CartItemService cartItemService;
-    @Autowired
     private final OrderItemService orderItemService;
     @Autowired
     private final UserRepository userRepository;
-    public OrderDetailService(OrderDetailRepository orderDetailRepository, JwtService jwtService, CartItemService cartItemService, OrderItemService orderItemService, UserRepository userRepository) {
+    public OrderDetailService(OrderDetailRepository orderDetailRepository, JwtService jwtService, OrderItemService orderItemService, UserRepository userRepository) {
         this.orderDetailRepository = orderDetailRepository;
         this.jwtService = jwtService;
-        this.cartItemService = cartItemService;
         this.orderItemService = orderItemService;
         this.userRepository = userRepository;
     }
@@ -52,7 +49,7 @@ public class OrderDetailService {
         return products;
     }
     @Transactional
-    public OrderDetail constructOrderDetail() {
+    public OrderDetail constructOrderDetail( float discountValue) {
         int userId;
         try {
             userId = jwtService.extractUserIdFromToken();
@@ -66,8 +63,10 @@ public class OrderDetailService {
                 .orElseThrow(() -> new IllegalStateException("User Not Found With Id = " + userId)));
         orderDetail.setOrderStatus(OrderStatus.processing);
         orderDetail = orderDetailRepository.save(orderDetail);
-        List<OrderItem> orderItems = orderItemService.addCartToOrderItem(userId ,orderDetail.getId());
+        List<OrderItem> orderItems = orderItemService.addCartToOrderItem(userId ,orderDetail.getId(), discountValue);
         orderDetail.setOrderItems(orderItems);
+        orderDetail.setPaymentMethod("Credit Card");
+        orderDetail = orderDetailRepository.save(orderDetail);
         //the following line cause stackoverflow;
         //System.out.println("Order detail constructed successfully. " + orderDetail);
         return orderDetail;
@@ -75,24 +74,26 @@ public class OrderDetailService {
     public List<OrderDetail> getOrderDetailsByUserId(int userId){
         return orderDetailRepository.findAllByUserId(userId);
     }
-    public List<UserOrderDTO> getOrderedProductsForUser() {
+    public List<List<UserOrderDTO>> getOrderedProductsForUser() {
         int userId = jwtService.extractUserIdFromToken();
         List<OrderDetail> userOrderDetails = getOrderDetailsByUserId(userId);
-        List<UserOrderDTO> userOrderDTOList = new ArrayList<>();
+        List<List<UserOrderDTO>> allUserOrders = new ArrayList<>();
         for (OrderDetail orderDetail : userOrderDetails) {
             List<Product> userOrderedProducts = getProductsForOrderDetail(orderDetail);
+            List<UserOrderDTO> userOrderDTOList = new ArrayList<>();
             for (Product product : userOrderedProducts) {
                 UserOrderDTO userOrderDTO = new UserOrderDTO();
                 userOrderDTO.setImage(product.getFirstImage());
                 userOrderDTO.setQuantity(product.getQuantity());
                 userOrderDTO.setTitle(product.getTitle());
-                userOrderDTO.setDate(String.valueOf(orderDetail.getCreatedAt()));
+                userOrderDTO.setPrice(String.valueOf(product.getPriceEg()));
+                userOrderDTO.setDate(String.valueOf(orderDetail.getCreationDate()));
                 userOrderDTO.setTotal(String.valueOf(orderDetail.getTotal()));
                 userOrderDTO.setOrderStatus(orderDetail.getOrderStatus());
                 userOrderDTOList.add(userOrderDTO);
             }
+            allUserOrders.add(userOrderDTOList);
         }
-        return userOrderDTOList;
+        return allUserOrders;
     }
-
 }

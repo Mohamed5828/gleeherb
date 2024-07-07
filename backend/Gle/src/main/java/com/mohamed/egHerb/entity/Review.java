@@ -10,7 +10,7 @@ import lombok.Setter;
 @Entity
 @AllArgsConstructor
 @Table(name = "review")
-public class Review {
+public class Review extends AbstractEntityModel {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long reviewId;

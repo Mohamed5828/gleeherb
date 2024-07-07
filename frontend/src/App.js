@@ -11,10 +11,11 @@ import NewHome from "./layout/NewHome";
 import InquiryForm from "./layout/Inquiry";
 import Sidemenu from "./components/Sidemenu";
 import RegInfo from "./components/RegInfo";
-import Profile from "./layout/ProfileNormal";
+import Profile from "./layout/Profile";
 import ScrollToTop from "./tools/ScrollToTop";
 import About from "./layout/About";
 import Contact from "./layout/Contact";
+import CheckoutPage from "./layout/CheckoutPage";
 
 function App() {
   const [isCartOpen, setIsCartOpen] = useState(false);
@@ -56,9 +57,24 @@ function App() {
             <Route path="/address" element={<RegInfo />} />
             <Route path="/contact" element={<Contact />} />
             <Route path="/login" element={<LoginPage />} />
-            <Route path="/profile" element={<Profile />} />
+            <Route
+              path="/profile"
+              element={
+                <RequireAuth loginPath="/login">
+                  <Profile />
+                </RequireAuth>
+              }
+            />
             <Route path="/inquiry" element={<InquiryForm />} />
             <Route path="/about" element={<About />} />
+            <Route
+              path="/checkout"
+              element={
+                <RequireAuth loginPath="/login">
+                  <CheckoutPage />
+                </RequireAuth>
+              }
+            />
             <Route
               path="/payment"
               element={<RequireAuth loginPath="/login"></RequireAuth>}

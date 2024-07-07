@@ -3,7 +3,6 @@ import { Dialog, Transition } from "@headlessui/react";
 import { XMarkIcon } from "@heroicons/react/24/outline";
 import { useAuthHeader, useIsAuthenticated } from "react-auth-kit";
 import { useCart } from "../tools/CartContext";
-import { cardPayment } from "../tools/Paymob";
 import { useNavigate } from "react-router-dom";
 
 import {
@@ -38,7 +37,7 @@ export default function Cart({ isCartOpen, toggleCart }) {
       console.error("Error fetching data:", error);
       navigate("/address");
     }
-    isAuth() ? cardPayment(userToken) : navigate("/login");
+    isAuth() ? navigate("/checkout") : navigate("/login");
   }
   return (
     <Transition.Root show={isCartOpen} as={Fragment}>
@@ -107,7 +106,13 @@ export default function Cart({ isCartOpen, toggleCart }) {
                                       <div>
                                         <div className="flex justify-between text-base font-medium text-gray-900">
                                           <h3>
-                                            <a href={`/product/${product.id}`}>
+                                            <a
+                                              href={
+                                                product.id < 100
+                                                  ? `/product/${product.id}`
+                                                  : "/"
+                                              }
+                                            >
                                               {product.title}
                                             </a>
                                           </h3>
@@ -207,7 +212,6 @@ export default function Cart({ isCartOpen, toggleCart }) {
                         <a
                           onClick={() => {
                             handlePayment();
-
                             toggleCart();
                           }}
                           className="flex items-center justify-center rounded-md border border-transparent bg-indigo-600 px-6 py-3 text-base font-medium text-white shadow-sm hover:bg-indigo-700 cursor-pointer"

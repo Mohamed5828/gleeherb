@@ -10,7 +10,7 @@ import java.time.LocalDateTime ;
 @Getter
 @Setter
 @Table(name = "order_items")
-public class OrderItem {
+public class OrderItem extends AbstractEntityModel {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(name="id")
@@ -27,20 +27,12 @@ public class OrderItem {
     @Column(name = "quantity")
     private int quantity;
 
-    @Column(name = "created_at")
-    private LocalDateTime  createdAt;
-
-    @Column(name = "modified_at")
-    private LocalDateTime  modifiedAt;
-
     public OrderItem(){}
 
-    public OrderItem(OrderDetail orderId,int quantity, Product productId, LocalDateTime  createdAt, LocalDateTime  modifiedAt) {
+    public OrderItem(OrderDetail orderId,int quantity, Product productId) {
         this.order = orderId;
         this.product = productId;
         this.quantity = quantity;
-        this.createdAt = createdAt;
-        this.modifiedAt = modifiedAt;
     }
 
     @Override
@@ -49,8 +41,6 @@ public class OrderItem {
                 "id=" + id +
                 ", product=" + product +
                 ", quantity=" + quantity +
-                ", createdAt=" + createdAt +
-                ", modifiedAt=" + modifiedAt +
                 '}';
     }
 }

@@ -1,14 +1,14 @@
 import axios from "axios";
 import { baseUrl } from "./backendConfig";
 
-export const cardPayment = async (userToken) => {
+export const cardPayment = async (userToken, disName) => {
   try {
     // const userToken = autha().slice(6);
 
     // Make a POST request to get payment initialization
     const response = await axios.post(
       `${baseUrl}/api/paymentinitialization`,
-      {},
+      { discountName: disName },
       {
         headers: {
           Authorization: `Bearer ${userToken}`,

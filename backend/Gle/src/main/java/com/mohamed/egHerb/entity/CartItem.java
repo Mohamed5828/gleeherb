@@ -12,7 +12,7 @@ import java.time.LocalDateTime;
 @Setter
 
 @Table(name="cart_items")
-public class CartItem {
+public class CartItem extends AbstractEntityModel {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
@@ -31,20 +31,12 @@ public class CartItem {
     @Column(name = "quantity")
     private int quantity;
 
-    @Column(name = "created_at")
-    private LocalDateTime createdAt;
-
-    @Column(name = "modified_at")
-    private LocalDateTime modifiedAt;
-
-
     public  CartItem(){}
-    public CartItem(int productId, int quantity,int userId, LocalDateTime  createdAt, LocalDateTime  modifiedAt) {
+    public CartItem(int productId, int quantity,int userId) {
         this.product = new Product(productId) ;
         this.quantity = quantity;
         this.user = new AppUser(userId) ;
-        this.createdAt = createdAt;
-        this.modifiedAt = modifiedAt;
+
     }
 
     @Override
@@ -54,8 +46,6 @@ public class CartItem {
                 ", productId=" + product +
                 ", userId=" + user +
                 ", quantity=" + quantity +
-                ", createdAt=" + createdAt +
-                ", modifiedAt=" + modifiedAt +
                 '}';
     }
 }

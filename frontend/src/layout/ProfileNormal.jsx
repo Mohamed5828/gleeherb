@@ -7,7 +7,7 @@ import MyOrders from "../components/MyOrders";
 function ProfileNormal() {
   const [activeTab, setActiveTab] = useState("myOrder");
   return (
-    <div>
+    <div className="profile-main-container">
       <ProfileSidebar activeTab={activeTab} setActiveTab={setActiveTab} />
       {activeTab === "myOrder" && (
         <div className="my-orders-section">

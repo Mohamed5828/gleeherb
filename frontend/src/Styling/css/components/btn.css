@@ -503,6 +503,53 @@
   background-color: #45a049;
 }
 
+.checkout-discount-btn {
+  text-decoration: none;
+  cursor: pointer;
+  display: inline-block;
+  border: 0;
+  padding: 0.75rem;
+  background-color: #1773b0;
+  line-height: 1;
+  color: black;
+  transition: 0.25s;
+  padding: 11.1px;
+  background-color: #1773b0 !important;
+  border-radius: 3px;
+  color: #fff;
+  margin: 10px 0;
+}
+.checkout-discount-btn:hover, .checkout-discount-btn:focus {
+  border-color: #c3bef0;
+  color: #fff;
+}
+.checkout-discount-btn:hover {
+  background-color: #105989 !important;
+}
+
+.finish-order-btn {
+  text-decoration: none;
+  cursor: pointer;
+  display: inline-block;
+  border: 0;
+  padding: 0.75rem;
+  background-color: #4caf50;
+  line-height: 1;
+  color: black;
+  transition: 0.25s;
+  padding: 11px;
+  background-color: #4caf50 !important;
+  border-radius: 3px;
+  color: #fff;
+}
+.finish-order-btn:hover, .finish-order-btn:focus {
+  border-color: #c3bef0;
+  color: #fff;
+}
+.finish-order-btn:hover {
+  background-color: #45a049 !important;
+}
+
 .submit-btn {
   width: 212px;
   height: 38px;

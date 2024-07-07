@@ -10,6 +10,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 import java.util.Optional;
 import java.util.concurrent.atomic.AtomicInteger;
@@ -31,7 +32,7 @@ public class OrderItemService {
         this.orderItemsRepository = orderItemsRepository;
         this.orderDetailRepository = orderDetailRepository;
     }
-    public List<OrderItem> addCartToOrderItem(int userId , Integer orderDetailId) {
+    public List<OrderItem> addCartToOrderItem(int userId , Integer orderDetailId, float discountValue) {
         List<CartItem> currentCartItems = cartItemService.getCart();
         OrderDetail orderDetail = orderDetailRepository.findById(orderDetailId)
                         .orElseThrow(()->new RuntimeException("Order Detail Not Found For ID = " + orderDetailId));
@@ -47,13 +48,15 @@ public class OrderItemService {
         })
                 .map(orderItemsRepository::save)
                 .collect(Collectors.toList());
-        orderDetail.setTotal(total.get());
+        orderDetail.setTotal((int) (total.get() * discountValue));
         orderDetailRepository.save(orderDetail);
         try {
             cartItemService.deleteByUserId(userId);
         } catch (Exception e) {
             throw new RuntimeException("Failed to delete cart items for user: " + userId, e);
         }
+
+
         return orderItems;
     }
 }

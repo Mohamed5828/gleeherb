@@ -18,26 +18,19 @@ import lombok.ToString;
 @Setter
 @ToString
 public abstract class AbstractEntityModel {
-//
-//    @Version
-//    @Column(name = "version", nullable = false)
-//    private long version;
-//
-////    @CreatedBy
-////    @Column(name = "creation_user", nullable = false, updatable = false)
-////    private String creationUser;
-//
-//    @CreatedDate
-//    @Column(name = "creation_date", nullable = false, updatable = false)
-//    private OffsetDateTime creationDate;
-//
-////    @LastModifiedBy
-////    @Column(name = "modification_user", nullable = false)
-////    private String modificationUser;
-//
-//    @LastModifiedDate
-//    @Column(name = "modification_date", nullable = false)
-//    private OffsetDateTime modificationDate;
+
+    @Version
+    @Column(name = "version", nullable = false)
+    private long version;
+
+    @CreatedDate
+    @Column(name = "creation_date", nullable = false, updatable = false)
+    private OffsetDateTime creationDate = OffsetDateTime.now();
+
+
+    @LastModifiedDate
+    @Column(name = "modification_date", nullable = false)
+    private OffsetDateTime modificationDate = OffsetDateTime.now();
 
 }
 

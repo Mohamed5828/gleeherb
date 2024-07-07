@@ -14,7 +14,7 @@ import java.util.List;
 @Setter
 @AllArgsConstructor
 @Table(name="order_details")
-public class OrderDetail {
+public class OrderDetail extends AbstractEntityModel {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
@@ -34,14 +34,12 @@ public class OrderDetail {
     @Column(name = "payment_id")
     private int paymentId;
 
-    @Column(name = "created_at")
-    private Timestamp createdAt;
-
-    @Column(name = "modified_at")
-    private Timestamp modifiedAt;
+    @Column(name = "payment_method")
+    private String paymentMethod;
 
     @OneToMany(mappedBy = "order", cascade = CascadeType.ALL, orphanRemoval = true)
     private List<OrderItem> orderItems;
+
 
     public OrderDetail(){
     }
@@ -54,8 +52,6 @@ public class OrderDetail {
                 ", user=" + user +
                 ", total=" + total +
                 ", paymentId=" + paymentId +
-                ", createdAt=" + createdAt +
-                ", modifiedAt=" + modifiedAt +
                 '}';
     }
 }

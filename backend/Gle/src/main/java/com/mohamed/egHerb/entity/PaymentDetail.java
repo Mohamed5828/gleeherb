@@ -10,7 +10,7 @@ import java.sql.Timestamp;
 @Getter
 @Setter
 @Table(name="payment_details")
-public class PaymentDetail {
+public class PaymentDetail extends AbstractEntityModel {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(name="id")
@@ -23,18 +23,11 @@ public class PaymentDetail {
     @Column(name="status")
     private String status;
 
-    @Column(name = "created_at")
-    private Timestamp createdAt;
-
-    @Column(name = "modified_at")
-    private Timestamp modifiedAt;
 
     public PaymentDetail(){}
-    public PaymentDetail(OrderDetail orderId, String status, Timestamp createdAt, Timestamp modifiedAt) {
+    public PaymentDetail(OrderDetail orderId, String status) {
         this.order = orderId;
         this.status = status;
-        this.createdAt = createdAt;
-        this.modifiedAt = modifiedAt;
     }
     @Override
     public String toString() {
@@ -42,8 +35,6 @@ public class PaymentDetail {
                 "id=" + id +
                 ", orderId=" + order +
                 ", status='" + status + '\'' +
-                ", createdAt=" + createdAt +
-                ", modifiedAt=" + modifiedAt +
                 '}';
     }
 }

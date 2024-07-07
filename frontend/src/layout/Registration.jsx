@@ -7,7 +7,7 @@ import GoogleAuth from "../components/GoogleAuth";
 function Registration() {
   return (
     <div className="write-container">
-      <div className="post-submitted-card">
+      <div className="post-submitted-card mt-32">
         <SignUpForm />
         <GoogleAuth />
       </div>

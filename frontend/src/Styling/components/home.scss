@@ -29,7 +29,9 @@ body {
 html {
   color-scheme: dark light;
 }
-
+:root {
+  color-scheme: only light;
+}
 a {
   color: $text;
   text-decoration: none;

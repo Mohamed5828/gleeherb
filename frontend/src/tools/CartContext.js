@@ -42,7 +42,7 @@ export const CartProvider = ({ children }) => {
   useEffect(() => {
     // Fetch initial cart items from the backend when the component mounts
     fetchInitialCartItems(dispatch, userToken);
-  }, []);
+  }, [userToken]);
 
   return (
     <CartContext.Provider value={{ cartItems, dispatch }}>

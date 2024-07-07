@@ -1,13 +1,12 @@
 package com.mohamed.egHerb.controllers;
 
-import com.fasterxml.jackson.databind.JsonNode;
-import com.mohamed.egHerb.dto.OrderRegistrationResponse;
+import com.mohamed.egHerb.dto.DiscountRequest;
 import com.mohamed.egHerb.service.EmailVerificationService;
 import com.mohamed.egHerb.service.PaymentService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
-import reactor.core.publisher.Mono;
 
 
 @RestController
@@ -21,11 +20,15 @@ public class PaymentController {
         this.paymentService = paymentService;
         this.emailVerificationService = emailVerificationService;
     }
-    @PostMapping("/api/paymentinitialization")
-    public String paymobPayment(){
-        return paymentService.doThePayment();
+
+    @PostMapping("/codpayment")
+    public boolean placeCODOrder(@RequestBody DiscountRequest discountRequest ){
+        return paymentService.makeCodRequest(discountRequest);
     }
 
+    @PostMapping("/api/paymentinitialization")
+    public String paymobPayment(@RequestBody(required = false) DiscountRequest discountRequest) {
+        return paymentService.doThePayment(discountRequest);
 //    public Mono<Boolean> paymobPayment() {
 //        Mono<String> tokenMono = paymentService.initializePayment();
 //        return tokenMono.flatMap(token -> {
@@ -37,4 +40,5 @@ public class PaymentController {
 //            });
 //        });
 //    }
+    }
 }

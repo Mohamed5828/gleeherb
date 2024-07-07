@@ -5,6 +5,8 @@ import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.node.ObjectNode;
+import com.mohamed.egHerb.dao.OrderDetailRepository;
+import com.mohamed.egHerb.dto.DiscountRequest;
 import com.mohamed.egHerb.dto.OrderRegistrationResponse;
 import com.mohamed.egHerb.entity.OrderDetail;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -28,18 +30,21 @@ public class PaymentService {
     private final PaymentRequestService paymentRequestService;
     private final OrderDetailService orderDetailService;
     private final ObjectMapper objectMapper;
-
+    private final DiscountService discountService;
+    private final OrderDetailRepository orderDetailRepository;
     private final EmailVerificationService emailVerificationService;
 
 
     @Autowired
     public PaymentService(WebClient.Builder webClientBuilder ,
                           PaymentRequestService paymentRequestService,
-                          OrderDetailService orderDetailService, ObjectMapper objectMapper, EmailVerificationService emailVerificationService) {
+                          OrderDetailService orderDetailService, ObjectMapper objectMapper, DiscountService discountService, OrderDetailRepository orderDetailRepository, EmailVerificationService emailVerificationService) {
         this.webClient = webClientBuilder.baseUrl("https://accept.paymob.com").build();
         this.paymentRequestService = paymentRequestService;
         this.orderDetailService = orderDetailService;
         this.objectMapper = objectMapper;
+        this.discountService = discountService;
+        this.orderDetailRepository = orderDetailRepository;
         this.emailVerificationService = emailVerificationService;
     }
     public Mono<String> initializePayment(){
@@ -48,9 +53,9 @@ public class PaymentService {
         return sendApiRequest(requestBody, INIT_ENDPOINT, this::handleAuthResponse)
                 .map(ResponseEntity::getBody);
     }
-    public Mono<OrderRegistrationResponse> orderRegistration(String accessToken) {
-        OrderDetail orderDetail = orderDetailService.constructOrderDetail();
-        ObjectNode orderJson = paymentRequestService.buildOrderRequest(orderDetail, String.valueOf(accessToken));
+    public Mono<OrderRegistrationResponse> orderRegistration(String accessToken , float discountRate) {
+        OrderDetail orderDetail = orderDetailService.constructOrderDetail(discountRate);
+        ObjectNode orderJson = paymentRequestService.buildOrderRequest(orderDetail, String.valueOf(accessToken) );
         JsonNode total = orderJson.get("amount_cents");
         // Make API request using WebClient
         return webClient.post()
@@ -102,7 +107,7 @@ public class PaymentService {
     }
 
     public Mono<String> acquirePaymentKey(String id, String token, int total) {
-        ObjectNode finalData = paymentRequestService.buildFinalData(id,token, total);
+        ObjectNode finalData = paymentRequestService.buildFinalData(id,token, total );
 
         try {
             return webClient.post()
@@ -128,9 +133,10 @@ public class PaymentService {
         }
     }
 
-    public String doThePayment() {
+    public String doThePayment(DiscountRequest discountRequest) {
+        float discountRate = discountService.verifyDiscountValue(discountRequest);
         Mono<String> token = initializePayment();
-        Mono<OrderRegistrationResponse> registrationMono = orderRegistration(token.block());
+        Mono<OrderRegistrationResponse> registrationMono = orderRegistration(token.block() , discountRate);
         OrderRegistrationResponse registrationResponse = registrationMono.block();
         assert registrationResponse != null;
         String orderString = registrationResponse.getOrderString();
@@ -139,9 +145,17 @@ public class PaymentService {
             totalValue *= 100;
 
         String paymobOrderId = String.valueOf(handleOrderResponse(orderString));
-        Mono<String> paymentKeyToken = acquirePaymentKey(paymobOrderId ,token.block(), totalValue);
+        Mono<String> paymentKeyToken = acquirePaymentKey(paymobOrderId ,token.block(), totalValue );
         String paymentKey = paymentKeyToken.block();
 
 //        emailVerificationService.sendOrderConfirmationMail();
         return paymentKey;    }
+
+    public boolean makeCodRequest(DiscountRequest discountRequest) {
+        float discountValue = discountService.verifyDiscountValue(discountRequest);
+        OrderDetail orderDetail = orderDetailService.constructOrderDetail(discountValue);
+        orderDetail.setPaymentMethod("Cash");
+        orderDetailRepository.save(orderDetail);
+        return true;
+    }
 }

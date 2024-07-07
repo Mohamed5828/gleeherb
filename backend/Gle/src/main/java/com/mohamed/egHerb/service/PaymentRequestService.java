@@ -1,14 +1,11 @@
 package com.mohamed.egHerb.service;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
-import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.node.ArrayNode;
 import com.fasterxml.jackson.databind.node.ObjectNode;
 import com.mohamed.egHerb.dao.UserAddressRepository;
 import com.mohamed.egHerb.dao.UserRepository;
-import com.mohamed.egHerb.dto.FinalItemDTO;
-import com.mohamed.egHerb.dto.FinalOrderDTO;
 import com.mohamed.egHerb.entity.AppUser;
 import com.mohamed.egHerb.entity.OrderDetail;
 import com.mohamed.egHerb.entity.Product;
@@ -42,13 +39,13 @@ public class PaymentRequestService {
 
 
 
-    public ObjectNode buildOrderRequest(OrderDetail orderDetail, String accessToken) {
+    public ObjectNode buildOrderRequest(OrderDetail orderDetail, String accessToken ) {
         List<Product> orderProducts = orderDetailService.getProductsForOrderDetail(orderDetail);
         ObjectNode orderJson = objectMapper.createObjectNode();
         orderJson.put("auth_token" ,accessToken);
         orderJson.put("delivery_needed" , "false");
         orderJson.put("currency", "EGP");
-        orderJson.put( "amount_cents", String.valueOf(orderDetail.getTotal()));
+        orderJson.put( "amount_cents", String.valueOf(orderDetail.getTotal() ));
         ArrayNode itemArrayNode = objectMapper.createArrayNode();
         for(Product product : orderProducts){
             ObjectNode itemOrder = objectMapper.createObjectNode();

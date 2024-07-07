@@ -404,6 +404,10 @@ html {
   color-scheme: dark light;
 }
 
+:root {
+  color-scheme: only light;
+}
+
 a {
   color: #222831;
   text-decoration: none;

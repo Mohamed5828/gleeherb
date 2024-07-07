@@ -16,6 +16,7 @@ public class UserOrderDTO {
     private String title;
     private String quantity;
     private String date;
+    private String price;
     private String total;
     private OrderStatus orderStatus;
 
@@ -24,9 +25,11 @@ public class UserOrderDTO {
         return "UserOrderDTO{" +
                 "image='" + image + '\'' +
                 ", title='" + title + '\'' +
-                ", quantity=" + quantity +
+                ", quantity='" + quantity + '\'' +
                 ", date='" + date + '\'' +
+                ", price='" + price + '\'' +
                 ", total='" + total + '\'' +
+                ", orderStatus=" + orderStatus +
                 '}';
     }
 }

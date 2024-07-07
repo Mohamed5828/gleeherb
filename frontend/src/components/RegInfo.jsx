@@ -73,7 +73,7 @@ function RegInfo() {
     }
   };
   return (
-    <div className="post-submitted-card ">
+    <div className="post-submitted-card mt-32">
       <form onSubmit={handleSubmit} className="form-container">
         <input
           className="form-input"
