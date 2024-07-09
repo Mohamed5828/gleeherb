@@ -24,7 +24,7 @@ Glee Herb is a full-fledged e-commerce platform that showcases my expertise in f
 - Product Display <br />
   ![Product Display](./screenshots/product-page.png)
 - Shopping Cart <br />
-  ![Shopping Cart](./screenshots/cart1.jpg)
+  ![Shopping Cart](./screenshots/cart.jpg)
 - Checkout Page <br />
   ![Checkout Page](./screenshots/intial-payment.jpg)
 - Payment Page <br />
