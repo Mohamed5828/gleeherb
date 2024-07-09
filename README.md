@@ -6,14 +6,6 @@
 
 Glee Herb is a full-fledged e-commerce platform that showcases my expertise in full-stack development. The site is built using Java Spring Boot for the backend, MySQL for database management, and React for the frontend. Key features include:
 
-- Product display
-- Shopping cart
-- User authentication via JWT
-- Local storage for guest users' carts
-- Personalized user dashboards for order management
-- Integration with Paymob API for secure payments
-- Discounts at checkout
-
 ## Features
 
 - **User Authentication**: Secure login and signup functionality with JWT.
@@ -25,20 +17,22 @@ Glee Herb is a full-fledged e-commerce platform that showcases my expertise in f
 
 ## Screenshots
 
-*Add your screenshots here to visually represent the features described above.*
-
-- User Fetched Data
-![User Fetched Data](./screenshots/my-info.jpg)
+- Database Tables
+  ![Database Tables](./screenshots/Screenshot%202024-07-09%20092508.jpg)
+- Authentication Process
+  ![Authentication Process](./screenshots/GleeHerb.png)
 - Product Display
-![Product Display](./screenshots/product-page.png)
+  ![Product Display](./screenshots/product-page.png)
 - Shopping Cart
-![Shopping Cart](./screenshots/cart.jpg)
+  ![Shopping Cart](./screenshots/cart.jpg)
 - Checkout Page
-![Checkout Page](./screenshots/intial-payment.jpg)
+  ![Checkout Page](./screenshots/intial-payment.jpg)
 - Payment Page
-![Payment Page](./screenshots/final-payment.jpg)
+  ![Payment Page](./screenshots/final-payment.jpg)
 - Order Management Dashboard
-![Order Management Dashboard](./screenshots/my-orders.jpg)
+  ![Order Management Dashboard](./screenshots/my-orders.jpg)
+- User Fetched Data
+  ![User Fetched Data](./screenshots/my-info.jpg)
 
 ## Getting Started
 
@@ -50,15 +44,16 @@ Glee Herb is a full-fledged e-commerce platform that showcases my expertise in f
 
 ### Installation
 
-   git clone https://github.com/Mohamed5828/gleeherb.git
-   cd gleeherb/backend
-    ./mvnw clean install
-    ./mvnw spring-boot:run
-   cd ../frontend
-   npm install
-   npm start
+git clone https://github.com/Mohamed5828/gleeherb.git
+cd gleeherb/backend
+./mvnw clean install
+./mvnw spring-boot:run
+cd ../frontend
+npm install
+npm start
 
 ### Paymob Integration
+
 aymob integration involves making three API calls, each with specific data objects. Detailed instructions on integrating Paymob are available in the official Paymob documentation.
 
 ## Project Structure
@@ -80,12 +75,8 @@ aymob integration involves making three API calls, each with specific data objec
 
 Feel free to fork the project and submit pull requests. For major changes, please open an issue to discuss what you would like to change.
 
-## License
-
-Distributed under the MIT License. See LICENSE for more information.
-
 ## Contact
 
-Your Name - [mohamed.ahmed5828@gmail.com](mailto:mohamed.ahmed5828@gmail.com)
+[mohamed.ahmed5828@gmail.com](mailto:mohamed.ahmed5828@gmail.com)
 
 Project Link: [https://github.com/Mohamed5828/gleeherb.git](https://github.com/Mohamed5828/gleeherb.git)
