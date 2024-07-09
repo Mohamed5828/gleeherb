@@ -18,9 +18,9 @@ Glee Herb is a full-fledged e-commerce platform that showcases my expertise in f
 ## Screenshots
 
 - Database Tables
-  ![Database Tables](./screenshots/Screenshot%202024-07-09%20092508.jpg)
-- Authentication Process
   ![Authentication Process](./screenshots/GleeHerb.png)
+- Authentication Process
+  ![Database Tables](./screenshots/backend.png)
 - Product Display
   ![Product Display](./screenshots/product-page.png)
 - Shopping Cart
